@@ -1,0 +1,828 @@
+NEW RUN________________________________________
+positive data: [[8.53553389]]
+positive utility: 10.0
+____iterstion: 0
+positive data: [[8.53553389]]
+positive support: [1.]
+classifires probs: [1.]
+BR point: [1.4644661]
+BR value: 9.999999998021366
+BR point: [1.4644661]
+BR value: 9.999999998021366
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [1.4644661]
+3
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+classifires probs: [1.]
+____iterstion: 1
+positive data: [[8.53553389]]
+positive support: [1.]
+classifires probs: [-2.63694171e-11  1.00000000e+00]
+BR point: [1.46446608]
+BR value: 10.000000000232056
+BR point: [1.46446608]
+BR value: 10.000000000232056
+Points utilities = [[-2.63694171e-10]]
+new point utility = 10.000000000232056
+new point = [1.46446608]
+point added
+3
+classifires probs: [-2.63694171e-11  1.00000000e+00]
+____iterstion: 2
+positive data: [[8.53553389 1.46446608]]
+positive support: [1.43684128e-10 1.00000000e+00]
+classifires probs: [0.88406383 0.11593617]
+BR point: [1.46446609]
+BR value: 9.99999999651659
+BR point: [1.46446609]
+BR value: 9.99999999651659
+Points utilities = [[ 8.84063832 10.        ]]
+new point utility = 9.99999999651659
+new point = [1.46446609]
+3
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [10.00000002 10.00000002]
+new classifier utility = [0.]
+classifier added
+classifires probs: [0.88406383 0.11593617]
+____iterstion: 3
+positive data: [[8.53553389 1.46446608]]
+positive support: [1.21416844e-09 1.00000000e+00]
+classifires probs: [0.39436758 0.50563241 0.1       ]
+BR point: [1.37330162]
+BR value: 9.972714739170447
+BR point: [1.37330162]
+BR value: 9.972714739170447
+Points utilities = [[3.94367585 8.99999997]]
+new point utility = 9.972714739170447
+new point = [1.37330162]
+point added
+3
+classifires probs: [0.39436758 0.50563241 0.1       ]
+____iterstion: 4
+positive data: [[8.53553389 1.46446608 1.37330162]]
+positive support: [5.38057295e-10 6.39780042e-09 1.00000001e+00]
+classifires probs: [0.86638482 0.08040756 0.05320762]
+BR point: [1.37330251]
+BR value: 9.97271527294205
+BR point: [1.37330251]
+BR value: 9.97271527294205
+Points utilities = [[8.66384817 9.46792379 9.97271473]]
+new point utility = 9.97271527294205
+new point = [1.37330251]
+3
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.972714798123455
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [9.97271487 9.97271486 9.9727148 ]
+new classifier utility = [0.]
+classifier added
+classifires probs: [0.86638482 0.08040756 0.05320762]
+____iterstion: 5
+positive data: [[8.53553389 1.46446608 1.37330162]]
+positive support: [1.40214393e-09 9.99999725e-01 2.78193854e-07]
+classifires probs: [0.45110407 0.44889592 0.00151424 0.09848577]
+BR point: [1.32785417]
+BR value: 9.937949084737214
+BR point: [1.32785417]
+BR value: 9.937949084737214
+Points utilities = [[4.51104072 8.99999996 8.99054428]]
+new point utility = 9.937949084737214
+new point = [1.32785417]
+point added
+3
+classifires probs: [0.45110407 0.44889592 0.00151424 0.09848577]
+____iterstion: 6
+positive data: [[8.53553389 1.46446608 1.37330162 1.32785417]]
+positive support: [1.67446523e-09 4.20113028e-09 1.93937942e-08 1.00000001e+00]
+classifires probs: [0.85491936 0.07042894 0.03070059 0.04395111]
+BR point: [1.32785813]
+BR value: 9.937952729982067
+BR point: [1.32785813]
+BR value: 9.937952729982067
+Points utilities = [[8.54919357 9.25348301 9.53440287 9.93794906]]
+new point utility = 9.937952729982067
+new point = [1.32785813]
+3
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.937949221224171
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [9.93794947 9.93794946 9.93794941 9.93794922]
+new classifier utility = [0.]
+classifier added
+classifires probs: [0.85491936 0.07042894 0.03070059 0.04395111]
+____iterstion: 7
+positive data: [[8.53553389 1.46446608 1.37330162 1.32785417]]
+positive support: [2.93135935e-10 2.48834728e-01 9.26683255e-09 7.51165265e-01]
+classifires probs: [0.84418695 0.12626852 0.0009667  0.00509266 0.02348516]
+BR point: [1.26175896]
+BR value: 9.860864564885865
+BR point: [1.26175896]
+BR value: 9.860864564885865
+Points utilities = [[8.44186952 9.70455476 9.6877163  9.70455477]]
+new point utility = 9.860864564885865
+new point = [1.26175896]
+point added
+3
+classifires probs: [0.84418695 0.12626852 0.0009667  0.00509266 0.02348516]
+____iterstion: 8
+positive data: [[8.53553389 1.46446608 1.37330162 1.32785417 1.26175896]]
+positive support: [1.96417262e-10 4.12324991e-10 6.24324828e-10 2.25688442e-09
+ 1.00000000e+00]
+classifires probs: [0.90051218 0.05402878 0.01393847 0.01984346 0.01167711]
+BR point: [1.26176156]
+BR value: 9.860868229457207
+BR point: [1.26176156]
+BR value: 9.860868229457207
+Points utilities = [[9.00512176 9.54540959 9.65836909 9.82190259 9.86086456]]
+new point utility = 9.860868229457207
+new point = [1.26176156]
+3
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.86086456122892
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [9.8608646  9.86086459 9.86086459 9.86086458 9.86086456]
+new classifier utility = [6.08742253e-09]
+classifier added
+classifires probs: [0.90051218 0.05402878 0.01393847 0.01984346 0.01167711]
+____iterstion: 9
+positive data: [[8.53553389 1.46446608 1.37330162 1.32785417 1.26175896]]
+positive support: [4.86551470e-10 2.48834737e-01 9.68595370e-10 7.51165261e-01
+ 4.47828162e-09]
+classifires probs: [0.79715061 0.15210574 0.00381936 0.02343913 0.00228604 0.02119912]
+BR point: [1.46446608]
+BR value: 9.704554761139914
+BR point: [1.46446608]
+BR value: 9.704554761139914
+Points utilities = [[8.18349734 9.70455476 9.50475217 9.70455477 9.65182289]]
+new point utility = 9.704554761139914
+new point = [1.46446608]
+3
+classifires probs: [0.79715061 0.15210574 0.00381936 0.02343913 0.00228604 0.02119912]
+Objective = 9.704554768123158
+Number of iterations = 10
+Support of attacker = 2
+Support of classifier = 6
+Size of game = (5, 6)

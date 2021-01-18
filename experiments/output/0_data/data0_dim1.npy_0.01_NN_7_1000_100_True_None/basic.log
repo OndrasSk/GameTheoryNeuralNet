@@ -1,0 +1,4027 @@
+NEW RUN________________________________________
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.4123 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0069 s
+plot time = 0.0000 s
+BR time = 0.0146 s
+Train time = 0.2146 s
+Matrix update time = 0.0006 s
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.321449584553092
+new point = [4.32144958]
+point added
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0088 s
+plot time = 0.0000 s
+BR time = 0.1651 s
+Train time = 0.2151 s
+Matrix update time = 0.0014 s
+Points utilities = [[3.84979957 4.32144958]]
+new point utility = 4.321451826639823
+new point = [4.32145183]
+classifier utilities = [4.32144959 4.32144959]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.321449583599957
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.4123 s
+NFG time = 0.0104 s
+plot time = 0.0000 s
+BR time = 0.2550 s
+Train time = 0.4288 s
+Matrix update time = 0.0019 s
+Points utilities = [[-1.18006374e-09 -1.17366004e-09]]
+new point utility = 2.675505134032345
+new point = [2.67550513]
+point added
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.216006653249645e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0121 s
+plot time = 0.0000 s
+BR time = 0.4479 s
+Train time = 0.4293 s
+Matrix update time = 0.0028 s
+Points utilities = [[2.29196845 2.32795129 2.67550513]]
+new point utility = 2.6754226282240894
+new point = [2.67542263]
+classifier utilities = [2.67550515 2.67550514 2.67550514]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 2.67550513271761
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.4123 s
+NFG time = 0.0137 s
+plot time = 0.0000 s
+BR time = 0.5573 s
+Train time = 0.6415 s
+Matrix update time = 0.0033 s
+Points utilities = [[-1.78497026e-09 -1.81017762e-09 -1.74332844e-09]]
+new point utility = 2.045568167397593
+new point = [2.04556817]
+point added
+---------------------------- iteration: 6
+Size of game = (4, 4)
+Objective = -1.7930662359596715e-09
+Support of attacker = 3
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0154 s
+plot time = 0.0000 s
+BR time = 0.8181 s
+Train time = 0.6419 s
+Matrix update time = 0.0042 s
+Points utilities = [[1.72043698 1.72349261 1.76273758 2.04556817]]
+new point utility = 2.045536211859747
+new point = [2.04553621]
+classifier utilities = [2.04556818 2.04556817 2.04556817 2.04556817]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 7
+Size of game = (4, 5)
+Objective = 2.045568165904411
+Support of attacker = 1
+Support of classifier = 4
+init time = 0.4123 s
+NFG time = 0.0172 s
+plot time = 0.0000 s
+BR time = 0.9829 s
+Train time = 0.8551 s
+Matrix update time = 0.0048 s
+Points utilities = [[-1.85895865e-09 -1.87103617e-09 -1.85667555e-09 -1.81830540e-09]]
+new point utility = 1.8349081014776385
+new point = [1.8349081]
+point added
+---------------------------- iteration: 8
+Size of game = (5, 5)
+Objective = -1.7134419418504318e-09
+Support of attacker = 4
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0188 s
+plot time = 0.0000 s
+BR time = 1.2933 s
+Train time = 0.8555 s
+Matrix update time = 0.0058 s
+Points utilities = [[1.543273   1.53721078 1.52660024 1.58146584 1.8349081 ]]
+new point utility = 1.834521668450634
+new point = [1.83452167]
+classifier utilities = [1.83490812 1.83490811 1.83490811 1.8349081  1.8349081 ]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 9
+Size of game = (5, 6)
+Objective = 1.8349081000823304
+Support of attacker = 1
+Support of classifier = 5
+init time = 0.4123 s
+NFG time = 0.0206 s
+plot time = 0.0000 s
+BR time = 1.5148 s
+Train time = 1.0679 s
+Matrix update time = 0.0064 s
+Points utilities = [[-1.91207024e-09 -1.73689225e-09 -1.71349560e-09 -1.73107465e-09
+  -1.72007242e-09]]
+new point utility = 1.814430987230553
+new point = [1.81443099]
+point added
+---------------------------- iteration: 10
+Size of game = (6, 6)
+Objective = -1.2902965888970348e-09
+Support of attacker = 5
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0223 s
+plot time = 0.0000 s
+BR time = 1.8918 s
+Train time = 1.0684 s
+Matrix update time = 0.0076 s
+Points utilities = [[1.53982608 1.52963839 1.49176279 1.47974211 1.57907649 1.81443099]]
+new point utility = 1.8144314743768666
+new point = [1.81443148]
+classifier utilities = [1.81443101 1.814431   1.81443099 1.81443099 1.81443099 1.81443099]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 11
+Size of game = (6, 7)
+Objective = 1.814430985886269
+Support of attacker = 1
+Support of classifier = 6
+init time = 0.4123 s
+NFG time = 0.0240 s
+plot time = 0.0000 s
+BR time = 2.1253 s
+Train time = 1.4941 s
+Matrix update time = 0.0081 s
+Points utilities = [[-5.21908443e-09 -3.46308775e-09 -3.23861963e-09 -3.33194481e-09
+  -3.68982295e-09 -4.02268475e-09]]
+new point utility = 1.7191581521558645
+new point = [1.71915815]
+point added
+---------------------------- iteration: 12
+Size of game = (7, 7)
+Objective = -2.59795423037974e-09
+Support of attacker = 6
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0257 s
+plot time = 0.0000 s
+BR time = 2.5201 s
+Train time = 1.4945 s
+Matrix update time = 0.0093 s
+Points utilities = [[1.46448479 1.45173703 1.39684256 1.35428605 1.41138404 1.56607172
+  1.71915815]]
+new point utility = 1.7190475620047936
+new point = [1.71904756]
+classifier utilities = [1.71915818 1.71915817 1.71915816 1.71915816 1.71915816 1.71915816
+ 1.71915815]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 13
+Size of game = (7, 8)
+Objective = 1.7191581506227966
+Support of attacker = 1
+Support of classifier = 7
+init time = 0.4123 s
+NFG time = 0.0273 s
+plot time = 0.0000 s
+BR time = 2.7934 s
+Train time = 1.9197 s
+Matrix update time = 0.0099 s
+Points utilities = [[-9.01916418e-09 -6.06130436e-09 -6.18465892e-09 -6.83349675e-09
+  -8.11049081e-09 -9.91721517e-09 -1.01153618e-08]]
+new point utility = 1.713163023070433
+new point = [1.71316302]
+point added
+---------------------------- iteration: 14
+Size of game = (8, 8)
+Objective = -5.45544590456378e-09
+Support of attacker = 7
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0292 s
+plot time = 0.0000 s
+BR time = 3.3147 s
+Train time = 1.9202 s
+Matrix update time = 0.0111 s
+Points utilities = [[1.46998035 1.45651628 1.38867261 1.3261171  1.36320362 1.49088094
+  1.55294258 1.71316302]]
+new point utility = 1.7129181552950028
+new point = [1.71291816]
+classifier utilities = [1.71316305 1.71316304 1.71316303 1.71316303 1.71316303 1.71316303
+ 1.71316303 1.71316303]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 15
+Size of game = (8, 9)
+Objective = 1.7131630215266334
+Support of attacker = 1
+Support of classifier = 8
+init time = 0.4123 s
+NFG time = 0.0309 s
+plot time = 0.0000 s
+BR time = 3.5833 s
+Train time = 2.5645 s
+Matrix update time = 0.0116 s
+Points utilities = [[-1.03668274e-10 -6.88886037e-11 -7.12591286e-11 -7.96493420e-11
+  -9.53805703e-11 -1.18784112e-10 -1.34406298e-10 -1.36991450e-10]]
+new point utility = 1.6618408137112903
+new point = [1.66184081]
+point added
+---------------------------- iteration: 16
+Size of game = (9, 9)
+Objective = -6.548805804688406e-11
+Support of attacker = 8
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0330 s
+plot time = 0.0000 s
+BR time = 4.2389 s
+Train time = 2.5649 s
+Matrix update time = 0.0130 s
+Points utilities = [[1.43145644 1.41730537 1.33928381 1.26651437 1.29166251 1.40166644
+  1.43906854 1.54433358 1.66184081]]
+new point utility = 1.66129238130376
+new point = [1.66129238]
+classifier utilities = [1.66184084 1.66184083 1.66184083 1.66184083 1.66184082 1.66184082
+ 1.66184082 1.66184082 1.66184082]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 17
+Size of game = (9, 10)
+Objective = 1.6618408120228048
+Support of attacker = 1
+Support of classifier = 9
+init time = 0.4123 s
+NFG time = 0.0348 s
+plot time = 0.0000 s
+BR time = 4.4874 s
+Train time = 3.1999 s
+Matrix update time = 0.0135 s
+Points utilities = [[-1.21979619e-10 -8.09737836e-11 -8.40740606e-11 -9.44366873e-11
+  -1.13478956e-10 -1.42231368e-10 -1.64867217e-10 -1.89643346e-10
+  -1.79054035e-10]]
+new point utility = 1.6594657748114119
+new point = [1.65946577]
+point added
+---------------------------- iteration: 18
+Size of game = (10, 10)
+Objective = -8.130340413716794e-11
+Support of attacker = 9
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0367 s
+plot time = 0.0000 s
+BR time = 5.2158 s
+Train time = 3.2003 s
+Matrix update time = 0.0150 s
+Points utilities = [[1.43718112 1.42330225 1.33583493 1.2539314  1.27112764 1.37154061
+  1.39673354 1.48303087 1.53599318 1.65946577]]
+new point utility = 1.6594857655962816
+new point = [1.65948577]
+classifier utilities = [1.65946581 1.65946579 1.65946579 1.65946579 1.65946579 1.65946579
+ 1.65946579 1.65946578 1.65946578 1.65946578]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 19
+Size of game = (10, 11)
+Objective = 1.659465773204028
+Support of attacker = 1
+Support of classifier = 10
+init time = 0.4123 s
+NFG time = 0.0386 s
+plot time = 0.0000 s
+BR time = 5.6264 s
+Train time = 4.0460 s
+Matrix update time = 0.0155 s
+Points utilities = [[-1.28478761e-10 -8.38182854e-11 -8.56142659e-11 -9.53458134e-11
+  -1.13962705e-10 -1.42888520e-10 -1.67353336e-10 -1.98883604e-10
+  -2.17011824e-10 -2.03339245e-10]]
+new point utility = 1.6272471494386567
+new point = [1.62724715]
+point added
+---------------------------- iteration: 20
+Size of game = (11, 11)
+Objective = -8.546562431230818e-11
+Support of attacker = 10
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0405 s
+plot time = 0.0000 s
+BR time = 6.3283 s
+Train time = 4.0464 s
+Matrix update time = 0.0170 s
+Points utilities = [[1.41395497 1.40030902 1.30592013 1.21861569 1.23044314 1.32277251
+  1.34045672 1.4148596  1.44960037 1.5298016  1.62724715]]
+new point utility = 1.6272385139936523
+new point = [1.62723852]
+classifier utilities = [1.62724718 1.62724717 1.62724717 1.62724717 1.62724716 1.62724716
+ 1.62724716 1.62724716 1.62724716 1.62724716 1.62724715]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 21
+Size of game = (11, 12)
+Objective = 1.6272471477478097
+Support of attacker = 1
+Support of classifier = 11
+init time = 0.4123 s
+NFG time = 0.0421 s
+plot time = 0.0000 s
+BR time = 6.5511 s
+Train time = 4.8997 s
+Matrix update time = 0.0176 s
+Points utilities = [[-1.36298975e-10 -8.90174758e-11 -8.90575076e-11 -9.77964824e-11
+  -1.15531081e-10 -1.43912121e-10 -1.69168440e-10 -2.04099674e-10
+  -2.32060963e-10 -2.54543542e-10 -2.26202940e-10]]
+new point utility = 1.6258042470489016
+new point = [1.62580425]
+point added
+---------------------------- iteration: 22
+Size of game = (12, 12)
+Objective = -9.18815100847695e-11
+Support of attacker = 11
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0441 s
+plot time = 0.0000 s
+BR time = 7.3173 s
+Train time = 4.9002 s
+Matrix update time = 0.0192 s
+Points utilities = [[1.41861045 1.40578136 1.3051114  1.21163504 1.21934345 1.30685563
+  1.31926971 1.38649219 1.41177515 1.47692699 1.52384734 1.62580425]]
+new point utility = 1.6254160133787239
+new point = [1.62541601]
+classifier utilities = [1.62580429 1.62580427 1.62580427 1.62580427 1.62580426 1.62580426
+ 1.62580426 1.62580426 1.62580426 1.62580426 1.62580426 1.62580425]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 23
+Size of game = (12, 13)
+Objective = 1.6258042453256523
+Support of attacker = 1
+Support of classifier = 12
+init time = 0.4123 s
+NFG time = 0.0459 s
+plot time = 0.0000 s
+BR time = 7.6431 s
+Train time = 5.9730 s
+Matrix update time = 0.0198 s
+Points utilities = [[-1.37156800e-10 -8.89722008e-11 -8.73245468e-11 -9.44901151e-11
+  -1.10134966e-10 -1.35774331e-10 -1.59292300e-10 -1.93641951e-10
+  -2.24638941e-10 -2.58147587e-10 -2.71862993e-10 -2.39150886e-10]]
+new point utility = 1.6037835360713715
+new point = [1.60378354]
+point added
+---------------------------- iteration: 24
+Size of game = (13, 13)
+Objective = -9.143371641956506e-11
+Support of attacker = 12
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0478 s
+plot time = 0.0000 s
+BR time = 8.5711 s
+Train time = 5.9735 s
+Matrix update time = 0.0214 s
+Points utilities = [[1.40346207 1.39138309 1.28761948 1.18939666 1.19380653 1.27671323
+  1.28547182 1.34691611 1.36599105 1.42184943 1.45398966 1.51936351
+  1.60378353]]
+new point utility = 1.6037843143683628
+new point = [1.60378432]
+classifier utilities = [1.60378359 1.60378357 1.60378357 1.60378356 1.60378356 1.60378356
+ 1.60378356 1.60378356 1.60378355 1.60378355 1.60378355 1.60378355
+ 1.60378354]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 25
+Size of game = (13, 14)
+Objective = 1.6037835339197144
+Support of attacker = 1
+Support of classifier = 13
+init time = 0.4123 s
+NFG time = 0.0496 s
+plot time = 0.0000 s
+BR time = 8.9536 s
+Train time = 7.0291 s
+Matrix update time = 0.0220 s
+Points utilities = [[-1.38168978e-10 -9.07127640e-11 -8.73691105e-11 -9.29997322e-11
+  -1.06667108e-10 -1.29514376e-10 -1.50641393e-10 -1.83173048e-10
+  -2.14938432e-10 -2.52885955e-10 -2.80405892e-10 -2.94482527e-10
+  -2.48931439e-10]]
+new point utility = 1.602672321365485
+new point = [1.60267232]
+point added
+---------------------------- iteration: 26
+Size of game = (14, 14)
+Objective = -9.222796090456466e-11
+Support of attacker = 13
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0516 s
+plot time = 0.0000 s
+BR time = 9.9454 s
+Train time = 7.0295 s
+Matrix update time = 0.0236 s
+Points utilities = [[1.40733686 1.39627353 1.28974423 1.18612586 1.18765035 1.26769363
+  1.27365138 1.33125248 1.34583068 1.3956945  1.41990138 1.47256471
+  1.51515992 1.60267232]]
+new point utility = 1.60240242238415
+new point = [1.60240242]
+classifier utilities = [1.60267238 1.60267236 1.60267236 1.60267235 1.60267235 1.60267235
+ 1.60267235 1.60267235 1.60267234 1.60267234 1.60267234 1.60267234
+ 1.60267234 1.60267233]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 27
+Size of game = (14, 15)
+Objective = 1.602672318947873
+Support of attacker = 1
+Support of classifier = 14
+init time = 0.4123 s
+NFG time = 0.0535 s
+plot time = 0.0000 s
+BR time = 10.3294 s
+Train time = 8.0781 s
+Matrix update time = 0.0242 s
+Points utilities = [[-1.38399301e-10 -9.06463898e-11 -8.63797086e-11 -9.10307169e-11
+  -1.03242015e-10 -1.23789298e-10 -1.42606119e-10 -1.72729241e-10
+  -2.03810813e-10 -2.43386428e-10 -2.77112464e-10 -3.07158106e-10
+  -3.11639163e-10 -2.60218487e-10]]
+new point utility = 1.6026685098597073
+new point = [1.60266851]
+point added
+---------------------------- iteration: 28
+Size of game = (15, 15)
+Objective = -9.051323545263683e-11
+Support of attacker = 14
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0556 s
+plot time = 0.0000 s
+BR time = 11.4423 s
+Train time = 8.0786 s
+Matrix update time = 0.0260 s
+Points utilities = [[1.41107895 1.40068712 1.29088392 1.18218136 1.18122828 1.25895097
+  1.26289922 1.31767338 1.32898279 1.37435094 1.39309161 1.43803481
+  1.46773404 1.52236349 1.60266851]]
+new point utility = 1.6022574222265482
+new point = [1.60225742]
+classifier utilities = [1.60266858 1.60266856 1.60266855 1.60266855 1.60266855 1.60266855
+ 1.60266854 1.60266854 1.60266854 1.60266854 1.60266853 1.60266853
+ 1.60266853 1.60266853 1.60266852]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 29
+Size of game = (15, 16)
+Objective = 1.6026685071028188
+Support of attacker = 1
+Support of classifier = 15
+init time = 0.4123 s
+NFG time = 0.0578 s
+plot time = 0.0000 s
+BR time = 11.7845 s
+Train time = 9.3368 s
+Matrix update time = 0.0267 s
+Points utilities = [[-1.39298888e-10 -9.04843184e-11 -8.57586751e-11 -8.98932931e-11
+  -1.01199166e-10 -1.20135107e-10 -1.37101960e-10 -1.65018812e-10
+  -1.94969975e-10 -2.35036874e-10 -2.72422637e-10 -3.10640565e-10
+  -3.33527416e-10 -3.35842737e-10 -2.73654394e-10]]
+new point utility = 1.5868320381236787
+new point = [1.58683204]
+point added
+---------------------------- iteration: 30
+Size of game = (16, 16)
+Objective = -8.854442127249413e-11
+Support of attacker = 15
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0599 s
+plot time = 0.0000 s
+BR time = 12.7796 s
+Train time = 9.3372 s
+Matrix update time = 0.0285 s
+Points utilities = [[1.40029658 1.39053705 1.28049123 1.16813521 1.16480816 1.23973594
+  1.2420734  1.29425541 1.30323294 1.34501908 1.35981506 1.39930112
+  1.4220252  1.46560315 1.51737164 1.58683204]]
+new point utility = 1.584691865797017
+new point = [1.58469187]
+classifier utilities = [1.58683213 1.5868321  1.58683209 1.58683209 1.58683209 1.58683208
+ 1.58683208 1.58683208 1.58683207 1.58683207 1.58683207 1.58683207
+ 1.58683207 1.58683207 1.58683206 1.58683205]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 31
+Size of game = (16, 17)
+Objective = 1.5868320348538985
+Support of attacker = 1
+Support of classifier = 16
+init time = 0.4123 s
+NFG time = 0.0617 s
+plot time = 0.0000 s
+BR time = 13.2729 s
+Train time = 10.6074 s
+Matrix update time = 0.0291 s
+Points utilities = [[-1.41822000e-10 -9.24986056e-11 -8.73487225e-11 -9.12490255e-11
+  -1.02177882e-10 -1.20219345e-10 -1.35725043e-10 -1.61787070e-10
+  -1.90536603e-10 -2.30689925e-10 -2.70661671e-10 -3.14623601e-10
+  -3.47927154e-10 -3.71284926e-10 -3.66866705e-10 -2.89092824e-10]]
+new point utility = 1.5858606823032397
+new point = [1.58586068]
+point added
+---------------------------- iteration: 32
+Size of game = (17, 17)
+Objective = -8.842283864457438e-11
+Support of attacker = 16
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0637 s
+plot time = 0.0001 s
+BR time = 14.2672 s
+Train time = 10.6079 s
+Matrix update time = 0.0310 s
+Points utilities = [[1.40333256 1.39448955 1.28464502 1.16789135 1.16229177 1.23536726
+  1.236213   1.28661914 1.29374444 1.33302414 1.34486956 1.38048607
+  1.39857719 1.43591296 1.47772524 1.51320805 1.58586068]]
+new point utility = 1.584090327468467
+new point = [1.58409033]
+classifier utilities = [1.58586078 1.58586076 1.58586075 1.58586074 1.58586074 1.58586074
+ 1.58586073 1.58586073 1.58586073 1.58586072 1.58586072 1.58586072
+ 1.58586072 1.58586072 1.58586072 1.58586071 1.5858607 ]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 33
+Size of game = (17, 18)
+Objective = 1.585860678755811
+Support of attacker = 1
+Support of classifier = 17
+init time = 0.4123 s
+NFG time = 0.0656 s
+plot time = 0.0001 s
+BR time = 14.6913 s
+Train time = 11.8790 s
+Matrix update time = 0.0317 s
+Points utilities = [[-1.45358922e-10 -9.52885606e-11 -8.97713746e-11 -9.35562049e-11
+  -1.04409794e-10 -1.22060189e-10 -1.36428293e-10 -1.60737131e-10
+  -1.87739728e-10 -2.26752807e-10 -2.67306414e-10 -3.14221526e-10
+  -3.53788345e-10 -3.88428481e-10 -4.06776048e-10 -3.90314301e-10
+  -3.04000296e-10]]
+new point utility = 1.5858401944612843
+new point = [1.58584019]
+point added
+---------------------------- iteration: 34
+Size of game = (18, 18)
+Objective = -8.601370970010314e-11
+Support of attacker = 17
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0678 s
+plot time = 0.0001 s
+BR time = 15.7467 s
+Train time = 11.8794 s
+Matrix update time = 0.0337 s
+Points utilities = [[1.40642582 1.39820451 1.28775881 1.1669551  1.15933152 1.23077994
+  1.23041125 1.27939181 1.28514556 1.3225738  1.33229682 1.36502311
+  1.37965356 1.41252631 1.4482452  1.47325982 1.5180935  1.58584019]]
+new point utility = 1.5858513403890175
+new point = [1.58585134]
+classifier utilities = [1.58584031 1.58584028 1.58584027 1.58584026 1.58584026 1.58584026
+ 1.58584025 1.58584025 1.58584025 1.58584024 1.58584024 1.58584024
+ 1.58584024 1.58584024 1.58584024 1.58584023 1.58584023 1.58584021]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 35
+Size of game = (18, 19)
+Objective = 1.5858401906543704
+Support of attacker = 1
+Support of classifier = 18
+init time = 0.4123 s
+NFG time = 0.0696 s
+plot time = 0.0001 s
+BR time = 16.4039 s
+Train time = 13.3629 s
+Matrix update time = 0.0343 s
+Points utilities = [[-1.53117908e-10 -1.01800527e-10 -9.56263459e-11 -9.93033926e-11
+  -1.10455798e-10 -1.28449415e-10 -1.42221041e-10 -1.65444864e-10
+  -1.90891897e-10 -2.28634963e-10 -2.68907620e-10 -3.17281341e-10
+  -3.60752448e-10 -4.02627070e-10 -4.33416012e-10 -4.41029861e-10
+  -4.19890162e-10 -3.21034899e-10]]
+new point utility = 1.57405554734615
+new point = [1.57405555]
+point added
+---------------------------- iteration: 36
+Size of game = (19, 19)
+Objective = -8.269224938191624e-11
+Support of attacker = 18
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0717 s
+plot time = 0.0001 s
+BR time = 17.7372 s
+Train time = 13.3634 s
+Matrix update time = 0.0364 s
+Points utilities = [[1.39883057 1.39119053 1.2823792  1.15870949 1.14906589 1.21839021
+  1.21684239 1.26422018 1.26886986 1.30468527 1.31290119 1.3433954
+  1.35548933 1.38491498 1.41628892 1.43554783 1.4711347  1.51427363
+  1.57405554]]
+new point utility = 1.5740629283940373
+new point = [1.57406293]
+classifier utilities = [1.57405568 1.57405564 1.57405563 1.57405563 1.57405562 1.57405562
+ 1.57405562 1.57405561 1.57405561 1.5740556  1.5740556  1.5740556
+ 1.5740556  1.5740556  1.5740556  1.5740556  1.57405559 1.57405559
+ 1.57405557]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 37
+Size of game = (19, 20)
+Objective = 1.5740555432337666
+Support of attacker = 1
+Support of classifier = 19
+init time = 0.4123 s
+NFG time = 0.0736 s
+plot time = 0.0001 s
+BR time = 18.3799 s
+Train time = 14.8581 s
+Matrix update time = 0.0370 s
+Points utilities = [[-1.66607532e-10 -1.13998061e-10 -1.06751873e-10 -1.10409051e-10
+  -1.22460043e-10 -1.41826657e-10 -1.55661943e-10 -1.78780487e-10
+  -2.03338664e-10 -2.40559318e-10 -2.80810885e-10 -3.30579572e-10
+  -3.77099905e-10 -4.24567954e-10 -4.64155853e-10 -4.85364598e-10
+  -4.90381859e-10 -4.60470736e-10 -3.43834414e-10]]
+new point utility = 1.5731969666413876
+new point = [1.57319697]
+point added
+---------------------------- iteration: 38
+Size of game = (20, 20)
+Objective = -8.008555988167601e-11
+Support of attacker = 19
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0759 s
+plot time = 0.0001 s
+BR time = 19.9196 s
+Train time = 14.8587 s
+Matrix update time = 0.0393 s
+Points utilities = [[1.40150215 1.39469097 1.28809744 1.1608024  1.14912004 1.21693415
+  1.21416603 1.26034654 1.26394135 1.29853697 1.30550985 1.33439327
+  1.34458923 1.37150476 1.39972556 1.41511607 1.44543988 1.48007397
+  1.51107356 1.57319696]]
+new point utility = 1.5732035266227768
+new point = [1.57320353]
+classifier utilities = [1.57319711 1.57319708 1.57319706 1.57319706 1.57319705 1.57319705
+ 1.57319704 1.57319704 1.57319704 1.57319703 1.57319703 1.57319703
+ 1.57319703 1.57319703 1.57319702 1.57319702 1.57319702 1.57319702
+ 1.57319701 1.57319699]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 39
+Size of game = (20, 21)
+Objective = 1.5731969622769357
+Support of attacker = 1
+Support of classifier = 20
+init time = 0.4123 s
+NFG time = 0.0777 s
+plot time = 0.0001 s
+BR time = 20.4959 s
+Train time = 16.3407 s
+Matrix update time = 0.0403 s
+Points utilities = [[-1.76908680e-10 -1.23616642e-10 -1.15771822e-10 -1.19520547e-10
+  -1.32364717e-10 -1.52893874e-10 -1.66797332e-10 -1.89791679e-10
+  -2.13481537e-10 -2.50013778e-10 -2.89888489e-10 -3.40302866e-10
+  -3.88703105e-10 -4.39960956e-10 -4.85743303e-10 -5.16101316e-10
+  -5.35925609e-10 -5.34280140e-10 -4.91797653e-10 -3.64845993e-10]]
+new point utility = 1.5731671524483617
+new point = [1.57316715]
+point added
+---------------------------- iteration: 40
+Size of game = (21, 21)
+Objective = -7.563454886743363e-11
+Support of attacker = 20
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0797 s
+plot time = 0.0001 s
+BR time = 22.1110 s
+Train time = 16.3411 s
+Matrix update time = 0.0424 s
+Points utilities = [[1.40428683 1.39806517 1.29272788 1.16212603 1.1486051  1.21505293
+  1.21122251 1.25636051 1.25909088 1.29270442 1.29874416 1.32643817
+  1.33528685 1.36037617 1.38623552 1.39872108 1.42528828 1.4547562
+  1.47685638 1.51482453 1.57316715]]
+new point utility = 1.5731676365728229
+new point = [1.57316764]
+classifier utilities = [1.57316731 1.57316727 1.57316726 1.57316725 1.57316725 1.57316725
+ 1.57316724 1.57316724 1.57316723 1.57316723 1.57316722 1.57316722
+ 1.57316722 1.57316722 1.57316722 1.57316722 1.57316722 1.57316721
+ 1.57316721 1.5731672  1.57316718]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 41
+Size of game = (21, 22)
+Objective = 1.5731671477750382
+Support of attacker = 1
+Support of classifier = 21
+init time = 0.4123 s
+NFG time = 0.0815 s
+plot time = 0.0001 s
+BR time = 22.6039 s
+Train time = 18.0370 s
+Matrix update time = 0.0431 s
+Points utilities = [[-1.87234337e-10 -1.33422962e-10 -1.25062275e-10 -1.28925172e-10
+  -1.42586298e-10 -1.64330776e-10 -1.78400036e-10 -2.01467294e-10
+  -2.24505068e-10 -2.60554877e-10 -3.00122602e-10 -3.51060043e-10
+  -4.00864555e-10 -4.54950224e-10 -5.05319915e-10 -5.42310679e-10
+  -5.72077967e-10 -5.86123389e-10 -5.73198530e-10 -5.26117720e-10
+  -3.86016500e-10]]
+new point utility = 1.5641681314062141
+new point = [1.56416813]
+point added
+---------------------------- iteration: 42
+Size of game = (22, 22)
+Objective = -7.036973420653183e-11
+Support of attacker = 21
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0835 s
+plot time = 0.0001 s
+BR time = 24.1278 s
+Train time = 18.0374 s
+Matrix update time = 0.0454 s
+Points utilities = [[1.39891034 1.39321324 1.29057366 1.15772081 1.14239679 1.20708693
+  1.20218273 1.24606022 1.24799537 1.28060344 1.28590377 1.31258236
+  1.32046456 1.34416328 1.36823366 1.37857497 1.40225777 1.42806211
+  1.44522858 1.47524209 1.51200192 1.56416813]]
+new point utility = 1.5641739094947618
+new point = [1.56417391]
+classifier utilities = [1.5641683  1.56416826 1.56416825 1.56416824 1.56416824 1.56416824
+ 1.56416823 1.56416823 1.56416822 1.56416822 1.56416821 1.56416821
+ 1.56416821 1.56416821 1.56416821 1.56416821 1.56416821 1.5641682
+ 1.5641682  1.56416819 1.56416818 1.56416815]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 43
+Size of game = (22, 23)
+Objective = 1.5641681264981369
+Support of attacker = 1
+Support of classifier = 22
+init time = 0.4123 s
+NFG time = 0.0854 s
+plot time = 0.0001 s
+BR time = 24.7626 s
+Train time = 19.7455 s
+Matrix update time = 0.0461 s
+Points utilities = [[-2.02197993e-10 -1.47866503e-10 -1.38629494e-10 -1.42646191e-10
+  -1.57558268e-10 -1.81245275e-10 -1.95874658e-10 -2.19675230e-10
+  -2.42596278e-10 -2.78939223e-10 -3.18838469e-10 -3.70980693e-10
+  -4.22517330e-10 -4.79461764e-10 -5.33888404e-10 -5.76194023e-10
+  -6.13584557e-10 -6.38339942e-10 -6.41590939e-10 -6.26123751e-10
+  -5.70940006e-10 -4.12600936e-10]]
+new point utility = 1.5633737678472432
+new point = [1.56337377]
+point added
+---------------------------- iteration: 44
+Size of game = (23, 23)
+Objective = -6.522057307113864e-11
+Support of attacker = 22
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0878 s
+plot time = 0.0001 s
+BR time = 26.4041 s
+Train time = 19.7460 s
+Matrix update time = 0.0483 s
+Points utilities = [[1.40127905 1.39627884 1.29689861 1.16112188 1.14396121 1.20734779
+  1.20132381 1.24420708 1.24530237 1.27706525 1.28161846 1.30746371
+  1.31451683 1.33717957 1.35996332 1.36872778 1.39030686 1.41344507
+  1.4272969  1.45277969 1.48215598 1.50953321 1.56337376]]
+new point utility = 1.563385802241802
+new point = [1.56338581]
+classifier utilities = [1.56337394 1.56337391 1.56337389 1.56337389 1.56337388 1.56337388
+ 1.56337387 1.56337387 1.56337386 1.56337386 1.56337386 1.56337385
+ 1.56337385 1.56337385 1.56337385 1.56337385 1.56337385 1.56337385
+ 1.56337384 1.56337384 1.56337383 1.56337382 1.5633738 ]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 45
+Size of game = (23, 24)
+Objective = 1.5633737628559725
+Support of attacker = 1
+Support of classifier = 23
+init time = 0.4123 s
+NFG time = 0.0898 s
+plot time = 0.0001 s
+BR time = 27.0952 s
+Train time = 21.4609 s
+Matrix update time = 0.0490 s
+Points utilities = [[-2.18095912e-10 -1.62890172e-10 -1.52669551e-10 -1.56709594e-10
+  -1.72741903e-10 -1.98245546e-10 -2.13384564e-10 -2.37970155e-10
+  -2.60894176e-10 -2.97659110e-10 -3.37947237e-10 -3.91260370e-10
+  -4.44339406e-10 -5.03726138e-10 -5.61436436e-10 -6.07821113e-10
+  -6.50964809e-10 -6.83517932e-10 -6.97356103e-10 -6.99183081e-10
+  -6.77947788e-10 -6.11312095e-10 -4.41116249e-10]]
+new point utility = 1.563331230746089
+new point = [1.56333123]
+point added
+---------------------------- iteration: 46
+Size of game = (24, 24)
+Objective = -5.89416708373122e-11
+Support of attacker = 23
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0923 s
+plot time = 0.0001 s
+BR time = 28.8276 s
+Train time = 21.4614 s
+Matrix update time = 0.0514 s
+Points utilities = [[1.40378786 1.39929426 1.30211697 1.16367127 1.14486077 1.20706924
+  1.20006756 1.2420748  1.24245679 1.27349802 1.27743462 1.30259618
+  1.30900502 1.33088321 1.35272843 1.36037875 1.38043251 1.40157692
+  1.41294274 1.4352122  1.46014558 1.47985079 1.51245665 1.56333123]]
+new point utility = 1.5628204673757375
+new point = [1.56282047]
+classifier utilities = [1.56333142 1.56333138 1.56333137 1.56333136 1.56333136 1.56333135
+ 1.56333135 1.56333134 1.56333134 1.56333133 1.56333133 1.56333133
+ 1.56333133 1.56333132 1.56333132 1.56333132 1.56333132 1.56333132
+ 1.56333132 1.56333131 1.56333131 1.5633313  1.56333129 1.56333126]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 47
+Size of game = (24, 25)
+Objective = 1.5633312255008824
+Support of attacker = 1
+Support of classifier = 24
+init time = 0.4123 s
+NFG time = 0.0943 s
+plot time = 0.0001 s
+BR time = 29.4792 s
+Train time = 23.3955 s
+Matrix update time = 0.0521 s
+Points utilities = [[-2.35681040e-10 -1.79274684e-10 -1.67861338e-10 -1.71802308e-10
+  -1.88907507e-10 -2.16223461e-10 -2.31849813e-10 -2.57305381e-10
+  -2.80371539e-10 -3.17782865e-10 -3.58668286e-10 -4.13356818e-10
+  -4.68078595e-10 -5.29881290e-10 -5.90595986e-10 -6.40392139e-10
+  -6.88127505e-10 -7.26640780e-10 -7.48066725e-10 -7.61061083e-10
+  -7.58023882e-10 -7.27235365e-10 -6.57165292e-10 -4.72120246e-10]]
+new point utility = 1.5563308808373508
+new point = [1.55633088]
+point added
+---------------------------- iteration: 48
+Size of game = (25, 25)
+Objective = -5.209477896559103e-11
+Support of attacker = 24
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.0966 s
+plot time = 0.0001 s
+BR time = 31.3107 s
+Train time = 23.3960 s
+Matrix update time = 0.0545 s
+Points utilities = [[1.39993251 1.39587777 1.3017905  1.16158192 1.14118229 1.20191996
+  1.19394753 1.2349127  1.23462618 1.26489147 1.26829097 1.29278314
+  1.29866221 1.31985098 1.34091973 1.34776652 1.3666727  1.38631474
+  1.39582948 1.41564179 1.4374439  1.45288205 1.4785677  1.51031379
+  1.55633088]]
+new point utility = 1.556338737118058
+new point = [1.55633874]
+classifier utilities = [1.55633109 1.55633105 1.55633103 1.55633103 1.55633102 1.55633102
+ 1.55633101 1.55633101 1.556331   1.556331   1.55633099 1.55633099
+ 1.55633099 1.55633099 1.55633099 1.55633099 1.55633099 1.55633098
+ 1.55633098 1.55633098 1.55633097 1.55633096 1.55633095 1.55633094
+ 1.55633091]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 49
+Size of game = (25, 26)
+Objective = 1.556330875208349
+Support of attacker = 1
+Support of classifier = 25
+init time = 0.4123 s
+NFG time = 0.0985 s
+plot time = 0.0001 s
+BR time = 31.9861 s
+Train time = 25.3511 s
+Matrix update time = 0.0553 s
+Points utilities = [[-2.55910157e-10 -1.98441434e-10 -1.85597519e-10 -1.89432539e-10
+  -2.07814740e-10 -2.37265636e-10 -2.53461385e-10 -2.79999281e-10
+  -3.03440334e-10 -3.41996617e-10 -3.84081047e-10 -4.40915566e-10
+  -4.97975555e-10 -5.62831188e-10 -6.26955774e-10 -6.80149970e-10
+  -7.32055573e-10 -7.75530516e-10 -8.02756316e-10 -8.23802639e-10
+  -8.32306776e-10 -8.20172647e-10 -7.88846214e-10 -7.12238910e-10
+  -5.07237103e-10]]
+new point utility = 1.555626204671034
+new point = [1.5556262]
+point added
+---------------------------- iteration: 50
+Size of game = (26, 26)
+Objective = -4.516526898837569e-11
+Support of attacker = 25
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.1008 s
+plot time = 0.0001 s
+BR time = 34.3370 s
+Train time = 25.3516 s
+Matrix update time = 0.0578 s
+Points utilities = [[1.40204483 1.39855583 1.30811913 1.16556099 1.14352313 1.20313428
+  1.19415329 1.23427722 1.23327416 1.2628616  1.2656723  1.2895588
+  1.29489124 1.31548119 1.33591088 1.34209342 1.36015069 1.37871556
+  1.38688138 1.40489623 1.42441191 1.4369801  1.45872291 1.48399066
+  1.5083726  1.5556262 ]]
+new point utility = 1.5556228233978284
+new point = [1.55562283]
+classifier utilities = [1.55562644 1.5556264  1.55562638 1.55562637 1.55562637 1.55562636
+ 1.55562636 1.55562635 1.55562634 1.55562634 1.55562633 1.55562633
+ 1.55562633 1.55562633 1.55562633 1.55562633 1.55562633 1.55562632
+ 1.55562632 1.55562632 1.55562631 1.5556263  1.5556263  1.55562629
+ 1.55562627 1.55562624]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 51
+Size of game = (26, 27)
+Objective = 1.5556261985284883
+Support of attacker = 1
+Support of classifier = 26
+init time = 0.4123 s
+NFG time = 0.1049 s
+plot time = 0.0001 s
+BR time = 35.0244 s
+Train time = 27.4000 s
+Matrix update time = 0.0586 s
+Points utilities = [[-2.78585097e-10 -2.19300788e-10 -2.04661612e-10 -2.08154112e-10
+  -2.27664381e-10 -2.59145023e-10 -2.75810554e-10 -3.03422615e-10
+  -3.27260329e-10 -3.67016278e-10 -4.10312730e-10 -4.69288768e-10
+  -5.28630506e-10 -5.96444817e-10 -6.63794235e-10 -7.20039254e-10
+  -7.75525259e-10 -8.23022426e-10 -8.54672865e-10 -8.81729532e-10
+  -8.98376511e-10 -8.97836518e-10 -8.86927019e-10 -8.52790220e-10
+  -7.66665480e-10 -5.47417594e-10]]
+new point utility = 1.5555632508805117
+new point = [1.55556325]
+point added
+---------------------------- iteration: 52
+Size of game = (27, 27)
+Objective = -3.754485318715793e-11
+Support of attacker = 26
+Support of classifier = 1
+init time = 0.4123 s
+NFG time = 0.1073 s
+plot time = 0.0001 s
+BR time = 36.9955 s
+Train time = 27.4004 s
+Matrix update time = 0.0611 s
+Points utilities = [[1.40426607 1.40119188 1.31333868 1.16861632 1.1451205  1.20372135
+  1.19386798 1.23325246 1.2316368  1.26063523 1.26294412 1.28630789
+  1.291179   1.31126539 1.33117258 1.33684252 1.35426307 1.3720475
+  1.37926043 1.39597279 1.41377996 1.4242     1.44316386 1.46456773
+  1.48225802 1.51065776 1.55556325]]
+new point utility = 1.5555578124828693
+new point = [1.55555782]
+classifier utilities = [1.55556352 1.55556347 1.55556345 1.55556344 1.55556344 1.55556343
+ 1.55556343 1.55556342 1.55556341 1.55556341 1.5555634  1.5555634
+ 1.5555634  1.5555634  1.55556339 1.55556339 1.55556339 1.55556339
+ 1.55556339 1.55556338 1.55556338 1.55556337 1.55556336 1.55556336
+ 1.55556334 1.55556333 1.5555633 ]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 53
+Size of game = (27, 28)
+Objective = 1.5555632440541052
+Support of attacker = 1
+Support of classifier = 27
+init time = 0.4123 s
+NFG time = 0.1094 s
+plot time = 0.0001 s
+BR time = 37.8930 s
+Train time = 29.5128 s
+Matrix update time = 0.0619 s
+Points utilities = [[0.8409385  0.61322343 0.50351964 0.46254541 0.47606459 0.52814233
+  0.55375768 0.60473699 0.6374257  0.68669429 0.72155019 0.76805172
+  0.80291301 0.84649118 0.88948394 0.92214544 0.96211406 1.00183686
+  1.03317698 1.07099167 1.10920058 1.14105178 1.17931759 1.21965018
+  1.25775322 1.30844393 1.40000693]]
+new point utility = 1.5500312793874305
+new point = [1.55003128]
+point added
+---------------------------- iteration: 54
+Size of game = (28, 28)
+Objective = 1.400006925304949
+Support of attacker = 1
+Support of classifier = 28
+init time = 0.4123 s
+NFG time = 0.1120 s
+plot time = 0.0001 s
+BR time = 39.9424 s
+Train time = 29.5133 s
+Matrix update time = 0.0644 s
+Points utilities = [[1.4041584  1.40116407 1.32330745 1.17769746 1.15132176 1.20775701
+  1.195981   1.23399007 1.23138838 1.25964266 1.2614032  1.28426927
+  1.28871944 1.30836003 1.32780738 1.33302957 1.34990755 1.36705052
+  1.37351496 1.38922035 1.4057053  1.41444812 1.43124689 1.4499084
+  1.46388456 1.48642357 1.51514834 1.55003127]]
+new point utility = 1.550016361276599
+new point = [1.55001637]
+classifier utilities = [1.55003162 1.55003156 1.55003153 1.55003152 1.55003151 1.55003151
+ 1.5500315  1.55003149 1.55003149 1.55003148 1.55003147 1.55003147
+ 1.55003147 1.55003147 1.55003146 1.55003146 1.55003146 1.55003146
+ 1.55003145 1.55003145 1.55003144 1.55003143 1.55003142 1.55003141
+ 1.5500314  1.55003139 1.55003137 1.55003131]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 55
+Size of game = (28, 29)
+Objective = 1.550031271055175
+Support of attacker = 1
+Support of classifier = 28
+init time = 0.4123 s
+NFG time = 0.1143 s
+plot time = 0.0001 s
+BR time = 40.6392 s
+Train time = 31.6524 s
+Matrix update time = 0.0652 s
+Points utilities = [[0.91962156 0.68315268 0.55617352 0.50595058 0.51621993 0.56832433
+  0.59175968 0.64217736 0.67296295 0.72114497 0.75406438 0.79911927
+  0.8320283  0.87400393 0.91537943 0.94615724 0.98449579 1.02260089
+  1.05215358 1.08828527 1.12473914 1.15462633 1.19081749 1.22874521
+  1.26385297 1.31122381 1.40000692 1.39839599]]
+new point utility = 1.5493839366508235
+new point = [1.54938394]
+point added
+---------------------------- iteration: 56
+Size of game = (29, 29)
+Objective = 1.400006923829763
+Support of attacker = 1
+Support of classifier = 29
+init time = 0.4123 s
+NFG time = 0.1170 s
+plot time = 0.0001 s
+BR time = 42.1482 s
+Train time = 31.6528 s
+Matrix update time = 0.0679 s
+Points utilities = [[1.40782011 1.40531822 1.3353483  1.18879985 1.16034842 1.21548774
+  1.20225401 1.23930029 1.23574523 1.26327161 1.26431154 1.28655598
+  1.29039046 1.30945634 1.32833589 1.33298992 1.34928677 1.3658122
+  1.37160596 1.38652013 1.40203656 1.40957829 1.42484202 1.44157046
+  1.45307697 1.4721417  1.49471163 1.51284102 1.54938393]]
+new point utility = 1.5493830422744408
+new point = [1.54938305]
+classifier utilities = [1.54938432 1.54938425 1.54938422 1.54938421 1.5493842  1.5493842
+ 1.54938419 1.54938418 1.54938417 1.54938416 1.54938416 1.54938415
+ 1.54938415 1.54938415 1.54938415 1.54938414 1.54938414 1.54938414
+ 1.54938413 1.54938412 1.54938412 1.54938411 1.5493841  1.54938409
+ 1.54938408 1.54938407 1.54938405 1.54938403 1.54938397]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 57
+Size of game = (29, 30)
+Objective = 1.5493839276061263
+Support of attacker = 1
+Support of classifier = 29
+init time = 0.4123 s
+NFG time = 0.1191 s
+plot time = 0.0001 s
+BR time = 43.0814 s
+Train time = 33.8262 s
+Matrix update time = 0.0687 s
+Points utilities = [[0.97309873 0.74320217 0.6033     0.54565251 0.55333484 0.60546772
+  0.62670473 0.67625133 0.70494132 0.75175457 0.78262316 0.82609609
+  0.8570551  0.89741413 0.93720328 0.96622777 1.00305936 1.0397159
+  1.0677463  1.10250315 1.13760461 1.16607747 1.2009177  1.23750129
+  1.27125057 1.317326   1.40000692 1.39708354 1.39846526]]
+new point utility = 1.549294543644204
+new point = [1.54929454]
+point added
+---------------------------- iteration: 58
+Size of game = (30, 30)
+Objective = 1.4000069164479307
+Support of attacker = 1
+Support of classifier = 30
+init time = 0.4123 s
+NFG time = 0.1218 s
+plot time = 0.0001 s
+BR time = 44.3270 s
+Train time = 33.8267 s
+Matrix update time = 0.0714 s
+Points utilities = [[1.41143785 1.40931863 1.34571848 1.19874094 1.16850041 1.22253261
+  1.20802982 1.24423876 1.23982901 1.26669604 1.26707122 1.28873998
+  1.29200117 1.31053383 1.32888911 1.33302238 1.34879697 1.3647829
+  1.37001374 1.38429389 1.39906689 1.40571288 1.41982882 1.43508637
+  1.44471925 1.46130182 1.48020235 1.49305979 1.51436211 1.54929454]]
+new point utility = 1.5493183603866156
+new point = [1.54931837]
+classifier utilities = [1.54929501 1.54929493 1.54929489 1.54929488 1.54929487 1.54929486
+ 1.54929485 1.54929484 1.54929483 1.54929482 1.54929482 1.54929481
+ 1.54929481 1.54929481 1.5492948  1.5492948  1.5492948  1.54929479
+ 1.54929478 1.54929478 1.54929477 1.54929476 1.54929475 1.54929474
+ 1.54929473 1.54929472 1.5492947  1.54929468 1.54929465 1.54929458]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 59
+Size of game = (30, 31)
+Objective = 1.5492945333810084
+Support of attacker = 1
+Support of classifier = 30
+init time = 0.4123 s
+NFG time = 0.1240 s
+plot time = 0.0001 s
+BR time = 45.6262 s
+Train time = 36.2042 s
+Matrix update time = 0.0722 s
+Points utilities = [[1.01242522 0.79470619 0.64417611 0.57996867 0.58519606 0.63715862
+  0.6564026  0.70513971 0.73203206 0.77769041 0.80684933 0.84901704
+  0.87836239 0.91738447 0.95585431 0.98340831 1.01896719 1.05439122
+  1.08112052 1.11469916 1.14864227 1.17590623 1.20959386 1.24503434
+  1.27761534 1.32236507 1.40000689 1.396467   1.39714768 1.39857211]]
+new point utility = 1.5448154517600656
+new point = [1.54481545]
+point added
+---------------------------- iteration: 60
+Size of game = (31, 31)
+Objective = 1.4000068889735844
+Support of attacker = 2
+Support of classifier = 31
+init time = 0.4123 s
+NFG time = 0.1267 s
+plot time = 0.0001 s
+BR time = 47.3139 s
+Train time = 36.2046 s
+Matrix update time = 0.0751 s
+Points utilities = [[1.41114988 1.40933243 1.35237432 1.20635416 1.17443736 1.22723542
+  1.21147456 1.24675941 1.2414929  1.26763855 1.26734102 1.28838483
+  1.29106103 1.3090194  1.32681148 1.33041693 1.34564481 1.36107738
+  1.36577227 1.37945778 1.39357315 1.39949227 1.41269499 1.42680335
+  1.43499933 1.44970057 1.46608849 1.47588506 1.49220021 1.51303122
+  1.54481545]]
+new point utility = 1.5448674068939225
+new point = [1.54486742]
+classifier utilities = [1.54481605 1.54481596 1.54481591 1.54481589 1.54481588 1.54481587
+ 1.54481586 1.54481584 1.54481583 1.54481582 1.54481581 1.54481581
+ 1.5448158  1.5448158  1.5448158  1.54481579 1.54481579 1.54481578
+ 1.54481577 1.54481576 1.54481575 1.54481574 1.54481573 1.54481572
+ 1.5448157  1.54481569 1.54481567 1.54481565 1.54481562 1.54481557
+ 1.54481547]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 61
+Size of game = (31, 32)
+Objective = 1.5448154403193357
+Support of attacker = 1
+Support of classifier = 31
+init time = 0.4123 s
+NFG time = 0.1289 s
+plot time = 0.0001 s
+BR time = 48.1396 s
+Train time = 38.5346 s
+Matrix update time = 0.0758 s
+Points utilities = [[1.04597357 0.84361766 0.68244591 0.61172306 0.61442819 0.66607975
+  0.68342125 0.73137774 0.75661923 0.80122177 0.82882845 0.86981086
+  0.89769052 0.93549348 0.97275573 0.99896102 1.03334495 1.06762644
+  1.09314986 1.12563338 1.15850085 1.18464488 1.21725802 1.2516142
+  1.28304577 1.32642039 1.40000693 1.39630632 1.39688255 1.39809641
+  1.39699538]]
+new point utility = 1.5442390308264413
+new point = [1.54423903]
+point added
+---------------------------- iteration: 62
+Size of game = (32, 32)
+Objective = 1.4000069251184133
+Support of attacker = 1
+Support of classifier = 32
+init time = 0.4123 s
+NFG time = 0.1338 s
+plot time = 0.0001 s
+BR time = 49.7729 s
+Train time = 38.5351 s
+Matrix update time = 0.0787 s
+Points utilities = [[1.41429113 1.41279783 1.36181118 1.21691428 1.18334304 1.23512733
+  1.21812624 1.25262009 1.2464996  1.27200245 1.27103283 1.2915096
+  1.29360864 1.31104422 1.3283264  1.33142098 1.34615541 1.36109481
+  1.36529433 1.37846788 1.39203754 1.39736172 1.40986313 1.42311289
+  1.43023319 1.44352904 1.45806524 1.46584307 1.47936708 1.49553734
+  1.51170871 1.54423902]]
+new point utility = 1.5442873813140998
+new point = [1.54428739]
+classifier utilities = [1.54423975 1.54423964 1.54423959 1.54423956 1.54423954 1.54423953
+ 1.54423952 1.54423951 1.54423949 1.54423948 1.54423947 1.54423946
+ 1.54423946 1.54423945 1.54423945 1.54423945 1.54423944 1.54423943
+ 1.54423942 1.54423941 1.5442394  1.54423938 1.54423937 1.54423935
+ 1.54423934 1.54423932 1.5442393  1.54423928 1.54423925 1.54423922
+ 1.54423916 1.54423905]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 63
+Size of game = (32, 33)
+Objective = 1.5442390147101526
+Support of attacker = 1
+Support of classifier = 32
+init time = 0.4123 s
+NFG time = 0.1360 s
+plot time = 0.0001 s
+BR time = 50.6478 s
+Train time = 40.8935 s
+Matrix update time = 0.0795 s
+Points utilities = [[1.07420944 0.89336914 0.72119677 0.64351616 0.64338297 0.69448672
+  0.70980417 0.75689965 0.78047637 0.82402106 0.85010634 0.88993365
+  0.91639223 0.95301419 0.98910455 1.01399723 1.04723087 1.08038714
+  1.10471897 1.13611436 1.16791091 1.19294132 1.22448069 1.25774172
+  1.28799039 1.32995071 1.40000692 1.39616103 1.39661962 1.39765833
+  1.3953226  1.39732909]]
+new point utility = 1.54410262264691
+new point = [1.54410262]
+point added
+---------------------------- iteration: 64
+Size of game = (33, 33)
+Objective = 1.400006924897037
+Support of attacker = 1
+Support of classifier = 33
+init time = 0.4123 s
+NFG time = 0.1390 s
+plot time = 0.0001 s
+BR time = 52.2216 s
+Train time = 40.8939 s
+Matrix update time = 0.0825 s
+Points utilities = [[1.41744543 1.41618851 1.37010817 1.2266664  1.19157471 1.24243097
+  1.22429741 1.25807542 1.25117866 1.27610088 1.27452119 1.29448581
+  1.29606153 1.31302494 1.32984658 1.33247794 1.3467666  1.3612616
+  1.36501625 1.37773681 1.39083398 1.39565901 1.40759442 1.42017654
+  1.42648361 1.43872363 1.45186357 1.45811612 1.46967374 1.48308519
+  1.49444461 1.51317729 1.54410262]]
+new point utility = 1.5442090522383818
+new point = [1.54420905]
+classifier utilities = [1.54410263 1.54410263 1.54410263 1.54410263 1.54410263 1.54410263
+ 1.54410263 1.54410263 1.54410263 1.54410263 1.54410263 1.54410263
+ 1.54410263 1.54410263 1.54410263 1.54410263 1.54410263 1.54410263
+ 1.54410263 1.54410263 1.54410263 1.54410263 1.54410263 1.54410263
+ 1.54410263 1.54410263 1.54410263 1.54410263 1.54410263 1.54410263
+ 1.54410262 1.54410262 1.54410262]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 65
+Size of game = (33, 34)
+Objective = 1.5441026225212
+Support of attacker = 1
+Support of classifier = 33
+init time = 0.4123 s
+NFG time = 0.1413 s
+plot time = 0.0001 s
+BR time = 53.2059 s
+Train time = 43.5184 s
+Matrix update time = 0.0833 s
+Points utilities = [[1.0987412  0.94907104 0.76354749 0.67745841 0.67372259 0.7238339
+  0.73678777 0.78282412 0.80459778 0.84700492 0.87151705 0.91016241
+  0.93518395 0.97061835 1.00553333 1.02910788 1.06118419 1.09320384
+  1.11632644 1.14661196 1.17731185 1.20119863 1.2316302  1.26375287
+  1.29275989 1.33324302 1.40000692 1.39602131 1.39636043 1.39724571
+  1.39444805 1.39542903 1.39755898]]
+new point utility = 1.5314815448770767
+new point = [1.53148154]
+point added
+---------------------------- iteration: 66
+Size of game = (34, 34)
+Objective = 1.4000069247217797
+Support of attacker = 1
+Support of classifier = 34
+init time = 0.4123 s
+NFG time = 0.1456 s
+plot time = 0.0001 s
+BR time = 54.5897 s
+Train time = 43.5188 s
+Matrix update time = 0.0864 s
+Points utilities = [[1.41058396 1.40938247 1.37075377 1.23333414 1.19656437 1.24584507
+  1.22625718 1.25888302 1.25100034 1.27504426 1.27269401 1.2919089
+  1.292815   1.30909678 1.32525283 1.32728812 1.34094655 1.35481681
+  1.35800873 1.37012398 1.38261042 1.38686631 1.39816362 1.41005525
+  1.41563751 1.42698188 1.43901955 1.44382041 1.45359604 1.46480601
+  1.47324386 1.48738854 1.5058679  1.53148154]]
+new point utility = 1.5405835946236146
+new point = [1.54058359]
+classifier utilities = [1.53148156 1.53148155 1.53148155 1.53148155 1.53148155 1.53148155
+ 1.53148155 1.53148155 1.53148155 1.53148155 1.53148155 1.53148155
+ 1.53148155 1.53148155 1.53148155 1.53148155 1.53148155 1.53148155
+ 1.53148155 1.53148155 1.53148155 1.53148155 1.53148155 1.53148155
+ 1.53148155 1.53148155 1.53148155 1.53148155 1.53148155 1.53148155
+ 1.53148155 1.53148155 1.53148155 1.53148154]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 67
+Size of game = (34, 35)
+Objective = 1.5314815447127539
+Support of attacker = 1
+Support of classifier = 34
+init time = 0.4123 s
+NFG time = 0.1481 s
+plot time = 0.0001 s
+BR time = 55.5996 s
+Train time = 46.7430 s
+Matrix update time = 0.0872 s
+Points utilities = [[1.11779778 1.01271896 0.80960547 0.7130918  0.70479875 0.75340092
+  0.76368116 0.80848908 0.82838438 0.86962349 0.89256961 0.93005358
+  0.95367387 0.98796055 1.02174392 1.0440461  1.07500822 1.10593118
+  1.1278794  1.15708338 1.18670729 1.20946211 1.23878734 1.26975779
+  1.2974858  1.33641974 1.40000692 1.39598159 1.39629972 1.39716628
+  1.3943163  1.39519725 1.39702141 1.39239473]]
+new point utility = 1.531216449714638
+new point = [1.53121645]
+point added
+---------------------------- iteration: 68
+Size of game = (35, 35)
+Objective = 1.4000069244001785
+Support of attacker = 1
+Support of classifier = 35
+init time = 0.4123 s
+NFG time = 0.1511 s
+plot time = 0.0001 s
+BR time = 57.0085 s
+Train time = 46.7435 s
+Matrix update time = 0.0903 s
+Points utilities = [[1.41418142 1.41325798 1.37962313 1.24647189 1.20799755 1.25628206
+  1.23535725 1.26720738 1.25841687 1.28183311 1.27878405 1.29745249
+  1.29777378 1.31355861 1.32923501 1.33076812 1.34396849 1.35738826
+  1.36011812 1.37178929 1.38382936 1.38762555 1.39845119 1.40983853
+  1.41486341 1.42556074 1.43680559 1.44082477 1.44960406 1.45955081
+  1.46636778 1.47825923 1.49283171 1.5003134  1.53121645]]
+new point utility = 1.5312085582526973
+new point = [1.53120856]
+classifier utilities = [1.53121646 1.53121646 1.53121646 1.53121646 1.53121646 1.53121646
+ 1.53121646 1.53121646 1.53121646 1.53121646 1.53121646 1.53121646
+ 1.53121646 1.53121646 1.53121646 1.53121646 1.53121646 1.53121646
+ 1.53121646 1.53121646 1.53121646 1.53121646 1.53121646 1.53121646
+ 1.53121645 1.53121645 1.53121645 1.53121645 1.53121645 1.53121645
+ 1.53121645 1.53121645 1.53121645 1.53121645 1.53121645]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 69
+Size of game = (35, 36)
+Objective = 1.5312164495791782
+Support of attacker = 1
+Support of classifier = 35
+init time = 0.4123 s
+NFG time = 0.1535 s
+plot time = 0.0001 s
+BR time = 58.2500 s
+Train time = 50.0285 s
+Matrix update time = 0.0911 s
+Points utilities = [[1.13288843 1.07016979 0.85306555 0.74739507 0.73510639 0.78247955
+  0.79026267 0.83392068 0.85197853 0.89206121 0.91344675 0.94976686
+  0.97198523 1.00511938 1.03776501 1.05879044 1.08862998 1.11844597
+  1.13921133 1.16732412 1.19586627 1.21749352 1.24572792 1.27558208
+  1.30210108 1.33961865 1.40000692 1.39591859 1.39618328 1.39699937
+  1.39408145 1.3948541  1.39641909 1.3885698  1.39381788]]
+new point utility = 1.531082775719128
+new point = [1.53108278]
+point added
+---------------------------- iteration: 70
+Size of game = (36, 36)
+Objective = 1.400006924781201
+Support of attacker = 1
+Support of classifier = 36
+init time = 0.4123 s
+NFG time = 0.1564 s
+plot time = 0.0001 s
+BR time = 59.2294 s
+Train time = 50.0289 s
+Matrix update time = 0.0943 s
+Points utilities = [[1.417288   1.41651398 1.3865575  1.25751421 1.2175226  1.26489365
+  1.24280891 1.27397644 1.26441046 1.28728505 1.28364272 1.30184247
+  1.30166734 1.31702616 1.33229046 1.33339462 1.34619914 1.3592278
+  1.36155781 1.37284068 1.3844895  1.3878855  1.39830097 1.4092557
+  1.4138158  1.42399018 1.43462025 1.43803491 1.44604382 1.45499398
+  1.46052772 1.47072655 1.48279447 1.48524257 1.50278963 1.53108278]]
+new point utility = 1.5297326250226915
+new point = [1.52973263]
+classifier utilities = [1.53108279 1.53108279 1.53108278 1.53108278 1.53108278 1.53108278
+ 1.53108278 1.53108278 1.53108278 1.53108278 1.53108278 1.53108278
+ 1.53108278 1.53108278 1.53108278 1.53108278 1.53108278 1.53108278
+ 1.53108278 1.53108278 1.53108278 1.53108278 1.53108278 1.53108278
+ 1.53108278 1.53108278 1.53108278 1.53108278 1.53108278 1.53108278
+ 1.53108278 1.53108278 1.53108278 1.53108278 1.53108278 1.53108278]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 71
+Size of game = (36, 37)
+Objective = 1.5310827755701273
+Support of attacker = 1
+Support of classifier = 36
+init time = 0.4123 s
+NFG time = 0.1586 s
+plot time = 0.0001 s
+BR time = 60.1938 s
+Train time = 53.4770 s
+Matrix update time = 0.0951 s
+Points utilities = [[1.14060679 1.10310427 0.88588202 0.77459733 0.75937181 0.80581031
+  0.81163756 0.85445729 0.87114643 0.91043317 0.93069045 0.96620671
+  0.98740636 1.01971831 1.05153683 1.07159233 1.10057607 1.12952884
+  1.14933899 1.17655457 1.20418023 1.22481579 1.25205216 1.28082908
+  1.30609813 1.34201923 1.40000692 1.39584891 1.39606664 1.39684219
+  1.39386492 1.39454609 1.39592289 1.38698589 1.38985884 1.3945497 ]]
+new point utility = 1.5294622181575503
+new point = [1.52946222]
+point added
+---------------------------- iteration: 72
+Size of game = (37, 37)
+Objective = 1.4000069246498987
+Support of attacker = 1
+Support of classifier = 37
+init time = 0.4123 s
+NFG time = 0.1617 s
+plot time = 0.0001 s
+BR time = 61.3607 s
+Train time = 53.4775 s
+Matrix update time = 0.0983 s
+Points utilities = [[1.4189391  1.41823122 1.39156418 1.26734759 1.22593298 1.2723601
+  1.24916151 1.27964286 1.26933539 1.29167241 1.28746166 1.30519818
+  1.30454577 1.31948443 1.33434195 1.33503258 1.34744727 1.36009041
+  1.36203383 1.37293543 1.38420073 1.38721214 1.39723222 1.40777647
+  1.41191213 1.42162416 1.43174126 1.4346419  1.44202431 1.45018071
+  1.45470026 1.46358008 1.473881   1.47367376 1.48694663 1.50345485
+  1.52946222]]
+new point utility = 1.5294495781483362
+new point = [1.52944958]
+classifier utilities = [1.52946223 1.52946223 1.52946223 1.52946223 1.52946223 1.52946223
+ 1.52946223 1.52946223 1.52946223 1.52946223 1.52946222 1.52946222
+ 1.52946222 1.52946222 1.52946222 1.52946222 1.52946222 1.52946222
+ 1.52946222 1.52946222 1.52946222 1.52946222 1.52946222 1.52946222
+ 1.52946222 1.52946222 1.52946222 1.52946222 1.52946222 1.52946222
+ 1.52946222 1.52946222 1.52946222 1.52946222 1.52946222 1.52946222
+ 1.52946222]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 73
+Size of game = (37, 38)
+Objective = 1.5294622180329012
+Support of attacker = 1
+Support of classifier = 37
+init time = 0.4123 s
+NFG time = 0.1643 s
+plot time = 0.0001 s
+BR time = 62.6140 s
+Train time = 57.2215 s
+Matrix update time = 0.0992 s
+Points utilities = [[1.14849367 1.12845958 0.91489114 0.79909952 0.78161141 0.82749145
+  0.83167004 0.87376433 0.88915248 0.92762041 0.94672591 0.9813765
+  1.00151426 1.0329443  1.06388223 1.08294145 1.11103773 1.13910608
+  1.15796612 1.18429257 1.21102804 1.2307313  1.25705133 1.28487335
+  1.30907813 1.34368099 1.40000693 1.39579097 1.39596825 1.39670768
+  1.39367471 1.39428043 1.39552099 1.38610225 1.38819246 1.39106416
+  1.39447711]]
+new point utility = 1.5291420809639227
+new point = [1.52914208]
+point added
+---------------------------- iteration: 74
+Size of game = (38, 38)
+Objective = 1.400006925368067
+Support of attacker = 1
+Support of classifier = 38
+init time = 0.4123 s
+NFG time = 0.1678 s
+plot time = 0.0001 s
+BR time = 64.0342 s
+Train time = 57.2220 s
+Matrix update time = 0.1025 s
+Points utilities = [[1.42140614 1.4207677  1.39667686 1.27685056 1.23411692 1.27971031
+  1.25550566 1.28539104 1.27441531 1.29628075 1.29155563 1.30888378
+  1.30780187 1.32237144 1.33687265 1.33719396 1.34926691 1.36157203
+  1.36317006 1.3737349  1.38466047 1.3873256  1.39699286 1.40717146
+  1.41092828 1.42023747 1.42992188 1.43243215 1.43935581 1.44694206
+  1.45073255 1.45865327 1.4676899  1.46578783 1.47670834 1.48938357
+  1.50370902 1.52914208]]
+new point utility = 1.5291136520715396
+new point = [1.52911365]
+classifier utilities = [1.52914209 1.52914209 1.52914209 1.52914209 1.52914209 1.52914209
+ 1.52914209 1.52914209 1.52914209 1.52914209 1.52914209 1.52914209
+ 1.52914209 1.52914209 1.52914209 1.52914209 1.52914209 1.52914209
+ 1.52914209 1.52914209 1.52914209 1.52914209 1.52914209 1.52914209
+ 1.52914208 1.52914208 1.52914208 1.52914208 1.52914208 1.52914208
+ 1.52914208 1.52914208 1.52914208 1.52914208 1.52914208 1.52914208
+ 1.52914208 1.52914208]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 75
+Size of game = (38, 39)
+Objective = 1.5291420808298402
+Support of attacker = 1
+Support of classifier = 38
+init time = 0.4123 s
+NFG time = 0.1702 s
+plot time = 0.0001 s
+BR time = 65.3310 s
+Train time = 60.6565 s
+Matrix update time = 0.1034 s
+Points utilities = [[1.15662585 1.14694921 0.93708267 0.81923873 0.80082646 0.84685995
+  0.84992834 0.89154311 0.90579425 0.94348411 0.96146343 0.99522374
+  1.01428608 1.04479816 1.07482144 1.09287382 1.12006417 1.14723796
+  1.16516187 1.19061526 1.21649262 1.23532651 1.26081374 1.28780272
+  1.31112568 1.34468708 1.40000692 1.39575463 1.39590711 1.39662142
+  1.39353185 1.39406542 1.3951873  1.38544652 1.38708096 1.3891834
+  1.39062351 1.39488664]]
+new point utility = 1.5289799960046628
+new point = [1.52898]
+point added
+---------------------------- iteration: 76
+Size of game = (39, 39)
+Objective = 1.400006924037328
+Support of attacker = 1
+Support of classifier = 39
+init time = 0.4123 s
+NFG time = 0.1733 s
+plot time = 0.0001 s
+BR time = 66.6498 s
+Train time = 60.6570 s
+Matrix update time = 0.1069 s
+Points utilities = [[1.42376393 1.42317108 1.40119693 1.28565202 1.24166357 1.28648231
+  1.26134635 1.29068168 1.27909113 1.30052441 1.29532784 1.31228226
+  1.31080692 1.32503889 1.33921442 1.33919796 1.3509588  1.36295529
+  1.36423758 1.37449466 1.38510951 1.38745741 1.39680151 1.40664562
+  1.41005725 1.4190036  1.4283075  1.43048433 1.43703427 1.44417639
+  1.44741698 1.45461862 1.46270689 1.45957922 1.46890596 1.47938445
+  1.49001412 1.50474196 1.52897999]]
+new point utility = 1.5290726894345736
+new point = [1.5290727]
+classifier utilities = [1.52898096 1.52898083 1.52898077 1.52898073 1.52898071 1.5289807
+ 1.52898067 1.52898065 1.52898063 1.52898061 1.5289806  1.52898058
+ 1.52898057 1.52898056 1.52898055 1.52898054 1.52898053 1.52898052
+ 1.5289805  1.52898048 1.52898046 1.52898044 1.52898042 1.5289804
+ 1.52898039 1.52898037 1.52898035 1.52898034 1.52898032 1.52898031
+ 1.5289803  1.52898029 1.52898028 1.52898026 1.52898025 1.52898023
+ 1.5289802  1.52898015 1.52898003]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 77
+Size of game = (39, 40)
+Objective = 1.528979979063572
+Support of attacker = 1
+Support of classifier = 39
+init time = 0.4123 s
+NFG time = 0.1756 s
+plot time = 0.0001 s
+BR time = 68.2618 s
+Train time = 64.4206 s
+Matrix update time = 0.1077 s
+Points utilities = [[1.16639326 1.16062973 0.96230908 0.8410949  0.82123265 0.86720093
+  0.86893097 0.90988977 0.92281581 0.95956008 0.97625772 1.00898968
+  1.02685907 1.05635078 1.0853744  1.10235765 1.12859342 1.15484113
+  1.17181854 1.19640223 1.22144163 1.2394455  1.26415488 1.29038702
+  1.31293845 1.34563343 1.40000692 1.39572173 1.39584092 1.39651625
+  1.39336305 1.39381898 1.39482736 1.38485751 1.38619385 1.38786625
+  1.38855026 1.39102468 1.39519467]]
+new point utility = 1.5276314001080902
+new point = [1.5276314]
+point added
+---------------------------- iteration: 78
+Size of game = (40, 40)
+Objective = 1.4000069228227754
+Support of attacker = 1
+Support of classifier = 40
+init time = 0.4123 s
+NFG time = 0.1787 s
+plot time = 0.0001 s
+BR time = 69.4202 s
+Train time = 64.4212 s
+Matrix update time = 0.1114 s
+Points utilities = [[1.42509119 1.42449887 1.40452221 1.29413975 1.24885439 1.29285307
+  1.26676926 1.29552723 1.28331399 1.30430123 1.29863184 1.31520417
+  1.31333363 1.32722041 1.34106276 1.34070675 1.35214991 1.36383296
+  1.3647999  1.37474744 1.38505116 1.38708629 1.39611104 1.40562677
+  1.4087051  1.4173035  1.42625051 1.42809915 1.43429827 1.44104809
+  1.44383414 1.45046435 1.45781759 1.45376702 1.46189961 1.47086334
+  1.47939475 1.4906692  1.50487769 1.5276314 ]]
+new point utility = 1.5276050263915117
+new point = [1.52760503]
+classifier utilities = [1.52763141 1.52763141 1.52763141 1.52763141 1.52763141 1.52763141
+ 1.52763141 1.52763141 1.52763141 1.52763141 1.52763141 1.52763141
+ 1.52763141 1.52763141 1.52763141 1.52763141 1.52763141 1.52763141
+ 1.52763141 1.52763141 1.52763141 1.52763141 1.52763141 1.5276314
+ 1.5276314  1.5276314  1.5276314  1.5276314  1.5276314  1.5276314
+ 1.5276314  1.5276314  1.5276314  1.5276314  1.5276314  1.5276314
+ 1.5276314  1.5276314  1.5276314  1.5276314 ]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 79
+Size of game = (40, 41)
+Objective = 1.527631400137825
+Support of attacker = 1
+Support of classifier = 40
+init time = 0.4123 s
+NFG time = 0.1810 s
+plot time = 0.0001 s
+BR time = 70.9159 s
+Train time = 68.1388 s
+Matrix update time = 0.1123 s
+Points utilities = [[1.17632566 1.16396996 0.9809873  0.85899533 0.83891245 0.8854073
+  0.88624734 0.9267755  0.93856815 0.97448132 0.99001327 1.02180269
+  1.03857265 1.06712364 1.0952267  1.1112269  1.13658692 1.16198611
+  1.17809608 1.20188241 1.22615187 1.24339034 1.26737891 1.29290517
+  1.31473275 1.34662106 1.40000692 1.39571603 1.39582161 1.39647321
+  1.39327821 1.39368017 1.39460949 1.38449745 1.38565567 1.38708804
+  1.38740586 1.38924434 1.39185898 1.39510657]]
+new point utility = 1.5268493941011154
+new point = [1.52684939]
+point added
+---------------------------- iteration: 80
+Size of game = (41, 41)
+Objective = 1.4000069168314901
+Support of attacker = 1
+Support of classifier = 41
+init time = 0.4123 s
+NFG time = 0.1845 s
+plot time = 0.0001 s
+BR time = 71.9237 s
+Train time = 68.1392 s
+Matrix update time = 0.1160 s
+Points utilities = [[1.42674638 1.42616057 1.40781142 1.30257932 1.25594319 1.29915595
+  1.27216304 1.3003831  1.28758388 1.30816191 1.30205262 1.31827553
+  1.31603864 1.32960993 1.34314819 1.34247862 1.35363196 1.36502939
+  1.365706   1.37537101 1.38539054 1.38713717 1.39586877 1.40508254
+  1.40785208 1.41612988 1.42475009 1.42631373 1.43221591 1.43864467
+  1.44107379 1.44727267 1.45408683 1.44937064 1.45663146 1.46450052
+  1.47163292 1.48096555 1.49193098 1.50454715 1.52684939]]
+new point utility = 1.5273494717601117
+new point = [1.52734947]
+classifier utilities = [1.52684941 1.52684941 1.5268494  1.5268494  1.5268494  1.5268494
+ 1.5268494  1.5268494  1.5268494  1.5268494  1.5268494  1.5268494
+ 1.5268494  1.5268494  1.5268494  1.5268494  1.5268494  1.5268494
+ 1.5268494  1.5268494  1.5268494  1.5268494  1.5268494  1.5268494
+ 1.5268494  1.5268494  1.5268494  1.5268494  1.5268494  1.5268494
+ 1.5268494  1.5268494  1.5268494  1.5268494  1.5268494  1.5268494
+ 1.5268494  1.5268494  1.5268494  1.5268494  1.5268494 ]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 81
+Size of game = (41, 42)
+Objective = 1.526849394558017
+Support of attacker = 1
+Support of classifier = 41
+init time = 0.4123 s
+NFG time = 0.1870 s
+plot time = 0.0001 s
+BR time = 73.6605 s
+Train time = 72.0854 s
+Matrix update time = 0.1169 s
+Points utilities = [[1.18561035 1.17144356 1.00073975 0.87788548 0.85756722 0.90456057
+  0.90439208 0.94440393 0.95496768 0.98998955 1.00430027 1.03511493
+  1.05075629 1.07835048 1.10552105 1.12052343 1.14499692 1.16953532
+  1.18475994 1.20772982 1.23120587 1.24764877 1.27088224 1.29566201
+  1.31671728 1.34774707 1.40000691 1.39571947 1.39581957 1.39645509
+  1.39322615 1.39358323 1.39444757 1.38422456 1.38524799 1.38650798
+  1.3865861  1.38806415 1.39003862 1.39160189 1.3952762 ]]
+new point utility = 1.5259864627128876
+new point = [1.52598646]
+point added
+---------------------------- iteration: 82
+Size of game = (42, 42)
+Objective = 1.4000069071897676
+Support of attacker = 1
+Support of classifier = 42
+init time = 0.4123 s
+NFG time = 0.1904 s
+plot time = 0.0001 s
+BR time = 75.3011 s
+Train time = 72.0859 s
+Matrix update time = 0.1204 s
+Points utilities = [[1.42822225 1.42762714 1.41065566 1.31078991 1.26278638 1.30521478
+  1.27733928 1.30503826 1.29167571 1.31186114 1.30533125 1.32122092
+  1.31863498 1.33190624 1.34515567 1.34418833 1.35506704 1.36619413
+  1.36659599 1.37599401 1.38574515 1.38721913 1.39567382 1.40460232
+  1.40708003 1.41505534 1.42336843 1.42466455 1.4302926  1.43643293
+  1.43855438 1.44439836 1.45078988 1.44557583 1.45218465 1.45923112
+  1.46532813 1.47333038 1.48243364 1.49186326 1.50451128 1.52598646]]
+new point utility = 1.525956671109512
+new point = [1.52595667]
+classifier utilities = [1.52598648 1.52598648 1.52598647 1.52598647 1.52598647 1.52598647
+ 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647
+ 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647
+ 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647
+ 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647
+ 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647
+ 1.52598647 1.52598647 1.52598647 1.52598647 1.52598647 1.52598646]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 83
+Size of game = (42, 43)
+Objective = 1.5259864638639533
+Support of attacker = 1
+Support of classifier = 42
+init time = 0.4123 s
+NFG time = 0.1928 s
+plot time = 0.0001 s
+BR time = 76.8119 s
+Train time = 75.8996 s
+Matrix update time = 0.1214 s
+Points utilities = [[1.19382528 1.18046704 1.02156662 0.89721253 0.87591789 0.92284994
+  0.9214056  0.96078599 0.97017296 1.00441341 1.01767372 1.04769412
+  1.06239854 1.08922219 1.11563923 1.12980775 1.15354718 1.17736263
+  1.19181735 1.21407111 1.23683217 1.25252631 1.27502347 1.29903578
+  1.31924241 1.34926378 1.40000689 1.39573119 1.39583119 1.39645527
+  1.39319819 1.39351611 1.39432442 1.38401097 1.38492608 1.38605193
+  1.38595471 1.38719227 1.38880333 1.38970963 1.39176961 1.39533726]]
+new point utility = 1.5258001577960478
+new point = [1.52580016]
+point added
+---------------------------- iteration: 84
+Size of game = (43, 43)
+Objective = 1.4000068914793504
+Support of attacker = 1
+Support of classifier = 43
+init time = 0.4123 s
+NFG time = 0.1961 s
+plot time = 0.0001 s
+BR time = 78.5782 s
+Train time = 75.9000 s
+Matrix update time = 0.1251 s
+Points utilities = [[1.43006556 1.42946871 1.41355252 1.31862709 1.26928515 1.31098634
+  1.28229284 1.3095202  1.29564155 1.31547453 1.30856284 1.32415562
+  1.32125542 1.33426056 1.34725447 1.34602085 1.35665689 1.36754531
+  1.36770197 1.37686359 1.38637665 1.38760608 1.39581314 1.40448542
+  1.40669796 1.41439817 1.42243072 1.42349388 1.42888461 1.43477785
+  1.43664052 1.44219584 1.4482572  1.44267056 1.44880147 1.45524704
+  1.46058151 1.46761245 1.4754573  1.48309829 1.49269373 1.50478153
+  1.52580016]]
+new point utility = 1.52578272120413
+new point = [1.52578272]
+classifier utilities = [1.52580017 1.52580017 1.52580017 1.52580017 1.52580017 1.52580017
+ 1.52580017 1.52580017 1.52580017 1.52580017 1.52580017 1.52580017
+ 1.52580017 1.52580017 1.52580017 1.52580017 1.52580017 1.52580017
+ 1.52580017 1.52580017 1.52580017 1.52580017 1.52580017 1.52580017
+ 1.52580017 1.52580017 1.52580017 1.52580017 1.52580017 1.52580017
+ 1.52580017 1.52580016 1.52580016 1.52580016 1.52580016 1.52580016
+ 1.52580016 1.52580016 1.52580016 1.52580016 1.52580016 1.52580016
+ 1.52580016]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 85
+Size of game = (43, 44)
+Objective = 1.5258001600865603
+Support of attacker = 1
+Support of classifier = 43
+init time = 0.4123 s
+NFG time = 0.1991 s
+plot time = 0.0001 s
+BR time = 79.6351 s
+Train time = 79.7408 s
+Matrix update time = 0.1260 s
+Points utilities = [[1.20137235 1.18887587 1.04230232 0.91640426 0.89383784 0.94046447
+  0.93764416 0.97634254 0.98457996 1.01808013 1.03036205 1.05965837
+  1.07350578 1.09963336 1.12536976 1.13877637 1.16184786 1.18500252
+  1.19874518 1.22033494 1.24242716 1.25741101 1.27920198 1.30246662
+  1.32183145 1.35083622 1.40000687 1.39574114 1.3958398  1.39645188
+  1.39316776 1.39344852 1.3942051  1.38381303 1.38463568 1.3856502
+  1.38541322 1.38646914 1.38782864 1.38834801 1.38973026 1.39164639
+  1.39560168]]
+new point utility = 1.5257594454430272
+new point = [1.52575945]
+point added
+---------------------------- iteration: 86
+Size of game = (44, 44)
+Objective = 1.4000068731676532
+Support of attacker = 1
+Support of classifier = 44
+init time = 0.4123 s
+NFG time = 0.2035 s
+plot time = 0.0001 s
+BR time = 81.2602 s
+Train time = 79.7413 s
+Matrix update time = 0.1297 s
+Points utilities = [[1.43186784 1.43125981 1.41621039 1.3259199  1.275316   1.31633499
+  1.28688194 1.31367234 1.29931602 1.31882362 1.31156008 1.32688013
+  1.32369136 1.33645302 1.34921345 1.34773627 1.35815097 1.36882183
+  1.36875471 1.3777009  1.38699693 1.38800299 1.39598373 1.40442131
+  1.40639003 1.41383662 1.42160964 1.42245688 1.42762802 1.43329403
+  1.43492217 1.44022243 1.44600297 1.44011632 1.44587616 1.45186867
+  1.45663377 1.46293441 1.46984552 1.47626899 1.48413485 1.49327055
+  1.50548429 1.52575945]]
+new point utility = 1.5257605386465851
+new point = [1.52576054]
+classifier utilities = [1.52575946 1.52575946 1.52575946 1.52575946 1.52575946 1.52575946
+ 1.52575946 1.52575946 1.52575946 1.52575946 1.52575946 1.52575946
+ 1.52575946 1.52575946 1.52575946 1.52575946 1.52575946 1.52575946
+ 1.52575946 1.52575946 1.52575946 1.52575946 1.52575946 1.52575946
+ 1.52575946 1.52575946 1.52575946 1.52575946 1.52575945 1.52575945
+ 1.52575945 1.52575945 1.52575945 1.52575945 1.52575945 1.52575945
+ 1.52575945 1.52575945 1.52575945 1.52575945 1.52575945 1.52575945
+ 1.52575945 1.52575945]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 87
+Size of game = (44, 45)
+Objective = 1.5257594490749211
+Support of attacker = 1
+Support of classifier = 44
+init time = 0.4123 s
+NFG time = 0.2062 s
+plot time = 0.0001 s
+BR time = 82.8156 s
+Train time = 83.6436 s
+Matrix update time = 0.1306 s
+Points utilities = [[1.20837841 1.19645161 1.06203831 0.93498307 0.91106295 0.95727108
+  0.95305982 0.99106582 0.99819407 1.03098901 1.04234941 1.07097016
+  1.08401822 1.10950029 1.13460592 1.14730355 1.16975485 1.19229508
+  1.20537259 1.22634156 1.2478062  1.26211967 1.28324094 1.30579185
+  1.32434721 1.35236886 1.40000685 1.39574738 1.39584252 1.39644167
+  1.39313172 1.39337776 1.39408736 1.38362751 1.38437176 1.38529409
+  1.38494497 1.38586057 1.38703642 1.38729881 1.38829487 1.38954598
+  1.39196433 1.39584272]]
+new point utility = 1.525749048719675
+new point = [1.52574905]
+point added
+---------------------------- iteration: 88
+Size of game = (45, 45)
+Objective = 1.4000068537018466
+Support of attacker = 1
+Support of classifier = 45
+init time = 0.4123 s
+NFG time = 0.2110 s
+plot time = 0.0001 s
+BR time = 84.5705 s
+Train time = 83.6440 s
+Matrix update time = 0.1345 s
+Points utilities = [[1.43356624 1.43293902 1.41862232 1.33274939 1.28095066 1.32132388
+  1.29115861 1.31753881 1.30273534 1.32193817 1.31434582 1.32941128
+  1.32595382 1.33848901 1.3510325  1.3493293  1.35953884 1.37000835
+  1.36973428 1.37848148 1.38757726 1.38837717 1.3961491  1.40436996
+  1.4061131  1.41332449 1.42085615 1.42150082 1.42646586 1.43191907
+  1.4333292  1.43839608 1.44392659 1.43778489 1.44324183 1.44888086
+  1.45321624 1.45897041 1.46517996 1.47070489 1.47739829 1.48487409
+  1.49428613 1.50617165 1.52574905]]
+new point utility = 1.525728608129204
+new point = [1.52572861]
+classifier utilities = [1.52574907 1.52574907 1.52574907 1.52574907 1.52574907 1.52574907
+ 1.52574907 1.52574907 1.52574907 1.52574907 1.52574907 1.52574906
+ 1.52574906 1.52574906 1.52574906 1.52574906 1.52574906 1.52574906
+ 1.52574906 1.52574906 1.52574906 1.52574906 1.52574906 1.52574906
+ 1.52574906 1.52574906 1.52574906 1.52574906 1.52574906 1.52574906
+ 1.52574906 1.52574906 1.52574906 1.52574906 1.52574906 1.52574906
+ 1.52574906 1.52574906 1.52574906 1.52574906 1.52574906 1.52574906
+ 1.52574906 1.52574906 1.52574906]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 89
+Size of game = (45, 46)
+Objective = 1.5257490538016825
+Support of attacker = 1
+Support of classifier = 45
+init time = 0.4123 s
+NFG time = 0.2135 s
+plot time = 0.0001 s
+BR time = 85.9882 s
+Train time = 87.7568 s
+Matrix update time = 0.1354 s
+Points utilities = [[1.21490775 1.20335547 1.08004411 0.95252648 0.92734086 0.97311637
+  0.96756619 1.00490388 1.01098094 1.04310984 1.05360397 1.08159114
+  1.09389038 1.1187687  1.14328458 1.15531902 1.17719059 1.19915635
+  1.2116115  1.23199948 1.25287626 1.26656075 1.28705269 1.30893154
+  1.3267234  1.3538174  1.40000692 1.39574984 1.39583927 1.39642474
+  1.39309028 1.39330419 1.39397142 1.38345305 1.38413052 1.38497592
+  1.38453566 1.38534058 1.38637722 1.38645629 1.38720027 1.38807808
+  1.38987251 1.39231985 1.39604859]]
+new point utility = 1.5245526798265068
+new point = [1.52455268]
+point added
+---------------------------- iteration: 90
+Size of game = (46, 46)
+Objective = 1.400006924852403
+Support of attacker = 1
+Support of classifier = 46
+init time = 0.4123 s
+NFG time = 0.2168 s
+plot time = 0.0001 s
+BR time = 87.4959 s
+Train time = 87.7572 s
+Matrix update time = 0.1393 s
+Points utilities = [[1.43433736 1.43365844 1.42005473 1.33968441 1.28662349 1.32627234
+  1.2953462  1.32127287 1.305992   1.32485959 1.31691522 1.33170143
+  1.32795571 1.34024278 1.35254865 1.35060315 1.36058941 1.37084056
+  1.37034693 1.37888163 1.38776524 1.38835172 1.39590762 1.40390683
+  1.40542415 1.41240087 1.41969392 1.42011921 1.42486176 1.43008713
+  1.43126756 1.43609129 1.44136748 1.43498051 1.44015462 1.44548234
+  1.44946224 1.45478317 1.4604484  1.46528189 1.47109325 1.47742962
+  1.48524711 1.49445846 1.50601445 1.52455268]]
+new point utility = 1.5247020805852975
+new point = [1.52470208]
+classifier utilities = [1.5245527  1.5245527  1.5245527  1.52455269 1.52455269 1.52455269
+ 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269
+ 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269
+ 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269
+ 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269
+ 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269
+ 1.52455269 1.52455269 1.52455269 1.52455269 1.52455269 1.52455268
+ 1.52455268 1.52455268 1.52455268 1.52455268]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 91
+Size of game = (46, 47)
+Objective = 1.5245526796273705
+Support of attacker = 1
+Support of classifier = 46
+init time = 0.4123 s
+NFG time = 0.2192 s
+plot time = 0.0001 s
+BR time = 89.0389 s
+Train time = 91.8323 s
+Matrix update time = 0.1402 s
+Points utilities = [[1.22100058 1.20962853 1.09632893 0.96908964 0.94273703 0.98808059
+  0.98124824 1.01794113 1.02301872 1.05451334 1.06418667 1.09157298
+  1.10316389 1.12747094 1.15142962 1.16283879 1.18416407 1.20558928
+  1.21745916 1.23730116 1.2576256  1.27071956 1.29062065 1.31186878
+  1.3289447  1.35517256 1.40000692 1.39575153 1.39583622 1.39641067
+  1.39305699 1.39324587 1.39388049 1.38331829 1.38394626 1.38473546
+  1.38422988 1.3849571  1.38589857 1.38585692 1.38644328 1.38710603
+  1.38858612 1.39050585 1.39300035 1.39585163]]
+new point utility = 1.5244547136998468
+new point = [1.52445471]
+point added
+---------------------------- iteration: 92
+Size of game = (47, 47)
+Objective = 1.400006924626085
+Support of attacker = 1
+Support of classifier = 47
+init time = 0.4123 s
+NFG time = 0.2225 s
+plot time = 0.0001 s
+BR time = 90.5269 s
+Train time = 91.8327 s
+Matrix update time = 0.1442 s
+Points utilities = [[1.43582716 1.43513234 1.42198855 1.3462915  1.29200499 1.33100697
+  1.29939008 1.3249188  1.30920786 1.32778213 1.31952426 1.33406891
+  1.33007025 1.34214534 1.35424929 1.35209442 1.36189182 1.37195871
+  1.37127682 1.37963215 1.38833691 1.38874085 1.39611401 1.40392545
+  1.40524864 1.41202393 1.41910999 1.419367   1.42393677 1.42898232
+  1.4299778  1.43460478 1.4396744  1.43308593 1.43803445 1.44312015
+  1.44683273 1.45183859 1.45711584 1.46145703 1.46663342 1.47215715
+  1.47891971 1.48664051 1.49563922 1.50581954 1.52445471]]
+new point utility = 1.52444751774145
+new point = [1.52444752]
+classifier utilities = [1.52445473 1.52445473 1.52445473 1.52445473 1.52445473 1.52445473
+ 1.52445473 1.52445473 1.52445473 1.52445473 1.52445473 1.52445473
+ 1.52445473 1.52445473 1.52445473 1.52445473 1.52445473 1.52445473
+ 1.52445473 1.52445473 1.52445472 1.52445472 1.52445472 1.52445472
+ 1.52445472 1.52445472 1.52445472 1.52445472 1.52445472 1.52445472
+ 1.52445472 1.52445472 1.52445472 1.52445472 1.52445472 1.52445472
+ 1.52445472 1.52445472 1.52445472 1.52445472 1.52445472 1.52445472
+ 1.52445472 1.52445472 1.52445472 1.52445472 1.52445472]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 93
+Size of game = (47, 48)
+Objective = 1.5244547134890603
+Support of attacker = 1
+Support of classifier = 47
+init time = 0.4123 s
+NFG time = 0.2255 s
+plot time = 0.0001 s
+BR time = 92.3224 s
+Train time = 95.9488 s
+Matrix update time = 0.1452 s
+Points utilities = [[1.22673704 1.21540646 1.11084826 0.98473926 0.95734127 1.00227477
+  0.99422112 1.03029552 1.03441751 1.06530259 1.07419065 1.10100038
+  1.11191396 1.1356739  1.15909972 1.1699129  1.19071756 1.21162826
+  1.22294318 1.2422679  1.26207017 1.27460719 1.2939522  1.31460844
+  1.33101514 1.35643752 1.40000692 1.39574949 1.39582704 1.39638907
+  1.39301582 1.39317992 1.393783   1.38317964 1.38376142 1.38449888
+  1.3839342  1.38459257 1.38545176 1.38530895 1.38576798 1.38626574
+  1.38752259 1.38911363 1.39104152 1.3924487  1.39609215]]
+new point utility = 1.5242895662967266
+new point = [1.52428957]
+point added
+---------------------------- iteration: 94
+Size of game = (48, 48)
+Objective = 1.4000069243943147
+Support of attacker = 1
+Support of classifier = 48
+init time = 0.4123 s
+NFG time = 0.2291 s
+plot time = 0.0002 s
+BR time = 94.1707 s
+Train time = 95.9493 s
+Matrix update time = 0.1493 s
+Points utilities = [[1.43715574 1.43643488 1.42368714 1.35241878 1.29699118 1.33538432
+  1.30312272 1.32827765 1.31216507 1.33046393 1.32191276 1.33623034
+  1.3319947  1.34387053 1.35578479 1.35343397 1.36305427 1.37294856
+  1.37209087 1.38027854 1.3888162  1.38905005 1.39625276 1.40388917
+  1.40503179 1.41161962 1.41851315 1.41861209 1.42301915 1.427895
+  1.42871576 1.43315667 1.43803136 1.4312547  1.43599505 1.44086318
+  1.44434498 1.44909147 1.4540641  1.45803176 1.46273063 1.4676399
+  1.47361418 1.48030747 1.48783811 1.49544658 1.50629924 1.52428957]]
+new point utility = 1.524429580375252
+new point = [1.52442958]
+classifier utilities = [1.52428959 1.52428959 1.52428959 1.52428959 1.52428958 1.52428958
+ 1.52428958 1.52428958 1.52428958 1.52428958 1.52428958 1.52428958
+ 1.52428958 1.52428958 1.52428958 1.52428958 1.52428958 1.52428958
+ 1.52428958 1.52428958 1.52428958 1.52428958 1.52428958 1.52428958
+ 1.52428958 1.52428958 1.52428958 1.52428958 1.52428958 1.52428958
+ 1.52428958 1.52428957 1.52428957 1.52428957 1.52428957 1.52428957
+ 1.52428957 1.52428957 1.52428957 1.52428957 1.52428957 1.52428957
+ 1.52428957 1.52428957 1.52428957 1.52428957 1.52428957 1.52428957]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 95
+Size of game = (48, 49)
+Objective = 1.524289566074976
+Support of attacker = 1
+Support of classifier = 48
+init time = 0.4123 s
+NFG time = 0.2317 s
+plot time = 0.0002 s
+BR time = 96.0471 s
+Train time = 100.5733 s
+Matrix update time = 0.1502 s
+Points utilities = [[1.23213661 1.22079132 1.12379824 0.99960784 0.97124566 1.01577891
+  1.00655332 1.04202907 1.04523461 1.0755316  1.08366641 1.10992112
+  1.12018573 1.14342056 1.16633561 1.17657986 1.19688756 1.21730822
+  1.22809598 1.24692979 1.26623756 1.27824854 1.29706939 1.31716919
+  1.33294906 1.35762183 1.40000692 1.39574514 1.39581439 1.39636379
+  1.39297193 1.39311298 1.39368721 1.38304713 1.38358789 1.3842798
+  1.38366382 1.38426336 1.3850537  1.38482837 1.38518647 1.38555819
+  1.38665304 1.3880247  1.38962634 1.39045889 1.39278657 1.39624216]]
+new point utility = 1.5231686812011271
+new point = [1.52316868]
+point added
+---------------------------- iteration: 96
+Size of game = (49, 49)
+Objective = 1.4000069241604856
+Support of attacker = 1
+Support of classifier = 49
+init time = 0.4123 s
+NFG time = 0.2352 s
+plot time = 0.0002 s
+BR time = 97.4420 s
+Train time = 100.5739 s
+Matrix update time = 0.1548 s
+Points utilities = [[1.43773113 1.43696012 1.42454683 1.35864958 1.30201309 1.3397292
+  1.3067838  1.3315304  1.31499246 1.3329917  1.32412852 1.33819877
+  1.33371    1.34536865 1.35707605 1.35451569 1.36394375 1.37365106
+  1.37260666 1.38061477 1.38897452 1.38903092 1.39605555 1.40351082
+  1.40447036 1.41086896 1.41757042 1.41750208 1.42173755 1.42643565
+  1.42707552 1.43132392 1.43599804 1.42903235 1.43356279 1.43821579
+  1.4414771  1.4459865  1.45069604 1.45435972 1.45868538 1.46312281
+  1.46849182 1.4744115  1.4809329  1.48710005 1.49550553 1.50601008
+  1.52316868]]
+new point utility = 1.5235097699491276
+new point = [1.52350977]
+classifier utilities = [1.52316871 1.5231687  1.5231687  1.5231687  1.5231687  1.5231687
+ 1.5231687  1.5231687  1.5231687  1.5231687  1.5231687  1.5231687
+ 1.5231687  1.5231687  1.5231687  1.5231687  1.5231687  1.5231687
+ 1.5231687  1.5231687  1.5231687  1.5231687  1.5231687  1.52316869
+ 1.52316869 1.52316869 1.52316869 1.52316869 1.52316869 1.52316869
+ 1.52316869 1.52316869 1.52316869 1.52316869 1.52316869 1.52316869
+ 1.52316869 1.52316869 1.52316869 1.52316869 1.52316869 1.52316869
+ 1.52316869 1.52316869 1.52316869 1.52316869 1.52316869 1.52316869
+ 1.52316868]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 97
+Size of game = (49, 50)
+Objective = 1.523168680961355
+Support of attacker = 1
+Support of classifier = 49
+init time = 0.4123 s
+NFG time = 0.2379 s
+plot time = 0.0002 s
+BR time = 98.9940 s
+Train time = 104.9919 s
+Matrix update time = 0.1558 s
+Points utilities = [[1.23720884 1.22587608 1.13540562 1.01379555 0.98449663 1.02862241
+  1.01826975 1.05316588 1.05549246 1.08522283 1.09263546 1.11835622
+  1.1279993  1.15073044 1.17315642 1.18285828 1.20269198 1.22264593
+  1.23293329 1.25130157 1.2701412  1.28165565 1.29998275 1.31955996
+  1.33475401 1.35873119 1.40000692 1.39574076 1.39580265 1.39634142
+  1.39293438 1.39305686 1.39360807 1.38293907 1.38344762 1.38410396
+  1.38344824 1.3840027  1.384741   1.38445445 1.38473924 1.38502171
+  1.38600559 1.38723446 1.38864118 1.38917985 1.39101307 1.39330574
+  1.39607032]]
+new point utility = 1.522498635410829
+new point = [1.52249864]
+point added
+---------------------------- iteration: 98
+Size of game = (50, 50)
+Objective = 1.400006923945481
+Support of attacker = 1
+Support of classifier = 50
+init time = 0.4123 s
+NFG time = 0.2412 s
+plot time = 0.0002 s
+BR time = 100.8386 s
+Train time = 104.9925 s
+Matrix update time = 0.1616 s
+Points utilities = [[1.43859278 1.43781808 1.42584682 1.36446756 1.30678125 1.34391317
+  1.31035331 1.33474    1.31781551 1.33554636 1.32639674 1.34024261
+  1.33552016 1.34698076 1.3584996  1.35574596 1.36499907 1.37453668
+  1.3733213  1.38116691 1.38936602 1.38926089 1.39612483 1.4034168
+  1.40421013 1.4104378  1.41696559 1.41675408 1.42084271 1.42538817
+  1.42587146 1.42995312 1.43445288 1.42732046 1.4316676  1.4361333
+  1.43920439 1.44351353 1.44800795 1.45143318 1.45547756 1.45956851
+  1.46449502 1.46984467 1.47563239 1.48083843 1.48787552 1.49601949
+  1.50542895 1.52249864]]
+new point utility = 1.522489576602042
+new point = [1.52248958]
+classifier utilities = [1.52249866 1.52249866 1.52249866 1.52249866 1.52249866 1.52249866
+ 1.52249866 1.52249866 1.52249866 1.52249866 1.52249866 1.52249866
+ 1.52249866 1.52249866 1.52249865 1.52249865 1.52249865 1.52249865
+ 1.52249865 1.52249865 1.52249865 1.52249865 1.52249865 1.52249865
+ 1.52249865 1.52249865 1.52249865 1.52249865 1.52249865 1.52249865
+ 1.52249865 1.52249865 1.52249865 1.52249865 1.52249865 1.52249865
+ 1.52249865 1.52249865 1.52249865 1.52249865 1.52249864 1.52249864
+ 1.52249864 1.52249864 1.52249864 1.52249864 1.52249864 1.52249864
+ 1.52249864 1.52249864]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 99
+Size of game = (50, 51)
+Objective = 1.5224986351541847
+Support of attacker = 1
+Support of classifier = 50
+init time = 0.4123 s
+NFG time = 0.2441 s
+plot time = 0.0002 s
+BR time = 102.6205 s
+Train time = 109.4866 s
+Matrix update time = 0.1626 s
+Points utilities = [[1.24199824 1.23067592 1.14576216 1.02741327 0.99717952 1.0408918
+  1.02945048 1.06378253 1.06526173 1.09444242 1.1011588  1.12636306
+  1.13540792 1.15765346 1.17960878 1.18879059 1.20817003 1.22767757
+  1.23748776 1.25541255 1.27380735 1.28485152 1.30271219 1.32179775
+  1.33644329 1.35977335 1.40000692 1.39573506 1.39578906 1.39631734
+  1.39289606 1.39300141 1.39353172 1.38283691 1.38331674 1.3839415
+  1.38325072 1.38376572 1.38445901 1.38412033 1.3843438  1.38455318
+  1.38544833 1.38656673 1.38783023 1.38817121 1.38971226 1.39149787
+  1.39296489 1.39611469]]
+new point utility = 1.5221920472226071
+new point = [1.52219205]
+point added
+---------------------------- iteration: 100
+Size of game = (51, 51)
+Objective = 1.4000069236374137
+Support of attacker = 1
+Support of classifier = 51
+init time = 0.4123 s
+NFG time = 0.2505 s
+plot time = 0.0002 s
+BR time = 104.2842 s
+Train time = 109.4871 s
+Matrix update time = 0.1668 s
+Points utilities = [[1.43964777 1.4388854  1.42740122 1.36976355 1.31118016 1.34781268
+  1.31370819 1.3377801  1.32050935 1.3380025  1.32859478 1.34224041
+  1.33730682 1.34859009 1.35994012 1.35701186 1.36610836 1.37549424
+  1.3741248  1.38182513 1.38988071 1.38963026 1.39635045 1.40349628
+  1.40413992 1.41021416 1.41658574 1.41624811 1.42020749 1.42461824
+  1.42496248 1.428896   1.43324034 1.42595736 1.43014009 1.43443779
+  1.4373388  1.44147115 1.44577992 1.44900648 1.45282652 1.45665246
+  1.46124926 1.46617625 1.47141575 1.47591397 1.48201955 1.48882281
+  1.49586018 1.50542599 1.52219205]]
+new point utility = 1.522224732720897
+new point = [1.52222473]
+classifier utilities = [1.52219208 1.52219208 1.52219207 1.52219207 1.52219207 1.52219207
+ 1.52219207 1.52219207 1.52219207 1.52219207 1.52219207 1.52219207
+ 1.52219207 1.52219207 1.52219207 1.52219207 1.52219207 1.52219207
+ 1.52219207 1.52219207 1.52219207 1.52219207 1.52219206 1.52219206
+ 1.52219206 1.52219206 1.52219206 1.52219206 1.52219206 1.52219206
+ 1.52219206 1.52219206 1.52219206 1.52219206 1.52219206 1.52219206
+ 1.52219206 1.52219206 1.52219206 1.52219206 1.52219206 1.52219206
+ 1.52219206 1.52219206 1.52219206 1.52219206 1.52219206 1.52219205
+ 1.52219205 1.52219205 1.52219205]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 101
+Size of game = (51, 52)
+Objective = 1.5221920469590242
+Support of attacker = 1
+Support of classifier = 51
+init time = 0.4123 s
+NFG time = 0.2535 s
+plot time = 0.0002 s
+BR time = 105.8253 s
+Train time = 114.2303 s
+Matrix update time = 0.1679 s
+Points utilities = [[1.24653227 1.23522551 1.15500496 1.04057553 1.0093654  1.05264612
+  1.04014743 1.07392763 1.07458711 1.10323337 1.10927738 1.1339813
+  1.14244932 1.16422594 1.18572735 1.19440978 1.21335285 1.23243244
+  1.24178676 1.25928843 1.27725969 1.2878575  1.30527658 1.32389832
+  1.3380288  1.36075528 1.40000692 1.3957279  1.3957732  1.39629072
+  1.39285548 1.39294441 1.39345496 1.3827362  1.3831894  1.38378498
+  1.383062   1.38354099 1.38419356 1.38380832 1.38397783 1.38412403
+  1.38494404 1.38597123 1.3871206  1.38731283 1.38865156 1.3901336
+  1.3910569  1.39290049 1.39625791]]
+new point utility = 1.5216065413814608
+new point = [1.52160654]
+point added
+---------------------------- iteration: 102
+Size of game = (52, 52)
+Objective = 1.4000069232359562
+Support of attacker = 1
+Support of classifier = 52
+init time = 0.4123 s
+NFG time = 0.2571 s
+plot time = 0.0002 s
+BR time = 107.7554 s
+Train time = 114.2307 s
+Matrix update time = 0.1722 s
+Points utilities = [[1.44043691 1.43967821 1.42867675 1.37481968 1.31539723 1.35154372
+  1.31691283 1.34067691 1.3230696  1.34032927 1.3306691  1.34411708
+  1.33897598 1.35008366 1.36126638 1.35816606 1.3671074  1.37634303
+  1.37482204 1.38237912 1.39029356 1.38990132 1.3964813  1.40348527
+  1.40398488 1.40991197 1.41613466 1.41567252 1.41950483 1.42378383
+  1.42399289 1.42778261 1.43197636 1.42454844 1.42857219 1.43270761
+  1.43544501 1.43940855 1.44354291 1.44658821 1.45021183 1.4538173
+  1.45815266 1.46275555 1.46757947 1.4715408  1.47695062 1.48283655
+  1.48854494 1.49580233 1.50542596 1.52160654]]
+new point utility = 1.5216003843378338
+new point = [1.52160038]
+classifier utilities = [1.52160658 1.52160657 1.52160657 1.52160657 1.52160657 1.52160657
+ 1.52160657 1.52160657 1.52160657 1.52160657 1.52160657 1.52160657
+ 1.52160657 1.52160657 1.52160656 1.52160656 1.52160656 1.52160656
+ 1.52160656 1.52160656 1.52160656 1.52160656 1.52160656 1.52160656
+ 1.52160656 1.52160656 1.52160656 1.52160656 1.52160656 1.52160656
+ 1.52160656 1.52160656 1.52160656 1.52160656 1.52160655 1.52160655
+ 1.52160655 1.52160655 1.52160655 1.52160655 1.52160655 1.52160655
+ 1.52160655 1.52160655 1.52160655 1.52160655 1.52160655 1.52160655
+ 1.52160655 1.52160655 1.52160655 1.52160654]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 103
+Size of game = (52, 53)
+Objective = 1.5216065411153437
+Support of attacker = 1
+Support of classifier = 52
+init time = 0.4123 s
+NFG time = 0.2602 s
+plot time = 0.0002 s
+BR time = 109.4106 s
+Train time = 119.0278 s
+Matrix update time = 0.1731 s
+Points utilities = [[1.2508176  1.23957198 1.16333778 1.05338665 1.02109178 1.06390936
+  1.05037864 1.08361803 1.08348513 1.11161283 1.11700802 1.14122814
+  1.14914081 1.17046554 1.19153022 1.19973376 1.21825849 1.23692835
+  1.24584736 1.26294536 1.28051354 1.29068768 1.30768873 1.32587282
+  1.33951969 1.36168244 1.40000692 1.3957202  1.39575679 1.39626406
+  1.39281602 1.39289014 1.39338311 1.38264333 1.38307321 1.38364329
+  1.38289226 1.38333999 1.38395745 1.3835324  1.38365627 1.38374978
+  1.38450818 1.38546213 1.3865223  1.38660271 1.38779734 1.38908207
+  1.389705   1.39103126 1.39317992 1.39627672]]
+new point utility = 1.52146112262365
+new point = [1.52146112]
+point added
+---------------------------- iteration: 104
+Size of game = (53, 53)
+Objective = 1.4000069228495842
+Support of attacker = 1
+Support of classifier = 53
+init time = 0.4123 s
+NFG time = 0.2639 s
+plot time = 0.0002 s
+BR time = 111.1948 s
+Train time = 119.0282 s
+Matrix update time = 0.1774 s
+Points utilities = [[1.44147865 1.44072831 1.43011196 1.37956264 1.31933481 1.35503758
+  1.31992325 1.3434092  1.32549473 1.34254452 1.33265578 1.34592746
+  1.34060002 1.35155203 1.36258677 1.359333   1.36813736 1.37724052
+  1.37558476 1.38301536 1.39080507 1.3902864  1.3967419  1.40361965
+  1.40399    1.40978512 1.41587372 1.41530641 1.41903093 1.42319741
+  1.42328988 1.4269552  1.43101797 1.42346206 1.42734605 1.43133822
+  1.43393058 1.43774459 1.44172517 1.44461255 1.44806907 1.4514935
+  1.45562315 1.45998107 1.46449873 1.46806653 1.47296186 1.47817917
+  1.48300076 1.48897794 1.49638282 1.50548687 1.52146112]]
+new point utility = 1.5213083122017472
+new point = [1.52130831]
+classifier utilities = [1.52146116 1.52146116 1.52146115 1.52146115 1.52146115 1.52146115
+ 1.52146115 1.52146115 1.52146115 1.52146115 1.52146115 1.52146115
+ 1.52146115 1.52146115 1.52146115 1.52146115 1.52146115 1.52146115
+ 1.52146115 1.52146115 1.52146114 1.52146114 1.52146114 1.52146114
+ 1.52146114 1.52146114 1.52146114 1.52146114 1.52146114 1.52146114
+ 1.52146114 1.52146114 1.52146114 1.52146114 1.52146114 1.52146114
+ 1.52146114 1.52146114 1.52146114 1.52146114 1.52146114 1.52146114
+ 1.52146114 1.52146114 1.52146113 1.52146113 1.52146113 1.52146113
+ 1.52146113 1.52146113 1.52146113 1.52146113 1.52146113]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 105
+Size of game = (53, 54)
+Objective = 1.5214611223554533
+Support of attacker = 1
+Support of classifier = 53
+init time = 0.4123 s
+NFG time = 0.2669 s
+plot time = 0.0002 s
+BR time = 112.8605 s
+Train time = 123.7082 s
+Matrix update time = 0.1783 s
+Points utilities = [[1.25481222 1.24374536 1.17213302 1.06404395 1.03137924 1.07399507
+  1.05963254 1.09243688 1.09161677 1.11929422 1.12411193 1.14790058
+  1.1553119  1.17622786 1.19689574 1.20466177 1.2228037  1.24109789
+  1.24961668 1.26634307 1.28353953 1.29332237 1.3099368  1.3277157
+  1.34091445 1.3625548  1.40000692 1.39571197 1.39573945 1.39623618
+  1.39277534 1.39283482 1.39331063 1.38255068 1.38295823 1.38350405
+  1.3827265  1.38314484 1.38372948 1.38326755 1.38334953 1.38339528
+  1.38409863 1.38498833 1.38597197 1.38595928 1.38703815 1.38817326
+  1.38858974 1.38960941 1.39123671 1.39308582 1.39643823]]
+new point utility = 1.5214240324029935
+new point = [1.52142403]
+point added
+---------------------------- iteration: 106
+Size of game = (54, 54)
+Objective = 1.4000069225728404
+Support of attacker = 1
+Support of classifier = 54
+init time = 0.4123 s
+NFG time = 0.2707 s
+plot time = 0.0002 s
+BR time = 115.0754 s
+Train time = 123.7087 s
+Matrix update time = 0.1828 s
+Points utilities = [[1.44252924 1.44178225 1.4315258  1.38393587 1.32298028 1.35827993
+  1.32272219 1.34595336 1.32775585 1.34461269 1.33451312 1.34762252
+  1.34212326 1.352932   1.36383064 1.36043545 1.36911387 1.37809523
+  1.37631538 1.38362972 1.39130484 1.39066989 1.39701106 1.40377292
+  1.40402447 1.40969844 1.41566394 1.41499962 1.41862483 1.42268763
+  1.42267258 1.42622318 1.43016505 1.42249055 1.42624506 1.43010419
+  1.43256152 1.43623617 1.44007368 1.44281505 1.44611942 1.44938336
+  1.45333768 1.45749649 1.46177625 1.46504777 1.46955815 1.47427292
+  1.47844062 1.48355169 1.48970929 1.49663772 1.50587254 1.52142403]]
+new point utility = 1.521361797091234
+new point = [1.5213618]
+classifier utilities = [1.52142407 1.52142407 1.52142407 1.52142407 1.52142407 1.52142406
+ 1.52142406 1.52142406 1.52142406 1.52142406 1.52142406 1.52142406
+ 1.52142406 1.52142406 1.52142406 1.52142406 1.52142406 1.52142406
+ 1.52142406 1.52142406 1.52142406 1.52142406 1.52142406 1.52142405
+ 1.52142405 1.52142405 1.52142405 1.52142405 1.52142405 1.52142405
+ 1.52142405 1.52142405 1.52142405 1.52142405 1.52142405 1.52142405
+ 1.52142405 1.52142405 1.52142405 1.52142405 1.52142405 1.52142405
+ 1.52142405 1.52142405 1.52142405 1.52142405 1.52142404 1.52142404
+ 1.52142404 1.52142404 1.52142404 1.52142404 1.52142404 1.52142404]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 107
+Size of game = (54, 55)
+Objective = 1.521424032132679
+Support of attacker = 1
+Support of classifier = 54
+init time = 0.4123 s
+NFG time = 0.2733 s
+plot time = 0.0002 s
+BR time = 116.5252 s
+Train time = 128.4714 s
+Matrix update time = 0.1839 s
+Points utilities = [[1.25859073 1.24770826 1.18035174 1.07410559 1.04114802 1.08358433
+  1.06843434 1.10082478 1.09934972 1.12659708 1.13086351 1.15423963
+  1.16117239 1.1816979  1.20198693 1.20933585 1.22711287 1.24504908
+  1.25318701 1.26956003 1.28640334 1.29581496 1.31206311 1.32945884
+  1.34223485 1.36338363 1.40000692 1.39570309 1.39572107 1.39620713
+  1.39273366 1.39277889 1.39323821 1.38245916 1.38284564 1.38336866
+  1.3825663  1.38295728 1.38351154 1.38301568 1.38305941 1.3830619
+  1.38371595 1.38454892 1.38546626 1.38537482 1.38635844 1.38737523
+  1.3876386  1.38845123 1.38977542 1.39110912 1.39328072 1.39659129]]
+new point utility = 1.5214177863730207
+new point = [1.52141779]
+point added
+---------------------------- iteration: 108
+Size of game = (55, 55)
+Objective = 1.4000069222992397
+Support of attacker = 1
+Support of classifier = 55
+init time = 0.4123 s
+NFG time = 0.2775 s
+plot time = 0.0002 s
+BR time = 118.1594 s
+Train time = 128.4718 s
+Matrix update time = 0.1884 s
+Points utilities = [[1.44354232 1.44279454 1.43288454 1.38800785 1.32638873 1.36131666
+  1.3253468  1.34834091 1.32987899 1.34655544 1.33625847 1.34921588
+  1.3435555  1.35422997 1.36500106 1.36147334 1.37003379 1.37890115
+  1.37700515 1.38421081 1.39177888 1.39103537 1.39726997 1.40392396
+  1.40406503 1.40962656 1.41547797 1.41472258 1.41825477 1.42222067
+  1.42210524 1.42554889 1.42937807 1.42159292 1.42522655 1.42896127
+  1.43129204 1.43483585 1.4385389  1.44114334 1.44430602 1.44742286
+  1.4512208  1.45520906 1.45929476 1.46233588 1.46655551 1.47089414
+  1.47457165 1.47904484 1.48436017 1.49007577 1.49721828 1.5062832
+  1.52141779]]
+new point utility = 1.521413018176609
+new point = [1.52141302]
+classifier utilities = [1.52141783 1.52141783 1.52141782 1.52141782 1.52141782 1.52141782
+ 1.52141782 1.52141782 1.52141782 1.52141782 1.52141782 1.52141782
+ 1.52141782 1.52141782 1.52141782 1.52141782 1.52141782 1.52141781
+ 1.52141781 1.52141781 1.52141781 1.52141781 1.52141781 1.52141781
+ 1.52141781 1.52141781 1.52141781 1.52141781 1.52141781 1.52141781
+ 1.52141781 1.52141781 1.52141781 1.5214178  1.5214178  1.5214178
+ 1.5214178  1.5214178  1.5214178  1.5214178  1.5214178  1.5214178
+ 1.5214178  1.5214178  1.5214178  1.5214178  1.5214178  1.5214178
+ 1.5214178  1.5214178  1.5214178  1.5214178  1.5214178  1.52141779
+ 1.52141779]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 109
+Size of game = (55, 56)
+Objective = 1.5214177861025284
+Support of attacker = 1
+Support of classifier = 55
+init time = 0.4123 s
+NFG time = 0.2801 s
+plot time = 0.0002 s
+BR time = 119.7504 s
+Train time = 133.3861 s
+Matrix update time = 0.1895 s
+Points utilities = [[1.26216886 1.25148033 1.18799918 1.08368285 1.05046945 1.09273462
+  1.07683195 1.10882466 1.10672223 1.13355645 1.13729479 1.16027533
+  1.16675006 1.18690152 1.20682787 1.21377824 1.2312065  1.24880096
+  1.25657581 1.2726121  1.28911931 1.29817809 1.31407854 1.33111114
+  1.34348745 1.36417266 1.40000692 1.39569374 1.39570201 1.39617741
+  1.39269156 1.39272299 1.39316655 1.38236951 1.38273619 1.38323788
+  1.38241243 1.38277806 1.3833043  1.38277735 1.38278622 1.38274957
+  1.38335937 1.38414198 1.38500136 1.38484246 1.38574628 1.38666688
+  1.38681101 1.38747182 1.38859346 1.389632   1.39131414 1.39350804
+  1.39672405]]
+new point utility = 1.5212053956334703
+new point = [1.5212054]
+point added
+---------------------------- iteration: 110
+Size of game = (56, 56)
+Objective = 1.4000069220263398
+Support of attacker = 1
+Support of classifier = 56
+init time = 0.4123 s
+NFG time = 0.2840 s
+plot time = 0.0002 s
+BR time = 121.4082 s
+Train time = 133.3866 s
+Matrix update time = 0.1940 s
+Points utilities = [[1.44436187 1.44360824 1.43405043 1.39190976 1.32967107 1.36423813
+  1.32786977 1.35063185 1.33191212 1.34841092 1.33792004 1.35072688
+  1.34490749 1.35544853 1.36609272 1.36243377 1.37087688 1.37963086
+  1.37762005 1.38471801 1.39218028 1.39133022 1.39746031 1.40400897
+  1.40404309 1.40949615 1.41523817 1.41439238 1.41783275 1.42170364
+  1.4214906  1.42483059 1.42855102 1.42066    1.4241775  1.42779274
+  1.430002   1.43342    1.43699365 1.4394664  1.4424932  1.44547013
+  1.44912181 1.45295512 1.45687184 1.45972271 1.46371333 1.46776549
+  1.4710746  1.47506751 1.47976058 1.48465725 1.49062829 1.49767605
+  1.50653278 1.5212054 ]]
+new point utility = 1.5214164418615173
+new point = [1.52141644]
+classifier utilities = [1.52120544 1.52120544 1.52120544 1.52120543 1.52120543 1.52120543
+ 1.52120543 1.52120543 1.52120543 1.52120543 1.52120543 1.52120543
+ 1.52120543 1.52120543 1.52120543 1.52120543 1.52120543 1.52120543
+ 1.52120543 1.52120542 1.52120542 1.52120542 1.52120542 1.52120542
+ 1.52120542 1.52120542 1.52120542 1.52120542 1.52120542 1.52120542
+ 1.52120542 1.52120542 1.52120542 1.52120542 1.52120542 1.52120541
+ 1.52120541 1.52120541 1.52120541 1.52120541 1.52120541 1.52120541
+ 1.52120541 1.52120541 1.52120541 1.52120541 1.52120541 1.52120541
+ 1.52120541 1.52120541 1.52120541 1.52120541 1.52120541 1.52120541
+ 1.5212054  1.5212054 ]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 111
+Size of game = (56, 57)
+Objective = 1.5212053953621367
+Support of attacker = 1
+Support of classifier = 56
+init time = 0.4123 s
+NFG time = 0.2868 s
+plot time = 0.0002 s
+BR time = 123.0485 s
+Train time = 138.3695 s
+Matrix update time = 0.1949 s
+Points utilities = [[1.26555801 1.25511926 1.1951075  1.09276062 1.05932    1.10142356
+  1.08480851 1.11642372 1.11372513 1.14016584 1.14340135 1.16600447
+  1.17204262 1.19183728 1.21141773 1.21798844 1.23508443 1.2523534
+  1.25978286 1.27549898 1.29168687 1.30041095 1.315982   1.33267128
+  1.34467073 1.36491993 1.40000692 1.39568428 1.395683   1.39614818
+  1.39265074 1.39266943 1.39309857 1.38228526 1.38263408 1.38311658
+  1.38227045 1.38261344 1.38311477 1.38256027 1.3825384  1.38246741
+  1.38303858 1.38377759 1.3845873  1.3843715  1.3852092  1.38605195
+  1.38610259 1.38664896 1.38762656 1.38847406 1.38988207 1.39162206
+  1.39379466 1.39677679]]
+new point utility = 1.5207769137513616
+new point = [1.52077691]
+point added
+---------------------------- iteration: 112
+Size of game = (57, 57)
+Objective = 1.4000069217550857
+Support of attacker = 1
+Support of classifier = 57
+init time = 0.4123 s
+NFG time = 0.2904 s
+plot time = 0.0002 s
+BR time = 124.6794 s
+Train time = 138.3699 s
+Matrix update time = 0.1995 s
+Points utilities = [[1.4449937  1.44423269 1.43501601 1.39575718 1.33290804 1.36711107
+  1.33034611 1.35287534 1.33389851 1.35021858 1.33953344 1.35218833
+  1.34620914 1.35661522 1.36713095 1.36333986 1.37166426 1.38030363
+  1.37817739 1.38516689 1.39252287 1.3915665  1.39759244 1.40403665
+  1.40396566 1.40931258 1.41494831 1.41401361 1.41736411 1.42114259
+  1.42083535 1.42407568 1.42769195 1.41970046 1.42310732 1.4266088
+  1.42870243 1.43200056 1.43545077 1.43779781 1.4406949  1.44353867
+  1.44705223 1.45074163 1.45450589 1.45719242 1.46099465 1.46482233
+  1.46785268 1.47148596 1.47571207 1.48000623 1.48518671 1.49110518
+  1.4980106  1.50648434 1.52077691]]
+new point utility = 1.520780609030367
+new point = [1.52078061]
+classifier utilities = [1.52077696 1.52077696 1.52077696 1.52077696 1.52077695 1.52077695
+ 1.52077695 1.52077695 1.52077695 1.52077695 1.52077695 1.52077695
+ 1.52077695 1.52077695 1.52077695 1.52077695 1.52077695 1.52077695
+ 1.52077695 1.52077694 1.52077694 1.52077694 1.52077694 1.52077694
+ 1.52077694 1.52077694 1.52077694 1.52077694 1.52077694 1.52077694
+ 1.52077694 1.52077694 1.52077694 1.52077694 1.52077693 1.52077693
+ 1.52077693 1.52077693 1.52077693 1.52077693 1.52077693 1.52077693
+ 1.52077693 1.52077693 1.52077693 1.52077693 1.52077693 1.52077693
+ 1.52077693 1.52077693 1.52077693 1.52077693 1.52077693 1.52077693
+ 1.52077692 1.52077692 1.52077692]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 113
+Size of game = (57, 58)
+Objective = 1.5207769134773976
+Support of attacker = 1
+Support of classifier = 57
+init time = 0.4123 s
+NFG time = 0.2931 s
+plot time = 0.0002 s
+BR time = 126.5532 s
+Train time = 143.2388 s
+Matrix update time = 0.2005 s
+Points utilities = [[1.26877357 1.25869852 1.20163155 1.10128885 1.06763852 1.1095957
+  1.09231966 1.12358541 1.12032907 1.14640036 1.14916199 1.1714084
+  1.17703347 1.19648982 1.21574205 1.22195284 1.23873357 1.25569374
+  1.26279596 1.27820873 1.29409436 1.30250236 1.31776283 1.33412937
+  1.34577589 1.36561836 1.40000692 1.39567471 1.39566423 1.39611993
+  1.39261203 1.3926194  1.39303588 1.38220843 1.38254171 1.38300755
+  1.38214349 1.38246691 1.38294675 1.38236857 1.38232031 1.38221989
+  1.38275804 1.3834599  1.38422757 1.38396406 1.384747   1.38552638
+  1.38550265 1.38596042 1.38683056 1.38754346 1.3887745  1.3902601
+  1.39200643 1.39397737 1.3967723 ]]
+new point utility = 1.5206834415977648
+new point = [1.52068344]
+point added
+---------------------------- iteration: 114
+Size of game = (58, 58)
+Objective = 1.4000069214773505
+Support of attacker = 1
+Support of classifier = 58
+init time = 0.4123 s
+NFG time = 0.2968 s
+plot time = 0.0002 s
+BR time = 128.8858 s
+Train time = 143.2393 s
+Matrix update time = 0.2055 s
+Points utilities = [[1.44582587 1.44506335 1.43612555 1.39941111 1.33596033 1.36982462
+  1.33269015 1.35500577 1.33579106 1.35194814 1.34108505 1.3536025
+  1.34747804 1.35776289 1.36816355 1.36425329 1.37247163 1.38100872
+  1.37877873 1.38567142 1.39293247 1.39188043 1.39781299 1.40416339
+  1.4039972  1.4092481  1.41478734 1.41377732 1.41705142 1.4207509
+  1.42036246 1.42351672 1.42704272 1.41896299 1.42227323 1.425675
+  1.42766678 1.43085898 1.43419967 1.43643463 1.43921572 1.44194015
+  1.4453301  1.44889149 1.45252203 1.455068   1.45871498 1.46236565
+  1.46518529 1.46855358 1.47243714 1.4762864  1.48089095 1.48605175
+  1.49186669 1.49842818 1.50652126 1.52068344]]
+new point utility = 1.5206745928442793
+new point = [1.52067459]
+classifier utilities = [1.52068349 1.52068349 1.52068349 1.52068349 1.52068348 1.52068348
+ 1.52068348 1.52068348 1.52068348 1.52068348 1.52068348 1.52068348
+ 1.52068348 1.52068348 1.52068348 1.52068348 1.52068348 1.52068348
+ 1.52068348 1.52068347 1.52068347 1.52068347 1.52068347 1.52068347
+ 1.52068347 1.52068347 1.52068347 1.52068347 1.52068347 1.52068347
+ 1.52068347 1.52068347 1.52068347 1.52068347 1.52068346 1.52068346
+ 1.52068346 1.52068346 1.52068346 1.52068346 1.52068346 1.52068346
+ 1.52068346 1.52068346 1.52068346 1.52068346 1.52068346 1.52068346
+ 1.52068346 1.52068346 1.52068346 1.52068346 1.52068346 1.52068346
+ 1.52068345 1.52068345 1.52068345 1.52068345]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 115
+Size of game = (58, 59)
+Objective = 1.5206834413244485
+Support of attacker = 1
+Support of classifier = 58
+init time = 0.4123 s
+NFG time = 0.2995 s
+plot time = 0.0002 s
+BR time = 130.7703 s
+Train time = 148.1247 s
+Matrix update time = 0.2065 s
+Points utilities = [[1.2718315  1.2621075  1.20772899 1.10942986 1.0755978  1.11741426
+  1.09950534 1.13043466 1.12664295 1.15235899 1.1546659  1.17656971
+  1.18179876 1.20093059 1.2198682  1.22573441 1.24221325 1.25887796
+  1.26566742 1.28079035 1.29638747 1.30449401 1.31945862 1.33551804
+  1.34682924 1.36628553 1.40000692 1.39566502 1.3956453  1.39609153
+  1.39257328 1.39256952 1.39297363 1.38213252 1.38245084 1.3829007
+  1.38201956 1.38232443 1.38278401 1.38218365 1.38211081 1.38198309
+  1.38249076 1.38315849 1.38388774 1.38358104 1.38431488 1.38503824
+  1.38495002 1.38533261 1.38611388 1.38671951 1.3878169  1.38912644
+  1.39061711 1.39215077 1.3938907  1.39688563]]
+new point utility = 1.5206608385113374
+new point = [1.52066084]
+point added
+---------------------------- iteration: 116
+Size of game = (59, 59)
+Objective = 1.400006921042578
+Support of attacker = 1
+Support of classifier = 59
+init time = 0.4123 s
+NFG time = 0.3049 s
+plot time = 0.0002 s
+BR time = 132.4208 s
+Train time = 148.1251 s
+Matrix update time = 0.2112 s
+Points utilities = [[1.44666412 1.44589758 1.43723215 1.4028158  1.33881759 1.37237122
+  1.33489428 1.35701201 1.33757579 1.35358132 1.34255204 1.3549415
+  1.34868142 1.35885334 1.36914684 1.36512533 1.37324488 1.38168672
+  1.37935996 1.38616249 1.39333517 1.39219394 1.39803961 1.40430274
+  1.40404793 1.40920959 1.41465921 1.4135788  1.41678171 1.4204077
+  1.41994382 1.42301831 1.42646076 1.41829932 1.42152026 1.42482986
+  1.4267274  1.42982147 1.4330605  1.43519117 1.43786405 1.44047692
+  1.44375122 1.44719311 1.45069975 1.45311758 1.45662687 1.46012681
+  1.46277568 1.46593863 1.46956426 1.47308106 1.47725267 1.4818526
+  1.48692648 1.49241398 1.49861571 1.50681721 1.52066084]]
+new point utility = 1.5206549684556023
+new point = [1.52065497]
+classifier utilities = [1.52066089 1.52066089 1.52066089 1.52066089 1.52066088 1.52066088
+ 1.52066088 1.52066088 1.52066088 1.52066088 1.52066088 1.52066088
+ 1.52066088 1.52066088 1.52066088 1.52066088 1.52066088 1.52066088
+ 1.52066087 1.52066087 1.52066087 1.52066087 1.52066087 1.52066087
+ 1.52066087 1.52066087 1.52066087 1.52066087 1.52066087 1.52066087
+ 1.52066087 1.52066086 1.52066086 1.52066086 1.52066086 1.52066086
+ 1.52066086 1.52066086 1.52066086 1.52066086 1.52066086 1.52066086
+ 1.52066086 1.52066086 1.52066086 1.52066086 1.52066086 1.52066086
+ 1.52066086 1.52066086 1.52066086 1.52066086 1.52066086 1.52066085
+ 1.52066085 1.52066085 1.52066085 1.52066085 1.52066084]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 117
+Size of game = (59, 60)
+Objective = 1.5206608382530609
+Support of attacker = 1
+Support of classifier = 59
+init time = 0.4123 s
+NFG time = 0.3081 s
+plot time = 0.0002 s
+BR time = 134.0262 s
+Train time = 152.9465 s
+Matrix update time = 0.2122 s
+Points utilities = [[1.27474023 1.26536385 1.213444   1.11721312 1.0832213  1.1249005
+  1.10638439 1.13698948 1.13268364 1.158058   1.1599285  1.18150329
+  1.1863525  1.20517299 1.22380889 1.22934503 1.24553475 1.26191662
+  1.26840692 1.28325273 1.29857422 1.30639303 1.32107545 1.33684232
+  1.34783448 1.36692354 1.40000692 1.3956553  1.39562638 1.39606324
+  1.39253483 1.39252019 1.39291231 1.38205808 1.38236205 1.38279667
+  1.3818993  1.38218663 1.38262719 1.38200611 1.38191044 1.38175751
+  1.38223715 1.38287362 1.38356788 1.38322208 1.38391182 1.38458541
+  1.38444075 1.3847587  1.3854652  1.38598298 1.3869748  1.38815291
+  1.38946957 1.39074821 1.39205212 1.39403711 1.39699397]]
+new point utility = 1.5202973309979406
+new point = [1.52029733]
+point added
+---------------------------- iteration: 118
+Size of game = (60, 60)
+Objective = 1.4000069205722352
+Support of attacker = 1
+Support of classifier = 60
+init time = 0.4123 s
+NFG time = 0.3148 s
+plot time = 0.0002 s
+BR time = 135.4864 s
+Train time = 152.9470 s
+Matrix update time = 0.2170 s
+Points utilities = [[1.44722774 1.44645195 1.43808002 1.40615031 1.34163827 1.37488006
+  1.33706185 1.35897887 1.33931943 1.35516975 1.34397122 1.35622832
+  1.34982879 1.35988307 1.37006458 1.3659278  1.37394398 1.38228611
+  1.37985898 1.38656745 1.39364817 1.39241513 1.39817128 1.40434504
+  1.40400069 1.40907261 1.41443298 1.41327844 1.416407   1.41995714
+  1.41941655 1.42241046 1.42576923 1.41752751 1.42066018 1.42387908
+  1.42568431 1.42868237 1.43182206 1.43385097 1.43641818 1.43892204
+  1.44208322 1.44540827 1.44879422 1.4510885  1.4544673  1.45782869
+  1.46032759 1.46331933 1.46674027 1.47000224 1.47384553 1.47801943
+  1.48254158 1.4872997  1.49244684 1.49881684 1.50689872 1.52029733]]
+new point utility = 1.5206489007343422
+new point = [1.5206489]
+classifier utilities = [1.52029739 1.52029738 1.52029738 1.52029738 1.52029738 1.52029738
+ 1.52029738 1.52029738 1.52029738 1.52029738 1.52029738 1.52029737
+ 1.52029737 1.52029737 1.52029737 1.52029737 1.52029737 1.52029737
+ 1.52029737 1.52029737 1.52029737 1.52029737 1.52029737 1.52029737
+ 1.52029736 1.52029736 1.52029736 1.52029736 1.52029736 1.52029736
+ 1.52029736 1.52029736 1.52029736 1.52029736 1.52029736 1.52029736
+ 1.52029736 1.52029736 1.52029736 1.52029736 1.52029736 1.52029735
+ 1.52029735 1.52029735 1.52029735 1.52029735 1.52029735 1.52029735
+ 1.52029735 1.52029735 1.52029735 1.52029735 1.52029735 1.52029735
+ 1.52029735 1.52029735 1.52029735 1.52029734 1.52029734 1.52029733]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 119
+Size of game = (60, 61)
+Objective = 1.5202973307545646
+Support of attacker = 1
+Support of classifier = 60
+init time = 0.4123 s
+NFG time = 0.3180 s
+plot time = 0.0002 s
+BR time = 137.2671 s
+Train time = 158.0484 s
+Matrix update time = 0.2180 s
+Points utilities = [[1.27750386 1.26849988 1.21888353 1.12466871 1.0905217  1.13206256
+  1.11296358 1.14325702 1.13845883 1.16350565 1.16495835 1.18621797
+  1.19070358 1.209226   1.22757314 1.23279356 1.24870674 1.26481815
+  1.27102257 1.28560362 1.30066181 1.30820596 1.32261918 1.33810717
+  1.34879561 1.36753526 1.40000692 1.39564614 1.39560858 1.39603674
+  1.39249899 1.39247443 1.39285566 1.3819896  1.38228065 1.38270155
+  1.38178963 1.38206129 1.3824849  1.38184547 1.38172965 1.38155459
+  1.38200969 1.38261893 1.38328284 1.38290329 1.38355519 1.38418643
+  1.38399432 1.38425871 1.38490436 1.38535226 1.38626232 1.38734239
+  1.38853669 1.38965242 1.39071762 1.39230196 1.39432562 1.39698405]]
+new point utility = 1.52004037168028
+new point = [1.52004037]
+point added
+---------------------------- iteration: 120
+Size of game = (61, 61)
+Objective = 1.40000692009682
+Support of attacker = 1
+Support of classifier = 61
+init time = 0.4123 s
+NFG time = 0.3221 s
+plot time = 0.0002 s
+BR time = 138.8610 s
+Train time = 158.0489 s
+Matrix update time = 0.2229 s
+Points utilities = [[1.44784042 1.44705922 1.43894211 1.40940267 1.34437085 1.37730765
+  1.33915938 1.36088322 1.34100896 1.35671054 1.34534973 1.35748054
+  1.35094787 1.36089033 1.37096559 1.36671925 1.37463752 1.3828853
+  1.38036301 1.38698255 1.39397637 1.39265644 1.39832802 1.40441744
+  1.4039885  1.40897578 1.41425207 1.41303086 1.41609256 1.41957443
+  1.41896469 1.42188601 1.42516941 1.4168552  1.41990835 1.42304547
+  1.42476737 1.42767868 1.43072845 1.43266503 1.43513611 1.43754053
+  1.44059822 1.44381615 1.44709132 1.44927238 1.4525325  1.45576981
+  1.45813807 1.46098636 1.46424351 1.46731032 1.47090893 1.4747674
+  1.47887903 1.48310416 1.48754592 1.49289875 1.49920454 1.50681629
+  1.52004037]]
+new point utility = 1.5200645524486405
+new point = [1.52006455]
+classifier utilities = [1.52004043 1.52004043 1.52004043 1.52004042 1.52004042 1.52004042
+ 1.52004042 1.52004042 1.52004042 1.52004042 1.52004042 1.52004042
+ 1.52004042 1.52004042 1.52004042 1.52004042 1.52004041 1.52004041
+ 1.52004041 1.52004041 1.52004041 1.52004041 1.52004041 1.52004041
+ 1.52004041 1.52004041 1.52004041 1.52004041 1.5200404  1.5200404
+ 1.5200404  1.5200404  1.5200404  1.5200404  1.5200404  1.5200404
+ 1.5200404  1.5200404  1.5200404  1.5200404  1.5200404  1.5200404
+ 1.5200404  1.5200404  1.5200404  1.5200404  1.5200404  1.5200404
+ 1.52004039 1.52004039 1.52004039 1.52004039 1.52004039 1.52004039
+ 1.52004039 1.52004039 1.52004039 1.52004039 1.52004038 1.52004038
+ 1.52004038]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 121
+Size of game = (61, 62)
+Objective = 1.5200403714535506
+Support of attacker = 1
+Support of classifier = 61
+init time = 0.4123 s
+NFG time = 0.3251 s
+plot time = 0.0002 s
+BR time = 140.8607 s
+Train time = 163.2040 s
+Matrix update time = 0.2240 s
+Points utilities = [[1.28013717 1.27150308 1.22401591 1.13180422 1.09751922 1.13892441
+  1.11926618 1.1492596  1.1439888  1.16872086 1.16977261 1.1907296
+  1.1948665  1.21310293 1.23117311 1.23609098 1.25173915 1.26759151
+  1.27352225 1.2878499  1.30265625 1.30993787 1.3240939  1.33931573
+  1.34971458 1.36812108 1.40000692 1.39563724 1.39559134 1.39601112
+  1.39246442 1.39243039 1.39280129 1.38192408 1.38220295 1.38261097
+  1.38168541 1.38194244 1.38235032 1.38169394 1.38155963 1.38136434
+  1.38179713 1.3823817  1.38301822 1.38260835 1.38322639 1.38381993
+  1.38358594 1.38380352 1.38439669 1.38478534 1.38562751 1.38662827
+  1.38772718 1.38872322 1.38962875 1.39098075 1.39260975 1.39430872
+  1.3970264 ]]
+new point utility = 1.5199960436715503
+new point = [1.51999604]
+point added
+---------------------------- iteration: 122
+Size of game = (62, 62)
+Objective = 1.4000069196108074
+Support of attacker = 1
+Support of classifier = 62
+init time = 0.4123 s
+NFG time = 0.3290 s
+plot time = 0.0002 s
+BR time = 142.7848 s
+Train time = 163.2045 s
+Matrix update time = 0.2290 s
+Points utilities = [[1.44857039 1.44778551 1.43989766 1.41245451 1.34693015 1.37958683
+  1.34113275 1.36267928 1.34260641 1.35817176 1.34666167 1.35867733
+  1.35202279 1.3618637  1.37184266 1.3674965  1.37532615 1.38348859
+  1.38087974 1.38741878 1.39433391 1.39293483 1.39852961 1.4045423
+  1.40403595 1.40894584 1.41414504 1.4128651  1.41586781 1.41928929
+  1.41861808 1.42147491 1.42469127 1.41631203 1.41929426 1.42235837
+  1.42400571 1.42683931 1.42980841 1.4316619  1.43404631 1.43636076
+  1.43932458 1.442445   1.44561907 1.44769661 1.45084843 1.45397331
+  1.45622496 1.45894862 1.46206886 1.46497989 1.46839121 1.47201452
+  1.47582177 1.47964949 1.483574   1.48824131 1.4935533  1.49940515
+  1.50695244 1.51999604]]
+new point utility = 1.5199390679967668
+new point = [1.51993907]
+classifier utilities = [1.51999611 1.5199961  1.5199961  1.5199961  1.5199961  1.5199961
+ 1.5199961  1.5199961  1.51999609 1.51999609 1.51999609 1.51999609
+ 1.51999609 1.51999609 1.51999609 1.51999609 1.51999609 1.51999609
+ 1.51999609 1.51999609 1.51999609 1.51999608 1.51999608 1.51999608
+ 1.51999608 1.51999608 1.51999608 1.51999608 1.51999608 1.51999608
+ 1.51999608 1.51999608 1.51999608 1.51999608 1.51999607 1.51999607
+ 1.51999607 1.51999607 1.51999607 1.51999607 1.51999607 1.51999607
+ 1.51999607 1.51999607 1.51999607 1.51999607 1.51999607 1.51999607
+ 1.51999607 1.51999607 1.51999607 1.51999607 1.51999607 1.51999607
+ 1.51999606 1.51999606 1.51999606 1.51999606 1.51999606 1.51999606
+ 1.51999605 1.51999605]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 123
+Size of game = (62, 63)
+Objective = 1.5199960434650248
+Support of attacker = 1
+Support of classifier = 62
+init time = 0.4123 s
+NFG time = 0.3319 s
+plot time = 0.0002 s
+BR time = 144.2683 s
+Train time = 168.5619 s
+Matrix update time = 0.2300 s
+Points utilities = [[1.28265137 1.2743704  1.22883404 1.13863424 1.10423317 1.14550723
+  1.12531216 1.15501622 1.14929086 1.1737198  1.17438612 1.19505208
+  1.19885392 1.21681555 1.23461968 1.23924716 1.25464103 1.27024489
+  1.27591327 1.2899981  1.30456327 1.31159361 1.3255037  1.34047117
+  1.35059348 1.36868179 1.40000692 1.39562838 1.39557419 1.39598567
+  1.39243013 1.39238676 1.39274751 1.38185941 1.3821264  1.38252188
+  1.38158312 1.38182605 1.38221882 1.38154628 1.38139443 1.38118006
+  1.38159192 1.38215345 1.3827645  1.38232657 1.38291336 1.38347226
+  1.3832     1.38337509 1.38392106 1.38425712 1.38503999 1.3859729
+  1.38699237 1.38789249 1.38867753 1.38986952 1.39126421 1.39255817
+  1.39431189 1.39712719]]
+new point utility = 1.5199812136117932
+new point = [1.51998121]
+point added
+---------------------------- iteration: 124
+Size of game = (63, 63)
+Objective = 1.4000069191100188
+Support of attacker = 1
+Support of classifier = 63
+init time = 0.4123 s
+NFG time = 0.3362 s
+plot time = 0.0002 s
+BR time = 146.4532 s
+Train time = 168.5624 s
+Matrix update time = 0.2353 s
+Points utilities = [[1.4492868  1.44849629 1.4408407  1.41530775 1.34933794 1.38173694
+  1.34299835 1.36437962 1.34412038 1.35955779 1.34790708 1.35981432
+  1.35304481 1.36278998 1.37267812 1.3682377  1.37598372 1.38406564
+  1.38137505 1.38783812 1.39467898 1.39320519 1.39872753 1.40466788
+  1.40408859 1.40892566 1.41405239 1.41271638 1.41566298 1.41902721
+  1.41829791 1.421094   1.4242474  1.41580725 1.41872321 1.42171919
+  1.42329706 1.42605834 1.42895238 1.43072856 1.43303226 1.43526284
+  1.43813897 1.44116812 1.44424732 1.44622752 1.44927746 1.45229683
+  1.45443992 1.45704946 1.46004785 1.46282583 1.46608469 1.46952504
+  1.4731023  1.47663218 1.48016762 1.48432804 1.48896697 1.49383824
+  1.49965948 1.50722589 1.51998121]]
+new point utility = 1.519953853245806
+new point = [1.51995385]
+classifier utilities = [1.51998128 1.51998128 1.51998127 1.51998127 1.51998127 1.51998127
+ 1.51998127 1.51998127 1.51998127 1.51998127 1.51998127 1.51998127
+ 1.51998126 1.51998126 1.51998126 1.51998126 1.51998126 1.51998126
+ 1.51998126 1.51998126 1.51998126 1.51998126 1.51998126 1.51998126
+ 1.51998125 1.51998125 1.51998125 1.51998125 1.51998125 1.51998125
+ 1.51998125 1.51998125 1.51998125 1.51998125 1.51998125 1.51998125
+ 1.51998125 1.51998125 1.51998124 1.51998124 1.51998124 1.51998124
+ 1.51998124 1.51998124 1.51998124 1.51998124 1.51998124 1.51998124
+ 1.51998124 1.51998124 1.51998124 1.51998124 1.51998124 1.51998124
+ 1.51998124 1.51998124 1.51998124 1.51998123 1.51998123 1.51998123
+ 1.51998123 1.51998122 1.51998122]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 125
+Size of game = (63, 64)
+Objective = 1.5199812134275035
+Support of attacker = 1
+Support of classifier = 63
+init time = 0.4123 s
+NFG time = 0.3394 s
+plot time = 0.0002 s
+BR time = 147.8750 s
+Train time = 174.4567 s
+Matrix update time = 0.2363 s
+Points utilities = [[1.2850521  1.27711719 1.23337934 1.14518008 1.11067922 1.15182506
+  1.13111416 1.16053915 1.1543768  1.1785139  1.17880973 1.19919577
+  1.2026757  1.22037325 1.23792182 1.24227055 1.2574203  1.27278567
+  1.27820247 1.29205448 1.30638848 1.31317821 1.32685285 1.341577
+  1.351435   1.36921908 1.40000692 1.39561962 1.39555729 1.39596062
+  1.39239645 1.39234399 1.39269487 1.38179626 1.38205179 1.38243519
+  1.38148374 1.38171315 1.38209154 1.38140367 1.38123527 1.38100301
+  1.38139534 1.38193549 1.38252301 1.38205928 1.38261743 1.3831447
+  1.38283765 1.38297431 1.38347786 1.38376713 1.3844979  1.38537222
+  1.38632458 1.38714599 1.38783604 1.38890914 1.39014557 1.39120614
+  1.39256312 1.39445678 1.3972146 ]]
+new point utility = 1.519544839320194
+new point = [1.51954484]
+point added
+---------------------------- iteration: 126
+Size of game = (64, 64)
+Objective = 1.4000069185984825
+Support of attacker = 1
+Support of classifier = 64
+init time = 0.4123 s
+NFG time = 0.3441 s
+plot time = 0.0002 s
+BR time = 149.7285 s
+Train time = 174.4571 s
+Matrix update time = 0.2415 s
+Points utilities = [[1.44968106 1.44887972 1.44148332 1.41816144 1.35177148 1.38390313
+  1.34487358 1.36608187 1.34562949 1.36093144 1.34913263 1.36092336
+  1.35403112 1.3636723  1.37346132 1.3689191  1.37657357 1.38456718
+  1.38178803 1.38816806 1.39492793 1.39337377 1.39881801 1.40468091
+  1.40402482 1.40878562 1.41383744 1.41243913 1.41532401 1.41862616
+  1.41783512 1.42056717 1.42365496 1.41515312 1.41800135 1.42092822
+  1.42243621 1.42512502 1.42794417 1.42964367 1.43186745 1.43401517
+  1.43680468 1.43974369 1.44272918 1.44461329 1.44756251 1.45047768
+  1.45251408 1.4550125  1.45789437 1.46054911 1.46367282 1.46695935
+  1.47035288 1.47365321 1.47689281 1.4806677  1.48480589 1.48901343
+  1.49387444 1.49976818 1.50721129 1.51954484]]
+new point utility = 1.5195501556348368
+new point = [1.51955016]
+classifier utilities = [1.51954491 1.51954491 1.5195449  1.5195449  1.5195449  1.5195449
+ 1.5195449  1.5195449  1.5195449  1.5195449  1.51954489 1.51954489
+ 1.51954489 1.51954489 1.51954489 1.51954489 1.51954489 1.51954489
+ 1.51954489 1.51954489 1.51954489 1.51954489 1.51954489 1.51954488
+ 1.51954488 1.51954488 1.51954488 1.51954488 1.51954488 1.51954488
+ 1.51954488 1.51954488 1.51954488 1.51954488 1.51954488 1.51954487
+ 1.51954487 1.51954487 1.51954487 1.51954487 1.51954487 1.51954487
+ 1.51954487 1.51954487 1.51954487 1.51954487 1.51954487 1.51954487
+ 1.51954487 1.51954487 1.51954487 1.51954487 1.51954487 1.51954487
+ 1.51954486 1.51954486 1.51954486 1.51954486 1.51954486 1.51954486
+ 1.51954486 1.51954485 1.51954485 1.51954484]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 127
+Size of game = (64, 65)
+Objective = 1.5195448391540782
+Support of attacker = 1
+Support of classifier = 64
+init time = 0.4123 s
+NFG time = 0.3474 s
+plot time = 0.0002 s
+BR time = 151.5569 s
+Train time = 179.5686 s
+Matrix update time = 0.2428 s
+Points utilities = [[1.28734109 1.27977422 1.23775413 1.15147608 1.11687089 1.15788503
+  1.13667776 1.16583429 1.15925283 1.18311005 1.18305067 1.20316826
+  1.20633951 1.22378375 1.2410872  1.24516868 1.26008436 1.27522111
+  1.28039674 1.29402562 1.30813809 1.31469728 1.32814643 1.34263766
+  1.35224287 1.36973598 1.40000692 1.39561155 1.39554176 1.39593769
+  1.39236574 1.39230512 1.39264718 1.38173919 1.38198448 1.38235707
+  1.38139428 1.38161162 1.38197716 1.38127567 1.38109262 1.3808446
+  1.38121981 1.38174129 1.38230837 1.38182232 1.38235578 1.38285589
+  1.38251908 1.38262299 1.38309059 1.38334049 1.3840279  1.38485415
+  1.38575247 1.38651201 1.38712961 1.38811553 1.38924276 1.39015727
+  1.39130054 1.39283387 1.39474363 1.3971661 ]]
+new point utility = 1.5194242909480642
+new point = [1.51942429]
+point added
+---------------------------- iteration: 128
+Size of game = (65, 65)
+Objective = 1.4000069180957975
+Support of attacker = 1
+Support of classifier = 65
+init time = 0.4123 s
+NFG time = 0.3552 s
+plot time = 0.0002 s
+BR time = 153.3310 s
+Train time = 179.5691 s
+Matrix update time = 0.2479 s
+Points utilities = [[1.4502779  1.44947249 1.442282   1.42091545 1.35408528 1.38596143
+  1.34665606 1.36770322 1.34707025 1.36224746 1.35031209 1.36199691
+  1.35499282 1.3645404  1.37424058 1.36960656 1.37717929 1.38509422
+  1.38223554 1.38854153 1.39522918 1.39360273 1.39897697 1.4047703
+  1.40404461 1.40873627 1.41371983 1.41227022 1.415104   1.41835437
+  1.4175113  1.42018923 1.42322133 1.41466633 1.41745663 1.42032423
+  1.42177206 1.42439838 1.42715282 1.42878579 1.43094012 1.4330156
+  1.4357294  1.43858935 1.44149233 1.44329143 1.44615127 1.44897367
+  1.45091486 1.45331426 1.45609301 1.45864024 1.46164906 1.46480957
+  1.46805896 1.4711863  1.47420846 1.477701   1.48147007 1.48519677
+  1.48941938 1.49438842 1.50020374 1.50712803 1.51942429]]
+new point utility = 1.5193987885913809
+new point = [1.51939879]
+classifier utilities = [1.51942437 1.51942436 1.51942436 1.51942436 1.51942435 1.51942435
+ 1.51942435 1.51942435 1.51942435 1.51942435 1.51942435 1.51942435
+ 1.51942435 1.51942435 1.51942435 1.51942435 1.51942434 1.51942434
+ 1.51942434 1.51942434 1.51942434 1.51942434 1.51942434 1.51942434
+ 1.51942434 1.51942434 1.51942434 1.51942433 1.51942433 1.51942433
+ 1.51942433 1.51942433 1.51942433 1.51942433 1.51942433 1.51942433
+ 1.51942433 1.51942433 1.51942433 1.51942433 1.51942433 1.51942433
+ 1.51942432 1.51942432 1.51942432 1.51942432 1.51942432 1.51942432
+ 1.51942432 1.51942432 1.51942432 1.51942432 1.51942432 1.51942432
+ 1.51942432 1.51942432 1.51942432 1.51942432 1.51942431 1.51942431
+ 1.51942431 1.51942431 1.51942431 1.5194243  1.5194243 ]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 129
+Size of game = (65, 66)
+Objective = 1.519424290803339
+Support of attacker = 1
+Support of classifier = 65
+init time = 0.4123 s
+NFG time = 0.3588 s
+plot time = 0.0002 s
+BR time = 155.2189 s
+Train time = 184.8708 s
+Matrix update time = 0.2491 s
+Points utilities = [[1.28953341 1.28231308 1.24187592 1.15750652 1.12281946 1.16370753
+  1.1420238  1.17092145 1.16393659 1.18752401 1.1871228  1.20698189
+  1.20985616 1.22705666 1.2441243  1.24794884 1.2626395  1.27755656
+  1.28250057 1.29591517 1.30981504 1.31615308 1.32938604 1.34365407
+  1.35301713 1.37023133 1.40000692 1.3956036  1.39552647 1.39591512
+  1.39233554 1.3922669  1.39260032 1.38168318 1.38191848 1.38228055
+  1.38130674 1.38151237 1.38186552 1.38115093 1.38095387 1.38069083
+  1.3810498  1.38155368 1.38210156 1.38159466 1.38210514 1.38258005
+  1.38221571 1.38228942 1.38272395 1.3829378  1.38358572 1.38436857
+  1.38521876 1.38592414 1.38647971 1.38739297 1.38843258 1.38923677
+  1.39023283 1.39155092 1.39309166 1.39460159 1.39724112]]
+new point utility = 1.5193941552770633
+new point = [1.51939416]
+point added
+---------------------------- iteration: 130
+Size of game = (66, 66)
+Objective = 1.40000691758276
+Support of attacker = 1
+Support of classifier = 66
+init time = 0.4123 s
+NFG time = 0.3636 s
+plot time = 0.0002 s
+BR time = 157.0304 s
+Train time = 184.8713 s
+Matrix update time = 0.2542 s
+Points utilities = [[1.45090965 1.45009969 1.44311311 1.42348265 1.35625259 1.38789611
+  1.34833571 1.36923415 1.34843313 1.36349457 1.35143193 1.36301845
+  1.35591017 1.36537089 1.37498865 1.37026919 1.37776604 1.38560793
+  1.38267522 1.38891242 1.39553291 1.3938391  1.39914818 1.4048767
+  1.40408601 1.40871314 1.41363296 1.41213546 1.41492164 1.41812383
+  1.41723234 1.41986006 1.42284057 1.41423626 1.41697307 1.41978601
+  1.4211784  1.42374721 1.42644216 1.42801402 1.43010454 1.43211366
+  1.43475786 1.43754504 1.44037194 1.44209247 1.44486949 1.44760567
+  1.44945816 1.45176524 1.45444806 1.45689602 1.45980045 1.46284961
+  1.46597668 1.4689641  1.47181801 1.47509804 1.47859114 1.48195691
+  1.48570859 1.49005176 1.49495518 1.50025292 1.50732291 1.51939416]]
+new point utility = 1.519345002473431
+new point = [1.519345]
+classifier utilities = [1.51939423 1.51939423 1.51939422 1.51939422 1.51939422 1.51939422
+ 1.51939422 1.51939422 1.51939422 1.51939422 1.51939422 1.51939422
+ 1.51939422 1.51939421 1.51939421 1.51939421 1.51939421 1.51939421
+ 1.51939421 1.51939421 1.51939421 1.51939421 1.51939421 1.51939421
+ 1.5193942  1.5193942  1.5193942  1.5193942  1.5193942  1.5193942
+ 1.5193942  1.5193942  1.5193942  1.5193942  1.5193942  1.5193942
+ 1.51939419 1.51939419 1.51939419 1.51939419 1.51939419 1.51939419
+ 1.51939419 1.51939419 1.51939419 1.51939419 1.51939419 1.51939419
+ 1.51939419 1.51939419 1.51939419 1.51939419 1.51939419 1.51939419
+ 1.51939419 1.51939418 1.51939418 1.51939418 1.51939418 1.51939418
+ 1.51939418 1.51939418 1.51939418 1.51939417 1.51939417 1.51939416]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 131
+Size of game = (66, 67)
+Objective = 1.5193941551559338
+Support of attacker = 1
+Support of classifier = 66
+init time = 0.4123 s
+NFG time = 0.3670 s
+plot time = 0.0002 s
+BR time = 158.6144 s
+Train time = 190.1949 s
+Matrix update time = 0.2554 s
+Points utilities = [[1.29163364 1.28474481 1.24577157 1.163291   1.12853972 1.16930541
+  1.1471638  1.17581175 1.16843849 1.19176584 1.19103548 1.21064558
+  1.21323405 1.23019993 1.24704066 1.25061809 1.26509233 1.27979813
+  1.28451953 1.29772825 1.31142387 1.31754961 1.33057505 1.34462896
+  1.35375983 1.37070646 1.40000691 1.39559577 1.39551142 1.39589293
+  1.39230587 1.39222938 1.39255436 1.38162832 1.3818539  1.38220574
+  1.38122123 1.38141555 1.38175673 1.38102953 1.38081904 1.38054169
+  1.38088525 1.38137249 1.38190233 1.38137592 1.38186499 1.38231651
+  1.38192672 1.38197256 1.38237667 1.38255744 1.38316927 1.38391271
+  1.38471958 1.38537692 1.38587845 1.3867298  1.38769683 1.38841328
+  1.38929911 1.39047038 1.39179488 1.39292846 1.3946819  1.39732372]]
+new point utility = 1.5190512129951235
+new point = [1.51905121]
+point added
+---------------------------- iteration: 132
+Size of game = (67, 67)
+Objective = 1.400006917061586
+Support of attacker = 1
+Support of classifier = 67
+init time = 0.4123 s
+NFG time = 0.3713 s
+plot time = 0.0002 s
+BR time = 160.5950 s
+Train time = 190.1953 s
+Matrix update time = 0.2606 s
+Points utilities = [[1.45129568 1.4504753  1.44370077 1.42601963 1.35841369 1.38981935
+  1.35000246 1.37074793 1.34977544 1.36471653 1.35252226 1.36400524
+  1.35678803 1.36615652 1.37568649 1.37087683 1.37829265 1.38605639
+  1.38304529 1.38920903 1.39575792 1.39399308 1.39923323 1.40489354
+  1.40403538 1.40859578 1.41345035 1.41190062 1.41463526 1.41778588
+  1.41684345 1.41941865 1.42234571 1.41369164 1.41637398 1.41913161
+  1.42046841 1.42297978 1.4256156  1.42712709 1.42915483 1.43109884
+  1.4336749  1.43639097 1.43914362 1.4407876  1.44348383 1.44613587
+  1.44790178 1.45011862 1.45270769 1.45505903 1.45786275 1.46080643
+  1.46382115 1.46668565 1.46939941 1.4725108  1.4757921  1.4788843
+  1.48227882 1.48615707 1.49044263 1.49483914 1.50032724 1.50734246
+  1.51905121]]
+new point utility = 1.5193614404991935
+new point = [1.51936144]
+classifier utilities = [1.5190513  1.51905129 1.51905129 1.51905129 1.51905128 1.51905128
+ 1.51905128 1.51905128 1.51905128 1.51905128 1.51905128 1.51905128
+ 1.51905128 1.51905128 1.51905127 1.51905127 1.51905127 1.51905127
+ 1.51905127 1.51905127 1.51905127 1.51905127 1.51905127 1.51905127
+ 1.51905127 1.51905126 1.51905126 1.51905126 1.51905126 1.51905126
+ 1.51905126 1.51905126 1.51905126 1.51905126 1.51905126 1.51905126
+ 1.51905125 1.51905125 1.51905125 1.51905125 1.51905125 1.51905125
+ 1.51905125 1.51905125 1.51905125 1.51905125 1.51905125 1.51905125
+ 1.51905125 1.51905125 1.51905125 1.51905125 1.51905125 1.51905125
+ 1.51905125 1.51905124 1.51905124 1.51905124 1.51905124 1.51905124
+ 1.51905124 1.51905124 1.51905124 1.51905123 1.51905123 1.51905123
+ 1.51905122]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 133
+Size of game = (67, 68)
+Objective = 1.5190512128940445
+Support of attacker = 1
+Support of classifier = 67
+init time = 0.4123 s
+NFG time = 0.3750 s
+plot time = 0.0002 s
+BR time = 162.5211 s
+Train time = 195.7044 s
+Matrix update time = 0.2617 s
+Points utilities = [[1.2936432  1.28709574 1.24952362 1.16886341 1.13404612 1.1746876
+  1.15210482 1.18051208 1.17276549 1.19584287 1.19479618 1.21416692
+  1.21648062 1.23322089 1.24984343 1.25318331 1.26744952 1.28195224
+  1.28645972 1.29947056 1.31296993 1.31889171 1.33171788 1.34556623
+  1.35447432 1.37116413 1.40000691 1.39558846 1.39549743 1.39587237
+  1.39227846 1.39219482 1.39251211 1.38157798 1.38179471 1.38213723
+  1.38114296 1.38132693 1.38165719 1.38091852 1.38069584 1.38040553
+  1.3807352  1.38120753 1.38172126 1.38117754 1.38164768 1.38207858
+  1.38166647 1.38168793 1.38206547 1.38221745 1.38279795 1.38350734
+  1.38427707 1.38489367 1.38535008 1.38615071 1.38705967 1.38770804
+  1.3885117  1.38957992 1.39076647 1.39169503 1.39309977 1.39491942
+  1.39730007]]
+new point utility = 1.5189173034730676
+new point = [1.5189173]
+point added
+---------------------------- iteration: 134
+Size of game = (68, 68)
+Objective = 1.4000069165506914
+Support of attacker = 1
+Support of classifier = 68
+init time = 0.4123 s
+NFG time = 0.3794 s
+plot time = 0.0002 s
+BR time = 165.0663 s
+Train time = 195.7049 s
+Matrix update time = 0.2669 s
+Points utilities = [[1.45180944 1.45098213 1.44437221 1.42847504 1.36047652 1.39165128
+  1.35158823 1.37218842 1.35105346 1.36588148 1.3535638  1.36495073
+  1.35763244 1.36691611 1.37636555 1.37147299 1.37881481 1.38650731
+  1.38342441 1.38952116 1.39600473 1.39417476 1.39935183 1.40494961
+  1.40402925 1.40852808 1.41332226 1.41172807 1.41441863 1.41752489
+  1.41653829 1.41906784 1.42194831 1.41325044 1.41588505 1.41859415
+  1.41988205 1.42234289 1.42492666 1.42638495 1.42835729 1.43024383
+  1.43275966 1.43541278 1.43809957 1.43967546 1.44229965 1.4448764
+  1.44656454 1.44870009 1.45120445 1.45346837 1.45618114 1.45903023
+  1.46194576 1.4647046  1.46730242 1.47028039 1.47340084 1.47629065
+  1.4794222  1.48295614 1.48679215 1.49058923 1.49520507 1.50068126
+  1.50728618 1.5189173 ]]
+new point utility = 1.5189189223226298
+new point = [1.51891892]
+classifier utilities = [1.51891739 1.51891738 1.51891738 1.51891738 1.51891738 1.51891738
+ 1.51891738 1.51891737 1.51891737 1.51891737 1.51891737 1.51891737
+ 1.51891737 1.51891737 1.51891737 1.51891737 1.51891737 1.51891737
+ 1.51891736 1.51891736 1.51891736 1.51891736 1.51891736 1.51891736
+ 1.51891736 1.51891736 1.51891736 1.51891736 1.51891735 1.51891735
+ 1.51891735 1.51891735 1.51891735 1.51891735 1.51891735 1.51891735
+ 1.51891735 1.51891735 1.51891735 1.51891735 1.51891735 1.51891735
+ 1.51891734 1.51891734 1.51891734 1.51891734 1.51891734 1.51891734
+ 1.51891734 1.51891734 1.51891734 1.51891734 1.51891734 1.51891734
+ 1.51891734 1.51891734 1.51891734 1.51891734 1.51891734 1.51891733
+ 1.51891733 1.51891733 1.51891733 1.51891733 1.51891733 1.51891732
+ 1.51891732 1.51891731]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 135
+Size of game = (68, 69)
+Objective = 1.51891730339391
+Support of attacker = 1
+Support of classifier = 68
+init time = 0.4123 s
+NFG time = 0.3851 s
+plot time = 0.0002 s
+BR time = 166.7174 s
+Train time = 201.2841 s
+Matrix update time = 0.2680 s
+Points utilities = [[1.29557207 1.28934795 1.25307873 1.17420959 1.13934502 1.1798669
+  1.1568604  1.18503551 1.17692929 1.19976555 1.1984141  1.2175541
+  1.21960313 1.23612604 1.2525384  1.25564956 1.26971544 1.28402269
+  1.2883243  1.30114477 1.31445538 1.32018107 1.33281569 1.34646653
+  1.35516062 1.37160355 1.40000691 1.39558132 1.39548378 1.39585231
+  1.39225175 1.39216116 1.39247099 1.38152902 1.38173719 1.3820707
+  1.381067   1.38124099 1.38156075 1.38081107 1.38057671 1.38027403
+  1.38059049 1.38104869 1.38154722 1.38098723 1.38143966 1.38185137
+  1.38141853 1.38141744 1.38177047 1.38189593 1.38244763 1.3831258
+  1.38386162 1.38444125 1.38485714 1.38561282 1.38647125 1.38706172
+  1.38779746 1.3887837  1.38986689 1.39065608 1.39185582 1.39332398
+  1.39484186 1.39735807]]
+new point utility = 1.518877689840218
+new point = [1.51887769]
+point added
+---------------------------- iteration: 136
+Size of game = (69, 69)
+Objective = 1.4000069160339057
+Support of attacker = 1
+Support of classifier = 69
+init time = 0.4123 s
+NFG time = 0.3917 s
+plot time = 0.0002 s
+BR time = 168.7306 s
+Train time = 201.2846 s
+Matrix update time = 0.2734 s
+Points utilities = [[1.45236631 1.45153263 1.44508935 1.43077403 1.36241527 1.39337892
+  1.35308751 1.3735533  1.3522666  1.36698944 1.35455657 1.36585411
+  1.35844146 1.36764626 1.37702093 1.37205109 1.37932411 1.38695036
+  1.38380052 1.38983494 1.39625771 1.39436693 1.39948518 1.4050246
+  1.40404602 1.40848728 1.4132249  1.41158937 1.41423899 1.41730408
+  1.41627647 1.41876372 1.42160106 1.41286256 1.4154531  1.41811747
+  1.41936033 1.4217747  1.42431067 1.42572014 1.42764173 1.42947564
+  1.43193635 1.43453186 1.43715836 1.43867184 1.44122991 1.44373743
+  1.44535386 1.44741422 1.44984002 1.45202263 1.45465074 1.45741198
+  1.46023606 1.4628991  1.46539473 1.46825972 1.47125027 1.47398371
+  1.47691761 1.4801944  1.48369325 1.48704954 1.49107752 1.49569562
+  1.50076909 1.50743612 1.51887769]]
+new point utility = 1.5151515145351673
+new point = [1.51515152]
+classifier utilities = [1.51887778 1.51887777 1.51887777 1.51887777 1.51887777 1.51887777
+ 1.51887777 1.51887776 1.51887776 1.51887776 1.51887776 1.51887776
+ 1.51887776 1.51887776 1.51887776 1.51887776 1.51887776 1.51887776
+ 1.51887775 1.51887775 1.51887775 1.51887775 1.51887775 1.51887775
+ 1.51887775 1.51887775 1.51887775 1.51887774 1.51887774 1.51887774
+ 1.51887774 1.51887774 1.51887774 1.51887774 1.51887774 1.51887774
+ 1.51887774 1.51887774 1.51887774 1.51887774 1.51887773 1.51887773
+ 1.51887773 1.51887773 1.51887773 1.51887773 1.51887773 1.51887773
+ 1.51887773 1.51887773 1.51887773 1.51887773 1.51887773 1.51887773
+ 1.51887773 1.51887773 1.51887773 1.51887773 1.51887772 1.51887772
+ 1.51887772 1.51887772 1.51887772 1.51887772 1.51887772 1.51887771
+ 1.51887771 1.5188777  1.5188777 ]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 137
+Size of game = (69, 70)
+Objective = 1.5188776897849359
+Support of attacker = 1
+Support of classifier = 69
+init time = 0.4123 s
+NFG time = 0.3954 s
+plot time = 0.0002 s
+BR time = 170.7558 s
+Train time = 206.9893 s
+Matrix update time = 0.2745 s
+Points utilities = [[1.29742483 1.29150765 1.25645048 1.17934297 1.1444479  1.18485451
+  1.16144066 1.18939175 1.18093887 1.20354244 1.20189715 1.22081461
+  1.22260852 1.23892186 1.25513161 1.2580224  1.27189528 1.28601421
+  1.2901176  1.30275477 1.31588369 1.3214207  1.33387107 1.34733197
+  1.35582033 1.37202577 1.40000691 1.39557431 1.39547037 1.39583264
+  1.39222557 1.39212819 1.39243074 1.38148117 1.38168102 1.38200577
+  1.38099293 1.38115727 1.38146686 1.38070655 1.38046095 1.3801464
+  1.38045022 1.38089494 1.38137904 1.38080366 1.3812394  1.3816331
+  1.3811809  1.38115881 1.38148907 1.38158997 1.38211503 1.38276439
+  1.38346899 1.38401475 1.38439375 1.38510891 1.38592244 1.38646244
+  1.38714031 1.38805865 1.38905962 1.38974475 1.39080517 1.3920679
+  1.39322898 1.39489926 1.39743071]]
+new point utility = 1.5188680734787883
+new point = [1.51886807]
+point added
+---------------------------- iteration: 138
+Size of game = (70, 70)
+Objective = 1.4000069155114854
+Support of attacker = 1
+Support of classifier = 70
+init time = 0.4123 s
+NFG time = 0.3997 s
+plot time = 0.0002 s
+BR time = 173.0673 s
+Train time = 206.9898 s
+Matrix update time = 0.2800 s
+Points utilities = [[1.4529222  1.45208111 1.4458155  1.43293137 1.36424855 1.39501789
+  1.3545137  1.37485407 1.35342446 1.36804832 1.35550646 1.3667195
+  1.3592174  1.36834744 1.37765114 1.3726079  1.37981561 1.38737898
+  1.38416548 1.39014069 1.39650566 1.39455703 1.39961935 1.40510328
+  1.40406934 1.40845587 1.41313979 1.41146438 1.41407465 1.41710026
+  1.41603344 1.4184804  1.42127678 1.41249976 1.41504868 1.41767088
+  1.41887139 1.42124218 1.4237334  1.42509729 1.42697157 1.4287565
+  1.43116601 1.43370804 1.43627862 1.43773421 1.44023093 1.44267413
+  1.44422383 1.44621407 1.44856641 1.45067278 1.45322132 1.45589992
+  1.4586382  1.46121207 1.4636142  1.46637877 1.46925849 1.47186489
+  1.47464524 1.47772783 1.48097404 1.48399936 1.48759431 1.49163448
+  1.49586124 1.50103115 1.50764534 1.51886807]]
+new point utility = 1.5151515145153194
+new point = [1.51515152]
+classifier utilities = [1.51886817 1.51886816 1.51886816 1.51886816 1.51886815 1.51886815
+ 1.51886815 1.51886815 1.51886815 1.51886815 1.51886815 1.51886815
+ 1.51886815 1.51886815 1.51886814 1.51886814 1.51886814 1.51886814
+ 1.51886814 1.51886814 1.51886814 1.51886814 1.51886814 1.51886814
+ 1.51886813 1.51886813 1.51886813 1.51886813 1.51886813 1.51886813
+ 1.51886813 1.51886813 1.51886813 1.51886813 1.51886813 1.51886812
+ 1.51886812 1.51886812 1.51886812 1.51886812 1.51886812 1.51886812
+ 1.51886812 1.51886812 1.51886812 1.51886812 1.51886812 1.51886812
+ 1.51886812 1.51886812 1.51886812 1.51886812 1.51886811 1.51886811
+ 1.51886811 1.51886811 1.51886811 1.51886811 1.51886811 1.51886811
+ 1.51886811 1.51886811 1.51886811 1.5188681  1.5188681  1.5188681
+ 1.5188681  1.51886809 1.51886809 1.51886808]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 139
+Size of game = (70, 71)
+Objective = 1.5188680734481754
+Support of attacker = 1
+Support of classifier = 70
+init time = 0.4123 s
+NFG time = 0.4031 s
+plot time = 0.0002 s
+BR time = 175.1672 s
+Train time = 213.0310 s
+Matrix update time = 0.2811 s
+Points utilities = [[1.29920517 1.29358236 1.25965784 1.18427794 1.14936591 1.18966018
+  1.16585438 1.19358918 1.18480204 1.20718106 1.20525238 1.22395516
+  1.22550306 1.24161429 1.25762866 1.26030702 1.27399384 1.28793127
+  1.29184366 1.30430425 1.31725816 1.32261352 1.33488651 1.34816461
+  1.35645502 1.37243184 1.40000691 1.39556742 1.39545723 1.39581339
+  1.39219999 1.39209601 1.39239151 1.38143458 1.38162638 1.38194267
+  1.38092101 1.38107603 1.38137584 1.38060531 1.38034893 1.38002302
+  1.38031477 1.38074664 1.38121705 1.38062714 1.38104717 1.38142399
+  1.38095372 1.38091209 1.38122124 1.38129941 1.3817999  1.38242272
+  1.38309862 1.38361334 1.3839587  1.38463717 1.38541045 1.38590589
+  1.38653363 1.38739451 1.38832795 1.38893118 1.38988842 1.391013
+  1.39196935 1.39329136 1.39500515 1.39749799]]
+new point utility = 1.5185292500124583
+new point = [1.51852925]
+point added
+---------------------------- iteration: 140
+Size of game = (71, 71)
+Objective = 1.4000069149857406
+Support of attacker = 1
+Support of classifier = 71
+init time = 0.4123 s
+NFG time = 0.4083 s
+plot time = 0.0002 s
+BR time = 177.1470 s
+Train time = 213.0315 s
+Matrix update time = 0.2867 s
+Points utilities = [[1.45322784 1.45237597 1.44630978 1.43509076 1.36610764 1.39667657
+  1.35595603 1.37616573 1.35458835 1.36910751 1.35645063 1.36757269
+  1.35997483 1.36902346 1.37824951 1.37312658 1.38026245 1.3877565
+  1.38447355 1.39038355 1.39668499 1.39467351 1.39967488 1.40509869
+  1.40400568 1.40833406 1.41296157 1.41124103 1.41380716 1.4167891
+  1.41567972 1.41808325 1.42083598 1.41201917 1.41452458 1.41710306
+  1.41826008 1.42058631 1.42303208 1.42435001 1.42617682 1.42791286
+  1.4302714  1.43276043 1.43527576 1.43667449 1.43911096 1.44149113
+  1.44297558 1.44489722 1.44717763 1.44920929 1.45167972 1.4542771
+  1.4569311  1.45941774 1.46172932 1.46439841 1.46717604 1.46967061
+  1.4723227  1.47525086 1.47830288 1.48107726 1.48434395 1.48795608
+  1.49161275 1.49595376 1.50111102 1.50763631 1.51852925]]
+new point utility = 1.5151515144921766
+new point = [1.51515152]
+classifier utilities = [1.51852935 1.51852934 1.51852934 1.51852934 1.51852934 1.51852933
+ 1.51852933 1.51852933 1.51852933 1.51852933 1.51852933 1.51852933
+ 1.51852933 1.51852933 1.51852932 1.51852932 1.51852932 1.51852932
+ 1.51852932 1.51852932 1.51852932 1.51852932 1.51852932 1.51852932
+ 1.51852931 1.51852931 1.51852931 1.51852931 1.51852931 1.51852931
+ 1.51852931 1.51852931 1.51852931 1.51852931 1.5185293  1.5185293
+ 1.5185293  1.5185293  1.5185293  1.5185293  1.5185293  1.5185293
+ 1.5185293  1.5185293  1.5185293  1.5185293  1.5185293  1.5185293
+ 1.5185293  1.5185293  1.5185293  1.51852929 1.51852929 1.51852929
+ 1.51852929 1.51852929 1.51852929 1.51852929 1.51852929 1.51852929
+ 1.51852929 1.51852929 1.51852929 1.51852928 1.51852928 1.51852928
+ 1.51852928 1.51852928 1.51852927 1.51852927 1.51852926]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 141
+Size of game = (71, 72)
+Objective = 1.5185292500015313
+Support of attacker = 1
+Support of classifier = 71
+init time = 0.4123 s
+NFG time = 0.4120 s
+plot time = 0.0003 s
+BR time = 178.6909 s
+Train time = 219.3758 s
+Matrix update time = 0.2878 s
+Points utilities = [[1.30091456 1.29559467 1.26277165 1.18904967 1.1541147  1.19429357
+  1.17010917 1.19763511 1.18852607 1.21068879 1.20848719 1.22698311
+  1.22829393 1.24421031 1.26003632 1.26250992 1.27601739 1.28977985
+  1.29350814 1.30579849 1.31858369 1.32376394 1.33586598 1.34896795
+  1.35706771 1.37282427 1.40000691 1.39556104 1.39544512 1.3957957
+  1.39217657 1.39206664 1.39235579 1.38139223 1.38157677 1.38188541
+  1.38085575 1.38100232 1.38129323 1.38051342 1.38024725 1.37991104
+  1.38019187 1.38061219 1.3810703  1.38046738 1.38087343 1.38123526
+  1.38074902 1.38069018 1.3809808  1.38103908 1.38151811 1.38211778
+  1.38276872 1.38325651 1.38357279 1.3842197  1.38495864 1.38541651
+  1.38600267 1.38681681 1.38769667 1.38823695 1.38911805 1.39014677
+  1.39097428 1.39210731 1.39350013 1.39523164 1.39746108]]
+new point utility = 1.5184355477676006
+new point = [1.51843555]
+point added
+---------------------------- iteration: 142
+Size of game = (72, 72)
+Objective = 1.4000069144779075
+Support of attacker = 1
+Support of classifier = 72
+init time = 0.4123 s
+NFG time = 0.4165 s
+plot time = 0.0003 s
+BR time = 181.4945 s
+Train time = 219.3763 s
+Matrix update time = 0.2934 s
+Points utilities = [[1.4536918  1.45283414 1.44692432 1.43718594 1.36787809 1.3982524
+  1.35732377 1.37740978 1.35569276 1.37011437 1.3573507  1.36838935
+  1.3607036  1.36967837 1.37883426 1.37363909 1.38071035 1.38814216
+  1.38479652 1.39064797 1.39689232 1.39482402 1.39977041 1.40513987
+  1.40399301 1.40826835 1.41284414 1.41108636 1.4136158  1.41656114
+  1.41541575 1.41778239 1.42049786 1.41164661 1.41411462 1.4166554
+  1.41777481 1.42006248 1.42246886 1.42374691 1.42553249 1.42722605
+  1.42954029 1.43198322 1.43445046 1.43579954 1.43818338 1.44050835
+  1.44193549 1.44379672 1.44601355 1.44797894 1.45037982 1.45290462
+  1.45548307 1.45789137 1.46012178 1.46270588 1.46539403 1.46779313
+  1.47033976 1.47314636 1.47605149 1.47864079 1.48166642 1.48496255
+  1.48820627 1.49199677 1.49635182 1.50145409 1.50757279 1.51843555]]
+new point utility = 1.5151515144710916
+new point = [1.51515152]
+classifier utilities = [1.51843565 1.51843564 1.51843564 1.51843564 1.51843564 1.51843564
+ 1.51843563 1.51843563 1.51843563 1.51843563 1.51843563 1.51843563
+ 1.51843563 1.51843563 1.51843563 1.51843563 1.51843562 1.51843562
+ 1.51843562 1.51843562 1.51843562 1.51843562 1.51843562 1.51843562
+ 1.51843562 1.51843561 1.51843561 1.51843561 1.51843561 1.51843561
+ 1.51843561 1.51843561 1.51843561 1.51843561 1.51843561 1.5184356
+ 1.5184356  1.5184356  1.5184356  1.5184356  1.5184356  1.5184356
+ 1.5184356  1.5184356  1.5184356  1.5184356  1.5184356  1.5184356
+ 1.5184356  1.5184356  1.5184356  1.5184356  1.51843559 1.51843559
+ 1.51843559 1.51843559 1.51843559 1.51843559 1.51843559 1.51843559
+ 1.51843559 1.51843559 1.51843559 1.51843558 1.51843558 1.51843558
+ 1.51843558 1.51843558 1.51843557 1.51843557 1.51843556 1.51843555]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 143
+Size of game = (72, 73)
+Objective = 1.5184355477786198
+Support of attacker = 1
+Support of classifier = 72
+init time = 0.4123 s
+NFG time = 0.4201 s
+plot time = 0.0003 s
+BR time = 183.2219 s
+Train time = 225.1447 s
+Matrix update time = 0.2946 s
+Points utilities = [[1.302561   1.29752369 1.26572824 1.19363087 1.15869274 1.19876188
+  1.17421378 1.20153812 1.19211844 1.2140722  1.21160709 1.2299032
+  1.23098513 1.24671337 1.26235753 1.2646335  1.27796785 1.29156146
+  1.29511213 1.30723828 1.31986077 1.3248722  1.33680944 1.34974164
+  1.35765765 1.37320176 1.40000691 1.39555478 1.39543323 1.39577835
+  1.3921536  1.39203784 1.39232079 1.38135077 1.38152825 1.38182946
+  1.38079203 1.38093041 1.38121272 1.38042394 1.38014833 1.37980219
+  1.38007252 1.38048172 1.38092804 1.38031269 1.38070539 1.38105298
+  1.38055162 1.38047655 1.38074973 1.38078937 1.38124832 1.38182641
+  1.38245411 1.38291688 1.3832062  1.38382391 1.38453122 1.38495474
+  1.38550324 1.38627567 1.3871086  1.38759504 1.38841284 1.38936493
+  1.39009561 1.39109906 1.39230138 1.39370483 1.39512239 1.39751954]]
+new point utility = 1.5184110146098941
+new point = [1.51841102]
+point added
+---------------------------- iteration: 144
+Size of game = (73, 73)
+Objective = 1.4000069139644618
+Support of attacker = 1
+Support of classifier = 73
+init time = 0.4123 s
+NFG time = 0.4248 s
+plot time = 0.0003 s
+BR time = 186.0643 s
+Train time = 225.1452 s
+Matrix update time = 0.3003 s
+Points utilities = [[1.45418552 1.45332181 1.44757505 1.4391432  1.36954326 1.39974054
+  1.35861963 1.37859138 1.35674397 1.37107458 1.35821073 1.36917142
+  1.36140325 1.37030895 1.37939925 1.37413633 1.38114716 1.38852073
+  1.38511627 1.39091287 1.3971037  1.39498198 1.39987672 1.40519505
+  1.40399746 1.40822282 1.41274984 1.41095676 1.41345151 1.41636228
+  1.41518288 1.4175148  1.42019524 1.41131156 1.41374452 1.41625003
+  1.41733431 1.41958604 1.42195578 1.42319679 1.42494417 1.42659843
+  1.42887179 1.43127222 1.43369518 1.43499861 1.43733408 1.43960833
+  1.44098279 1.44278842 1.44494668 1.44685085 1.44918733 1.45164472
+  1.45415278 1.45648794 1.45864245 1.4611473  1.46375266 1.46606493
+  1.46851834 1.47122171 1.47400791 1.47645386 1.47929782 1.48235749
+  1.48529133 1.4886764  1.49249034 1.49679993 1.50149623 1.50772671
+  1.51841102]]
+new point utility = 1.5151515144504326
+new point = [1.51515152]
+classifier utilities = [1.51841112 1.51841111 1.51841111 1.51841111 1.51841111 1.51841111
+ 1.5184111  1.5184111  1.5184111  1.5184111  1.5184111  1.5184111
+ 1.5184111  1.5184111  1.5184111  1.5184111  1.51841109 1.51841109
+ 1.51841109 1.51841109 1.51841109 1.51841109 1.51841109 1.51841109
+ 1.51841109 1.51841108 1.51841108 1.51841108 1.51841108 1.51841108
+ 1.51841108 1.51841108 1.51841108 1.51841108 1.51841108 1.51841107
+ 1.51841107 1.51841107 1.51841107 1.51841107 1.51841107 1.51841107
+ 1.51841107 1.51841107 1.51841107 1.51841107 1.51841107 1.51841107
+ 1.51841107 1.51841107 1.51841107 1.51841106 1.51841106 1.51841106
+ 1.51841106 1.51841106 1.51841106 1.51841106 1.51841106 1.51841106
+ 1.51841106 1.51841106 1.51841106 1.51841105 1.51841105 1.51841105
+ 1.51841105 1.51841105 1.51841105 1.51841104 1.51841104 1.51841103
+ 1.51841102]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 145
+Size of game = (73, 74)
+Objective = 1.5184110146443566
+Support of attacker = 1
+Support of classifier = 73
+init time = 0.4123 s
+NFG time = 0.4284 s
+plot time = 0.0003 s
+BR time = 188.1315 s
+Train time = 230.8158 s
+Matrix update time = 0.3014 s
+Points utilities = [[1.30414731 1.2993769  1.2685435  1.19803564 1.16311021 1.20307387
+  1.17817588 1.20530557 1.19558598 1.21733778 1.21461811 1.23272118
+  1.23358201 1.24912849 1.26459696 1.26668208 1.27984925 1.29327983
+  1.29665905 1.3086267  1.32109216 1.32594072 1.337719   1.35048744
+  1.35822624 1.37356534 1.40000691 1.39554862 1.39542154 1.39576131
+  1.39213108 1.39200963 1.39228652 1.38131024 1.38148086 1.38177486
+  1.38072992 1.38086038 1.38113438 1.38033696 1.38005224 1.37969655
+  1.37995679 1.38035532 1.38079034 1.38016312 1.38054309 1.38087715
+  1.38036146 1.38027106 1.38052784 1.38054998 1.38099015 1.38154811
+  1.38215418 1.38259371 1.38285803 1.38344875 1.38412688 1.38451888
+  1.38503306 1.38576786 1.38655908 1.38699862 1.38776256 1.38865132
+  1.38930524 1.39021198 1.39128489 1.39249693 1.39358066 1.39518634
+  1.39758367]]
+new point utility = 1.5183986136998777
+new point = [1.51839861]
+point added
+---------------------------- iteration: 146
+Size of game = (74, 74)
+Objective = 1.4000069134472546
+Support of attacker = 1
+Support of classifier = 74
+init time = 0.4123 s
+NFG time = 0.4354 s
+plot time = 0.0003 s
+BR time = 190.4712 s
+Train time = 230.8163 s
+Matrix update time = 0.3071 s
+Points utilities = [[1.45466999 1.45379947 1.44822687 1.44098551 1.37112554 1.40115977
+  1.35985892 1.37972342 1.35775252 1.37199697 1.35903773 1.36992408
+  1.36207718 1.37091681 1.37994431 1.37461644 1.38156933 1.38888702
+  1.38542608 1.39116999 1.39730942 1.39513635 1.39998145 1.40525069
+  1.40400436 1.40818177 1.41266204 1.41083441 1.41329532 1.4161725
+  1.41496014 1.41725852 1.41990525 1.41099045 1.41338986 1.4158617
+  1.41691251 1.41913009 1.42146512 1.42267112 1.42438251 1.42599983
+  1.42823483 1.4305955  1.43297711 1.43423802 1.43652846 1.43875557
+  1.44008109 1.44183508 1.44393888 1.44578608 1.4480625  1.45045688
+  1.45289898 1.45516539 1.45724843 1.45967861 1.46220616 1.4644375
+  1.46680553 1.46941707 1.47210171 1.47443112 1.47713373 1.48001462
+  1.48271623 1.48579661 1.48921199 1.49298842 1.49690091 1.50174142
+  1.50791251 1.51839861]]
+new point utility = 1.5151515144293541
+new point = [1.51515152]
+classifier utilities = [1.51839873 1.51839872 1.51839871 1.51839871 1.51839871 1.51839871
+ 1.51839871 1.51839871 1.51839871 1.5183987  1.5183987  1.5183987
+ 1.5183987  1.5183987  1.5183987  1.5183987  1.5183987  1.5183987
+ 1.5183987  1.51839869 1.51839869 1.51839869 1.51839869 1.51839869
+ 1.51839869 1.51839869 1.51839869 1.51839869 1.51839868 1.51839868
+ 1.51839868 1.51839868 1.51839868 1.51839868 1.51839868 1.51839868
+ 1.51839868 1.51839868 1.51839867 1.51839867 1.51839867 1.51839867
+ 1.51839867 1.51839867 1.51839867 1.51839867 1.51839867 1.51839867
+ 1.51839867 1.51839867 1.51839867 1.51839867 1.51839867 1.51839867
+ 1.51839867 1.51839866 1.51839866 1.51839866 1.51839866 1.51839866
+ 1.51839866 1.51839866 1.51839866 1.51839866 1.51839866 1.51839865
+ 1.51839865 1.51839865 1.51839865 1.51839865 1.51839864 1.51839864
+ 1.51839863 1.51839862]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 147
+Size of game = (74, 75)
+Objective = 1.5183986137576773
+Support of attacker = 1
+Support of classifier = 74
+init time = 0.4123 s
+NFG time = 0.4389 s
+plot time = 0.0003 s
+BR time = 192.1328 s
+Train time = 236.7345 s
+Matrix update time = 0.3082 s
+Points utilities = [[1.30567623 1.30116076 1.27123403 1.20227761 1.16737643 1.20723749
+  1.18200265 1.20894419 1.1989349  1.22049148 1.21752587 1.23544232
+  1.23608952 1.25146032 1.26675902 1.26865977 1.28166542 1.29493848
+  1.29815212 1.30996668 1.32228051 1.32697182 1.33859662 1.35120701
+  1.35877479 1.37391592 1.40000691 1.39554258 1.3954101  1.39574466
+  1.39210909 1.39198213 1.39225316 1.38127083 1.38143484 1.3817219
+  1.38066974 1.38079259 1.38105862 1.3802529  1.37995946 1.37959463
+  1.37984522 1.38023357 1.38065782 1.3800193  1.3803872  1.38070843
+  1.38017922 1.38007439 1.38031577 1.38032155 1.38074422 1.38128345
+  1.38186946 1.38228749 1.38252875 1.38309459 1.3837459  1.38410901
+  1.3845919  1.38529264 1.38604653 1.38644475 1.38716214 1.38799749
+  1.38858863 1.38941941 1.39039671 1.3914804  1.39237329 1.39365407
+  1.3952859  1.39763939]]
+new point utility = 1.5180965436669822
+new point = [1.51809654]
+point added
+---------------------------- iteration: 148
+Size of game = (75, 75)
+Objective = 1.4000069129289368
+Support of attacker = 1
+Support of classifier = 75
+init time = 0.4123 s
+NFG time = 0.4475 s
+plot time = 0.0003 s
+BR time = 194.2342 s
+Train time = 236.7349 s
+Matrix update time = 0.3141 s
+Points utilities = [[1.45493503 1.45405518 1.44867595 1.44283323 1.37273408 1.40259966
+  1.3611162  1.38086932 1.35877066 1.37292391 1.35986392 1.3706702
+  1.36273882 1.37150644 1.38046511 1.37506658 1.38195562 1.3892116
+  1.38568885 1.39137463 1.39745736 1.39522831 1.40001913 1.40523494
+  1.40393635 1.40806252 1.41249339 1.41062659 1.41304943 1.41588926
+  1.41464093 1.41690291 1.41951343 1.4105662  1.41293022 1.41536678
+  1.41638287 1.41856516 1.4208645  1.42203481 1.42370964 1.42528965
+  1.42748606 1.4298069  1.43214729 1.43336608 1.43561205 1.43779276
+  1.43907036 1.44077386 1.4428245  1.44461619 1.44683408 1.44916704
+  1.45154478 1.45374407 1.45575725 1.45811433 1.46056577 1.46271831
+  1.465004   1.46752864 1.47012015 1.4723474  1.4749323  1.47767136
+  1.48019493 1.48304441 1.48615802 1.48954037 1.49292655 1.49699972
+  1.50181637 1.50789753 1.51809654]]
+new point utility = 1.5151515144051653
+new point = [1.51515152]
+classifier utilities = [1.51809666 1.51809665 1.51809665 1.51809665 1.51809664 1.51809664
+ 1.51809664 1.51809664 1.51809664 1.51809664 1.51809664 1.51809664
+ 1.51809664 1.51809663 1.51809663 1.51809663 1.51809663 1.51809663
+ 1.51809663 1.51809663 1.51809663 1.51809663 1.51809662 1.51809662
+ 1.51809662 1.51809662 1.51809662 1.51809662 1.51809662 1.51809662
+ 1.51809662 1.51809661 1.51809661 1.51809661 1.51809661 1.51809661
+ 1.51809661 1.51809661 1.51809661 1.51809661 1.51809661 1.51809661
+ 1.51809661 1.5180966  1.5180966  1.5180966  1.5180966  1.5180966
+ 1.5180966  1.5180966  1.5180966  1.5180966  1.5180966  1.5180966
+ 1.5180966  1.5180966  1.5180966  1.5180966  1.5180966  1.51809659
+ 1.51809659 1.51809659 1.51809659 1.51809659 1.51809659 1.51809659
+ 1.51809659 1.51809658 1.51809658 1.51809658 1.51809658 1.51809657
+ 1.51809657 1.51809656 1.51809655]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 149
+Size of game = (75, 76)
+Objective = 1.5180965437431737
+Support of attacker = 1
+Support of classifier = 75
+init time = 0.4123 s
+NFG time = 0.4513 s
+plot time = 0.0003 s
+BR time = 196.0832 s
+Train time = 242.0983 s
+Matrix update time = 0.3153 s
+Points utilities = [[1.30714927 1.30289355 1.27385644 1.20638968 1.17150724 1.21126264
+  1.18570168 1.21246119 1.20217234 1.22354047 1.22033738 1.23807357
+  1.23851434 1.25371536 1.26884994 1.27057246 1.28342195 1.29654274
+  1.29959628 1.31126283 1.32343005 1.32796932 1.33944575 1.35190335
+  1.35930585 1.37425564 1.40000691 1.39553697 1.39539951 1.3957293
+  1.3920889  1.39195695 1.3922227  1.38123492 1.38139296 1.38167375
+  1.38061503 1.38073097 1.38098975 1.38017649 1.37987513 1.37950199
+  1.37974381 1.38012293 1.38053745 1.37988872 1.38024574 1.38055546
+  1.38001413 1.37989641 1.38012408 1.38011533 1.38052248 1.38104517
+  1.38161349 1.38201261 1.38223362 1.38277767 1.38340553 1.38374344
+  1.38419914 1.38487046 1.38559235 1.38595561 1.38663424 1.38742602
+  1.38796724 1.38873942 1.3896459  1.39064023 1.39141269 1.39251657
+  1.3938471  1.39548239 1.39760546]]
+new point utility = 1.518009279202929
+new point = [1.51800928]
+point added
+---------------------------- iteration: 150
+Size of game = (76, 76)
+Objective = 1.4000069124315506
+Support of attacker = 1
+Support of classifier = 76
+init time = 0.4123 s
+NFG time = 0.4567 s
+plot time = 0.0003 s
+BR time = 198.6222 s
+Train time = 242.0987 s
+Matrix update time = 0.3212 s
+Points utilities = [[1.45533996 1.45445478 1.44922953 1.44463501 1.37427025 1.40397039
+  1.36230995 1.38195656 1.35973632 1.37380393 1.36064982 1.3713822
+  1.36337294 1.37207484 1.38097097 1.37550811 1.38233942 1.38953973
+  1.38596094 1.39159424 1.39762581 1.39534593 1.40008755 1.4052548
+  1.4039084  1.4079876  1.41237296 1.41047369 1.41286473 1.41567312
+  1.41439422 1.41662516 1.41920463 1.41022926 1.41256271 1.41496874
+  1.41595468 1.4181063  1.42037462 1.42151386 1.42315686 1.42470439
+  1.42686721 1.42915339 1.43145791 1.43264001 1.43484723 1.43698748
+  1.43822324 1.4398826  1.44188669 1.44362964 1.44579602 1.44807477
+  1.45039551 1.45253511 1.45448591 1.45677749 1.45916052 1.46124212
+  1.46345383 1.46590095 1.46841068 1.47055058 1.47303853 1.47566575
+  1.47805444 1.4807332  1.48362476 1.48671585 1.48972079 1.49328464
+  1.49735684 1.50211177 1.50783578 1.51800928]]
+new point utility = 1.5160969840509442
+new point = [1.51609698]
+classifier utilities = [1.5180094  1.51800939 1.51800939 1.51800939 1.51800938 1.51800938
+ 1.51800938 1.51800938 1.51800938 1.51800938 1.51800938 1.51800938
+ 1.51800937 1.51800937 1.51800937 1.51800937 1.51800937 1.51800937
+ 1.51800937 1.51800937 1.51800937 1.51800937 1.51800936 1.51800936
+ 1.51800936 1.51800936 1.51800936 1.51800936 1.51800936 1.51800936
+ 1.51800935 1.51800935 1.51800935 1.51800935 1.51800935 1.51800935
+ 1.51800935 1.51800935 1.51800935 1.51800935 1.51800935 1.51800935
+ 1.51800934 1.51800934 1.51800934 1.51800934 1.51800934 1.51800934
+ 1.51800934 1.51800934 1.51800934 1.51800934 1.51800934 1.51800934
+ 1.51800934 1.51800934 1.51800934 1.51800933 1.51800933 1.51800933
+ 1.51800933 1.51800933 1.51800933 1.51800933 1.51800933 1.51800933
+ 1.51800933 1.51800932 1.51800932 1.51800932 1.51800932 1.51800931
+ 1.51800931 1.51800931 1.5180093  1.51800929]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 151
+Size of game = (76, 77)
+Objective = 1.5180092792992745
+Support of attacker = 1
+Support of classifier = 76
+init time = 0.4123 s
+NFG time = 0.4602 s
+plot time = 0.0003 s
+BR time = 200.9127 s
+Train time = 247.9870 s
+Matrix update time = 0.3223 s
+Points utilities = [[1.30857199 1.30455753 1.27635546 1.2103415  1.17549645 1.21515184
+  1.18927759 1.21586131 1.20530226 1.22648803 1.22305523 1.24061703
+  1.24085812 1.25589485 1.27087066 1.2724208  1.28511927 1.29809278
+  1.30099154 1.31251499 1.32454047 1.3289328  1.34026582 1.35257575
+  1.35981849 1.37458322 1.40000691 1.39553145 1.3953891  1.39571422
+  1.39206907 1.39193223 1.39219282 1.38119973 1.38135196 1.38162665
+  1.3805616  1.38067086 1.38092264 1.38010211 1.37979312 1.37941199
+  1.37964538 1.38001562 1.38042077 1.37976224 1.38010883 1.38040752
+  1.3798546  1.37972458 1.3799392  1.37991665 1.38030912 1.38081619
+  1.38136788 1.38174927 1.38195134 1.38247504 1.38308105 1.38339553
+  1.383826   1.38447008 1.38516249 1.38549378 1.38613735 1.38689027
+  1.38738784 1.38810994 1.38895761 1.38988062 1.39056274 1.39154554
+  1.39269768 1.39402486 1.39538434 1.39765547]]
+new point utility = 1.5172295546101695
+new point = [1.51722956]
+point added
+---------------------------- iteration: 152
+Size of game = (77, 77)
+Objective = 1.4000069119286795
+Support of attacker = 1
+Support of classifier = 77
+init time = 0.4123 s
+NFG time = 0.4655 s
+plot time = 0.0003 s
+BR time = 203.1424 s
+Train time = 247.9875 s
+Matrix update time = 0.3284 s
+Points utilities = [[1.45524098 1.45434425 1.44931207 1.44656148 1.37595558 1.40546483
+  1.36360885 1.38313199 1.36077311 1.37473888 1.3614733  1.37211471
+  1.36401026 1.37262922 1.38144565 1.37590197 1.38265894 1.38978721
+  1.38613719 1.39170272 1.39766828 1.39532421 1.40000327 1.4051094
+  1.40370442 1.40772645 1.41205755 1.41011373 1.4124617  1.4152284
+  1.41391031 1.41610181 1.41864252 1.40963412 1.4119306  1.41430015
+  1.41525069 1.41736651 1.41959893 1.42070269 1.42230959 1.42382056
+  1.42594579 1.42819344 1.43045839 1.43160052 1.43376568 1.43586236
+  1.43705352 1.43866609 1.44062103 1.44231288 1.4444254  1.44664764
+  1.44890916 1.45098691 1.45287322 1.45509705 1.45740935 1.45941771
+  1.46155319 1.46392085 1.4663477  1.46840106 1.47079611 1.47332116
+  1.47559361 1.47813292 1.48084998 1.48371611 1.48642854 1.48961157
+  1.49317765 1.49719433 1.50159937 1.50746294 1.51722956]]
+new point utility = 1.5151515143528766
+new point = [1.51515152]
+classifier utilities = [1.51722968 1.51722967 1.51722967 1.51722967 1.51722967 1.51722966
+ 1.51722966 1.51722966 1.51722966 1.51722966 1.51722966 1.51722966
+ 1.51722966 1.51722965 1.51722965 1.51722965 1.51722965 1.51722965
+ 1.51722965 1.51722965 1.51722965 1.51722965 1.51722964 1.51722964
+ 1.51722964 1.51722964 1.51722964 1.51722964 1.51722964 1.51722964
+ 1.51722963 1.51722963 1.51722963 1.51722963 1.51722963 1.51722963
+ 1.51722963 1.51722963 1.51722963 1.51722963 1.51722963 1.51722962
+ 1.51722962 1.51722962 1.51722962 1.51722962 1.51722962 1.51722962
+ 1.51722962 1.51722962 1.51722962 1.51722962 1.51722962 1.51722962
+ 1.51722962 1.51722962 1.51722961 1.51722961 1.51722961 1.51722961
+ 1.51722961 1.51722961 1.51722961 1.51722961 1.51722961 1.51722961
+ 1.5172296  1.5172296  1.5172296  1.5172296  1.5172296  1.51722959
+ 1.51722959 1.51722959 1.51722958 1.51722958 1.51722956]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 153
+Size of game = (77, 78)
+Objective = 1.5172295547141146
+Support of attacker = 1
+Support of classifier = 77
+init time = 0.4123 s
+NFG time = 0.4716 s
+plot time = 0.0003 s
+BR time = 204.9598 s
+Train time = 254.5790 s
+Matrix update time = 0.3296 s
+Points utilities = [[1.30994225 1.30619182 1.27885475 1.21420592 1.17937167 1.21891694
+  1.19273747 1.21915088 1.20833137 1.22934151 1.2256872  1.24308071
+  1.24312892 1.25800689 1.27282918 1.27421258 1.28676494 1.29959593
+  1.30234486 1.31372976 1.32561795 1.32986795 1.34106205 1.35322895
+  1.36031706 1.37490265 1.40000691 1.39552668 1.39538018 1.3957014
+  1.39205235 1.39191153 1.39216792 1.38117051 1.38131797 1.38158762
+  1.38051728 1.38062094 1.38086683 1.38004016 1.37972471 1.37933681
+  1.37956309 1.37992584 1.38032311 1.37965636 1.37999421 1.38028368
+  1.37972112 1.37958087 1.37978466 1.37975069 1.38013103 1.38062522
+  1.3811632  1.38153001 1.38171652 1.38222353 1.38281164 1.38310695
+  1.3835168  1.38413867 1.38480716 1.38511267 1.38572822 1.38645051
+  1.38691428 1.38759842 1.38840262 1.3892745  1.38989452 1.39079888
+  1.39184547 1.393015   1.39409557 1.39568729 1.39749069]]
+new point utility = 1.5165777319012332
+new point = [1.51657773]
+point added
+---------------------------- iteration: 154
+Size of game = (78, 78)
+Objective = 1.4000069114707991
+Support of attacker = 1
+Support of classifier = 78
+init time = 0.4123 s
+NFG time = 0.4764 s
+plot time = 0.0003 s
+BR time = 207.6000 s
+Train time = 254.5795 s
+Matrix update time = 0.3357 s
+Points utilities = [[1.45522339 1.45432143 1.44939102 1.4486145  1.37766952 1.40695966
+  1.36489078 1.38428184 1.36177916 1.37563994 1.36226189 1.37281194
+  1.36461326 1.37315035 1.38188848 1.37626589 1.38295031 1.39000839
+  1.3862892  1.39178878 1.39769013 1.39528371 1.39990189 1.40494844
+  1.40348641 1.40745261 1.41173063 1.40975058 1.41206302 1.41479506
+  1.41344435 1.41560267 1.41811064 1.40907469 1.41133977 1.41367827
+  1.41459867 1.41668395 1.41888571 1.4199592  1.42153525 1.42301499
+  1.42510806 1.42732275 1.42955384 1.4306618  1.43279093 1.43485025
+  1.43600318 1.43757555 1.43948822 1.44113602 1.443202   1.4453753
+  1.44758536 1.4496092  1.45143909 1.45360343 1.45585337 1.45779694
+  1.45986478 1.46216183 1.4645152  1.46649238 1.46880688 1.4712456
+  1.47342338 1.47585382 1.47843983 1.48114108 1.48364032 1.48654442
+  1.48974646 1.49327662 1.49696525 1.50154263 1.5067404  1.51657773]]
+new point utility = 1.5151515143253527
+new point = [1.51515152]
+classifier utilities = [1.51657787 1.51657786 1.51657785 1.51657785 1.51657785 1.51657785
+ 1.51657784 1.51657784 1.51657784 1.51657784 1.51657784 1.51657784
+ 1.51657784 1.51657784 1.51657784 1.51657783 1.51657783 1.51657783
+ 1.51657783 1.51657783 1.51657783 1.51657783 1.51657783 1.51657782
+ 1.51657782 1.51657782 1.51657782 1.51657782 1.51657782 1.51657782
+ 1.51657782 1.51657782 1.51657781 1.51657781 1.51657781 1.51657781
+ 1.51657781 1.51657781 1.51657781 1.51657781 1.51657781 1.51657781
+ 1.51657781 1.5165778  1.5165778  1.5165778  1.5165778  1.5165778
+ 1.5165778  1.5165778  1.5165778  1.5165778  1.5165778  1.5165778
+ 1.5165778  1.5165778  1.5165778  1.5165778  1.51657779 1.51657779
+ 1.51657779 1.51657779 1.51657779 1.51657779 1.51657779 1.51657779
+ 1.51657779 1.51657778 1.51657778 1.51657778 1.51657778 1.51657778
+ 1.51657777 1.51657777 1.51657777 1.51657776 1.51657775 1.51657774]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 155
+Size of game = (78, 79)
+Objective = 1.5165777320132636
+Support of attacker = 1
+Support of classifier = 78
+init time = 0.4123 s
+NFG time = 0.4809 s
+plot time = 0.0003 s
+BR time = 209.9065 s
+Train time = 261.7983 s
+Matrix update time = 0.3369 s
+Points utilities = [[1.31126716 1.3077692  1.28127374 1.21793077 1.18311945 1.2225578
+  1.19608465 1.22233373 1.21126274 1.23210323 1.22823479 1.24546555
+  1.24532718 1.26005152 1.27472525 1.2759473  1.28835824 1.3010513
+  1.30365522 1.31490599 1.3266613  1.33077352 1.34183313 1.35386155
+  1.36079992 1.37521189 1.40000691 1.39552228 1.39537197 1.39568962
+  1.39203703 1.3918926  1.39214518 1.38114385 1.38128699 1.38155208
+  1.38047694 1.38057551 1.38081605 1.37998379 1.37966245 1.3792684
+  1.37948818 1.37984412 1.38023421 1.37955997 1.37988986 1.38017096
+  1.37959962 1.37945011 1.37964408 1.37959979 1.37996918 1.38045178
+  1.38097746 1.3813312  1.38150382 1.38199593 1.38256809 1.38284635
+  1.38323789 1.38384004 1.38448731 1.38477001 1.38536087 1.38605637
+  1.38649088 1.38714263 1.38791042 1.38874043 1.38931099 1.3901551
+  1.39112499 1.39218964 1.39310939 1.39441217 1.3954342  1.39742429]]
+new point utility = 1.5164819388244268
+new point = [1.51648194]
+point added
+---------------------------- iteration: 156
+Size of game = (79, 79)
+Objective = 1.4000069110208078
+Support of attacker = 1
+Support of classifier = 79
+init time = 0.4123 s
+NFG time = 0.4859 s
+plot time = 0.0003 s
+BR time = 212.0468 s
+Train time = 261.7988 s
+Matrix update time = 0.3429 s
+Points utilities = [[1.45558601 1.4546848  1.44979761 1.45051002 1.3792006  1.40829264
+  1.36602997 1.38530424 1.36267459 1.37644532 1.36297157 1.37344605
+  1.36516958 1.37364058 1.38231611 1.37663002 1.38325696 1.39025961
+  1.38648518 1.39193259 1.39778301 1.39532644 1.39989577 1.40489417
+  1.40338514 1.40730508 1.41153848 1.4095352  1.41182429 1.41453295
+  1.41315964 1.41529463 1.41777919 1.40872284 1.4109649  1.41328041
+  1.41417826 1.41624058 1.41841917 1.41946962 1.42102213 1.42247794
+  1.42454632 1.42673562 1.42894053 1.4300219  1.43212295 1.43415303
+  1.43527583 1.4368164  1.43869549 1.44030807 1.44233669 1.44447047
+  1.44663873 1.44861849 1.45040192 1.45251699 1.45471495 1.4566041
+  1.45861481 1.46085192 1.46314268 1.46505488 1.46730105 1.46966746
+  1.47176767 1.47411178 1.47659768 1.47917705 1.48152152 1.4842228
+  1.48715728 1.49033459 1.49354554 1.49740997 1.50128082 1.50653239
+  1.51648194]]
+new point utility = 1.5164601944833176
+new point = [1.5164602]
+classifier utilities = [1.51648208 1.51648207 1.51648206 1.51648206 1.51648206 1.51648206
+ 1.51648206 1.51648205 1.51648205 1.51648205 1.51648205 1.51648205
+ 1.51648205 1.51648205 1.51648205 1.51648205 1.51648204 1.51648204
+ 1.51648204 1.51648204 1.51648204 1.51648204 1.51648204 1.51648204
+ 1.51648203 1.51648203 1.51648203 1.51648203 1.51648203 1.51648203
+ 1.51648203 1.51648203 1.51648202 1.51648202 1.51648202 1.51648202
+ 1.51648202 1.51648202 1.51648202 1.51648202 1.51648202 1.51648202
+ 1.51648202 1.51648202 1.51648201 1.51648201 1.51648201 1.51648201
+ 1.51648201 1.51648201 1.51648201 1.51648201 1.51648201 1.51648201
+ 1.51648201 1.51648201 1.51648201 1.51648201 1.516482   1.516482
+ 1.516482   1.516482   1.516482   1.516482   1.516482   1.516482
+ 1.516482   1.51648199 1.51648199 1.51648199 1.51648199 1.51648199
+ 1.51648198 1.51648198 1.51648198 1.51648197 1.51648197 1.51648196
+ 1.51648195]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 157
+Size of game = (79, 80)
+Objective = 1.5164819389564892
+Support of attacker = 1
+Support of classifier = 79
+init time = 0.4123 s
+NFG time = 0.4900 s
+plot time = 0.0003 s
+BR time = 214.1696 s
+Train time = 269.1566 s
+Matrix update time = 0.3442 s
+Points utilities = [[1.31255315 1.3092697  1.28353777 1.22147992 1.18673417 1.22607985
+  1.19932666 1.22541738 1.21410263 1.23477827 1.23070198 1.24777475
+  1.24745537 1.2620307  1.27656035 1.27762598 1.28989984 1.30245921
+  1.30492263 1.31604349 1.32767012 1.33164894 1.34257833 1.35447262
+  1.36126585 1.37550937 1.40000691 1.39551783 1.39536362 1.39567759
+  1.3920213  1.39187309 1.3921217  1.3811163  1.38125499 1.3815154
+  1.3804354  1.38052884 1.38076399 1.37992613 1.37959892 1.37919871
+  1.37941199 1.37976108 1.38014397 1.37946219 1.37978407 1.38005672
+  1.37947654 1.37931768 1.37950178 1.37944712 1.37980554 1.38027655
+  1.38078997 1.38113074 1.3812896  1.38176704 1.38232353 1.38258507
+  1.38295868 1.38354156 1.38416811 1.38442856 1.38499536 1.3856648
+  1.38607101 1.3866917  1.38742498 1.38821599 1.38874147 1.38953207
+  1.3904363  1.39141628 1.39221817 1.39333893 1.39402026 1.39514724
+  1.39753615]]
+new point utility = 1.5163221226632453
+new point = [1.51632212]
+point added
+---------------------------- iteration: 158
+Size of game = (80, 80)
+Objective = 1.4000069105506632
+Support of attacker = 1
+Support of classifier = 80
+init time = 0.4123 s
+NFG time = 0.4952 s
+plot time = 0.0003 s
+BR time = 216.8479 s
+Train time = 269.1571 s
+Matrix update time = 0.3504 s
+Points utilities = [[1.45588528 1.45498127 1.45018301 1.45222699 1.3806305  1.40955084
+  1.36711454 1.3862826  1.36353518 1.37722166 1.36365725 1.37405961
+  1.36570832 1.37411545 1.38273016 1.37698221 1.38355297 1.39050129
+  1.38667269 1.3920688  1.39786912 1.39536321 1.39988445 1.40483548
+  1.40328034 1.40715497 1.4113448  1.40931559 1.41157901 1.41426234
+  1.41286476 1.414975   1.41743495 1.4083573  1.41057548 1.41286729
+  1.41374203 1.41578092 1.41793598 1.41896314 1.42049194 1.42192376
+  1.42396747 1.42613152 1.42831051 1.42936569 1.43143919 1.4334407
+  1.43453422 1.43604399 1.43789064 1.43946935 1.4414621  1.44355801
+  1.44568627 1.4476239  1.44936293 1.45143087 1.45357904 1.455416
+  1.45737174 1.45955106 1.46178132 1.4636307  1.46581097 1.46810824
+  1.47013564 1.47240111 1.4747996  1.47727774 1.47949955 1.48204474
+  1.48477513 1.48768295 1.49053745 1.49391722 1.4970578  1.50098118
+  1.50663442 1.51632212]]
+new point utility = 1.5163248676952323
+new point = [1.51632487]

@@ -1,0 +1,69 @@
+NEW RUN________________________________________
+____iterstion: 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [1.4644661]
+3
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+____iterstion: 1
+Points utilities = [[-2.63694171e-10]]
+new point utility = 10.000000000232056
+new point = [1.46446611]
+point added
+3
+____iterstion: 2
+Points utilities = [[ 8.84063832 10.        ]]
+new point utility = 9.99999999651659
+new point = [1.4644661]
+3
+classifier utilities = [10.00000002 10.00000002]
+new classifier utility = [1.43684128e-09]
+classifier added
+____iterstion: 3
+Points utilities = [[5. 5.]]
+new point utility = 5.24419417376841
+new point = [3.03030303]
+point added
+3
+classifier utilities = [10.00000001  5.00000001  5.00000001]
+new classifier utility = [0.]
+classifier added
+____iterstion: 4
+Points utilities = [[4.55594719 4.55594854 5.24419409]]
+new point utility = 5.40720114570853
+new point = [2.99117977]
+point added
+3
+classifier utilities = [5.2441942  5.2441942  5.2441942  5.24419405]
+new classifier utility = [2.38674161e-09]
+classifier added
+____iterstion: 5
+Points utilities = [[3.51255559 3.13366102 3.4510411  3.51255559]]
+new point utility = 3.752187895492193
+new point = [6.61852159]
+point added
+3
+classifier utilities = [7.02511118 3.51255559 3.51255559 3.51255559 3.51255559]
+new classifier utility = [3.51255559]
+____iterstion: 6
+Points utilities = [[3.6087004  3.46112431 3.6289812  3.5632718  3.75218789]]
+new point utility = 3.7521572083594705
+new point = [6.6185141]
+3
+classifier utilities = [3.75218803 3.75218799 3.75218799 3.75218795 3.75218795]
+new classifier utility = [8.66850616e-08]
+classifier added
+____iterstion: 7
+Points utilities = [[3.51255557 3.19953107 3.45131021 3.51255558 3.21258953]]
+new point utility = 3.5125555747002695
+new point = [8.53553392]
+3
+classifier utilities = [7.02511137 3.51255573 3.51255597 3.51255566 3.51255566 3.51255571]
+new classifier utility = [3.51255571]
+Objective = 3.512555575564324
+Number of iterations = 8
+Support of attacker = 2
+Support of classifier = 5
+Size of game = (5, 6)

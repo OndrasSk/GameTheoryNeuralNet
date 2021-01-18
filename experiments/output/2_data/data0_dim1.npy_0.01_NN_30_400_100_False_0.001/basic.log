@@ -1,0 +1,75 @@
+NEW RUN________________________________________
+____iterstion: 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [1.4644661]
+3
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+____iterstion: 1
+Points utilities = [[-2.63694171e-10]]
+new point utility = 10.000000000232056
+new point = [1.46446608]
+point added
+3
+____iterstion: 2
+Points utilities = [[ 8.84063832 10.        ]]
+new point utility = 9.99999999651659
+new point = [1.46446609]
+3
+classifier utilities = [10.00000002 10.00000002]
+new classifier utility = [0.]
+classifier added
+____iterstion: 3
+Points utilities = [[3.94367585 8.99999997]]
+new point utility = 9.972714739170447
+new point = [1.37330162]
+point added
+3
+____iterstion: 4
+Points utilities = [[8.66384817 9.46792379 9.97271473]]
+new point utility = 9.97271527294205
+new point = [1.37330251]
+3
+classifier utilities = [9.97271487 9.97271486 9.9727148 ]
+new classifier utility = [0.]
+classifier added
+____iterstion: 5
+Points utilities = [[4.51104072 8.99999996 8.99054428]]
+new point utility = 9.937949084737214
+new point = [1.32785417]
+point added
+3
+____iterstion: 6
+Points utilities = [[8.54919357 9.25348301 9.53440287 9.93794906]]
+new point utility = 9.937952729982067
+new point = [1.32785813]
+3
+classifier utilities = [9.93794947 9.93794946 9.93794941 9.93794922]
+new classifier utility = [0.]
+classifier added
+____iterstion: 7
+Points utilities = [[8.44186952 9.70455476 9.6877163  9.70455477]]
+new point utility = 9.860864564885865
+new point = [1.26175896]
+point added
+3
+____iterstion: 8
+Points utilities = [[9.00512176 9.54540959 9.65836909 9.82190259 9.86086456]]
+new point utility = 9.860868229457207
+new point = [1.26176156]
+3
+classifier utilities = [9.8608646  9.86086459 9.86086459 9.86086458 9.86086456]
+new classifier utility = [6.08742253e-09]
+classifier added
+____iterstion: 9
+Points utilities = [[8.18349734 9.70455476 9.50475217 9.70455477 9.65182289]]
+new point utility = 9.704554761139914
+new point = [1.46446608]
+3
+Objective = 9.704554768123158
+Number of iterations = 10
+Support of attacker = 2
+Support of classifier = 6
+Size of game = (5, 6)

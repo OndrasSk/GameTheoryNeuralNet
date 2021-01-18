@@ -1,0 +1,152 @@
+NEW RUN________________________________________
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.8138 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.8138 s
+NFG time = 0.0059 s
+plot time = 0.0000 s
+BR time = 0.0141 s
+Train time = 1.0382 s
+Matrix update time = 0.0006 s
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.2441157758846675
+new point = [4.24411578]
+point added
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.8138 s
+NFG time = 0.0079 s
+plot time = 0.0000 s
+BR time = 0.1521 s
+Train time = 1.0386 s
+Matrix update time = 0.0014 s
+Points utilities = [[3.77456721 4.24411578]]
+new point utility = 4.243367002092205
+new point = [4.243367]
+classifier utilities = [4.24411578 4.24411578]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.244115774945934
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.8138 s
+NFG time = 0.0096 s
+plot time = 0.0000 s
+BR time = 0.2302 s
+Train time = 2.2722 s
+Matrix update time = 0.0019 s
+Points utilities = [[-1.19701731e-09 -1.17622733e-09]]
+new point utility = 3.2048492843977403
+new point = [3.20484928]
+point added
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.2246775996971096e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.8138 s
+NFG time = 0.0112 s
+plot time = 0.0000 s
+BR time = 0.4370 s
+Train time = 2.2726 s
+Matrix update time = 0.0028 s
+Points utilities = [[2.80663597 2.79530976 3.20484928]]
+new point utility = 3.2048267098607126
+new point = [3.20482671]
+classifier utilities = [3.20484929 3.20484929 3.20484929]
+new classifier utility = [3.20484929]
+Size of game = (3, 3)
+Objective = 3.204849283556412
+Number of iterations = 5
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.8138 s
+NFG time = 0.0129 s
+plot time = 0.0000 s
+BR time = 0.5584 s
+Train time = 23.4210 s
+Matrix update time = 0.0033 s
+NEW RUN________________________________________
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.6213 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.6213 s
+NFG time = 0.0063 s
+plot time = 0.0000 s
+BR time = 0.0148 s
+Train time = 0.8475 s
+Matrix update time = 0.0005 s
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.176670214099605
+new point = [4.17667021]
+point added
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.6213 s
+NFG time = 0.0082 s
+plot time = 0.0000 s
+BR time = 0.1631 s
+Train time = 0.8479 s
+Matrix update time = 0.0013 s
+Points utilities = [[3.70892842 4.17667021]]
+new point utility = 4.176657341064069
+new point = [4.17665734]
+classifier utilities = [4.17667022 4.17667022]
+new classifier utility = [4.17667022]
+Size of game = (2, 2)
+Objective = 4.176670213173033
+Number of iterations = 3
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.6213 s
+NFG time = 0.0098 s
+plot time = 0.0000 s
+BR time = 0.2538 s
+Train time = 21.8243 s
+Matrix update time = 0.0018 s

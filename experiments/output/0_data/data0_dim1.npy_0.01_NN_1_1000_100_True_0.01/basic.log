@@ -1,0 +1,43 @@
+NEW RUN________________________________________
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 1.0312 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 1.0312 s
+NFG time = 0.0061 s
+plot time = 0.0000 s
+BR time = 0.0139 s
+Train time = 0.8342 s
+Matrix update time = 0.0006 s
+Points utilities = [[9.9]]
+new point utility = 9.899999996731847
+new point = [10.]
+Size of game = (1, 2)
+Objective = 9.899999997744473
+Number of iterations = 2
+Support of attacker = 1
+Support of classifier = 2
+init time = 1.0312 s
+NFG time = 0.0078 s
+plot time = 0.0000 s
+BR time = 0.0306 s
+Train time = 2.1945 s
+Matrix update time = 0.0011 s

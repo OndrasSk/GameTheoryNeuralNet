@@ -1,0 +1,437 @@
+NEW RUN________________________________________
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.4282 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.4282 s
+NFG time = 0.0060 s
+plot time = 0.0000 s
+BR time = 0.0136 s
+Train time = 0.2602 s
+Matrix update time = 0.0006 s
+Points utilities = [[-2.63694171e-10]]
+new point utility = 3.965925890678529
+new point = [3.96592589]
+point added
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.4282 s
+NFG time = 0.0078 s
+plot time = 0.0000 s
+BR time = 0.1517 s
+Train time = 0.2606 s
+Matrix update time = 0.0013 s
+Points utilities = [[3.50367306 3.96592589]]
+new point utility = 3.965512350497741
+new point = [3.96551235]
+classifier utilities = [3.9659259  3.96592589]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 3.965925889786589
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.4282 s
+NFG time = 0.0095 s
+plot time = 0.0000 s
+BR time = 0.2344 s
+Train time = 0.7319 s
+Matrix update time = 0.0019 s
+Points utilities = [[-1.25446090e-09 -1.17833085e-09]]
+new point utility = 2.424435567617289
+new point = [2.42443557]
+point added
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.2488877870930827e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.4282 s
+NFG time = 0.0114 s
+plot time = 0.0000 s
+BR time = 0.4510 s
+Train time = 0.7323 s
+Matrix update time = 0.0027 s
+Points utilities = [[2.05156575 2.08251506 2.42443557]]
+new point utility = 2.424438918187284
+new point = [2.42443892]
+classifier utilities = [2.42443558 2.42443557 2.42443557]
+new classifier utility = [2.42443558]
+Size of game = (3, 3)
+Objective = 2.4244355662692247
+Number of iterations = 5
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.4282 s
+NFG time = 0.0130 s
+plot time = 0.0000 s
+BR time = 0.5763 s
+Train time = 2.8778 s
+Matrix update time = 0.0032 s
+NEW RUN________________________________________
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.3166 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.3166 s
+NFG time = 0.0064 s
+plot time = 0.0000 s
+BR time = 0.0136 s
+Train time = 0.3485 s
+Matrix update time = 0.0005 s
+Points utilities = [[-2.63694171e-10]]
+new point utility = 6.676588319620286
+new point = [6.67658832]
+point added
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.3166 s
+NFG time = 0.0081 s
+plot time = 0.0000 s
+BR time = 0.1570 s
+Train time = 0.3489 s
+Matrix update time = 0.0013 s
+Points utilities = [[6.11269946 6.67658832]]
+new point utility = 6.676777692344027
+new point = [6.67677769]
+classifier utilities = [6.67658833 6.67658832]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 6.676588318199822
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.3166 s
+NFG time = 0.0097 s
+plot time = 0.0000 s
+BR time = 0.2557 s
+Train time = 0.6668 s
+Matrix update time = 0.0018 s
+Points utilities = [[-1.05618570e-09 -1.61473087e-09]]
+new point utility = 3.2032889224510384
+new point = [3.20328892]
+point added
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.140062828863996e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.3166 s
+NFG time = 0.0114 s
+plot time = 0.0000 s
+BR time = 0.4529 s
+Train time = 0.6671 s
+Matrix update time = 0.0026 s
+Points utilities = [[2.75127106 2.89193831 3.20328892]]
+new point utility = 3.203141254496608
+new point = [3.20314126]
+classifier utilities = [3.20328894 3.20328893 3.20328892]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 3.2032889205807082
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.3166 s
+NFG time = 0.0129 s
+plot time = 0.0000 s
+BR time = 0.6599 s
+Train time = 1.2826 s
+Matrix update time = 0.0032 s
+Points utilities = [[-1.62285638e-09 -2.17864278e-09 -1.74404606e-09]]
+new point utility = 2.18281208519146
+new point = [2.18281209]
+point added
+---------------------------- iteration: 6
+Size of game = (4, 4)
+Objective = -1.7780694553839597e-09
+Support of attacker = 3
+Support of classifier = 1
+init time = 0.3166 s
+NFG time = 0.0146 s
+plot time = 0.0000 s
+BR time = 0.9300 s
+Train time = 1.2830 s
+Matrix update time = 0.0041 s
+Points utilities = [[1.7935319  1.92031409 1.88709672 2.18281208]]
+new point utility = 2.182676500688317
+new point = [2.1826765]
+classifier utilities = [2.18281211 2.1828121  2.18281209 2.18281209]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 7
+Size of game = (4, 5)
+Objective = 2.1828120834019478
+Support of attacker = 1
+Support of classifier = 4
+init time = 0.3166 s
+NFG time = 0.0162 s
+plot time = 0.0000 s
+BR time = 1.1538 s
+Train time = 1.7505 s
+Matrix update time = 0.0046 s
+Points utilities = [[-1.60472309e-09 -2.27535185e-09 -1.83969043e-09 -1.69903704e-09]]
+new point utility = 1.8775286119551273
+new point = [1.87752861]
+point added
+---------------------------- iteration: 8
+Size of game = (5, 5)
+Objective = -1.6781853617768344e-09
+Support of attacker = 4
+Support of classifier = 1
+init time = 0.3166 s
+NFG time = 0.0180 s
+plot time = 0.0000 s
+BR time = 1.4961 s
+Train time = 1.7508 s
+Matrix update time = 0.0056 s
+Points utilities = [[1.52924386 1.64359624 1.57554285 1.60897199 1.87752861]]
+new point utility = 1.8774203294398406
+new point = [1.87742033]
+classifier utilities = [1.87752863 1.87752863 1.87752862 1.87752862 1.87752861]
+new classifier utility = [1.87752863]
+Size of game = (5, 5)
+Objective = 1.8775286103873357
+Number of iterations = 9
+Support of attacker = 1
+Support of classifier = 5
+init time = 0.3166 s
+NFG time = 0.0197 s
+plot time = 0.0000 s
+BR time = 1.8428 s
+Train time = 3.8753 s
+Matrix update time = 0.0061 s
+NEW RUN________________________________________
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.4263 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.4263 s
+NFG time = 0.0062 s
+plot time = 0.0000 s
+BR time = 0.0138 s
+Train time = 0.3415 s
+Matrix update time = 0.0005 s
+Points utilities = [[-2.63694171e-10]]
+new point utility = 6.617478358061876
+new point = [6.61747836]
+point added
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.4263 s
+NFG time = 0.0079 s
+plot time = 0.0000 s
+BR time = 0.1708 s
+Train time = 0.3419 s
+Matrix update time = 0.0013 s
+Points utilities = [[6.05687023 6.61747836]]
+new point utility = 6.6163796156278005
+new point = [6.61637962]
+classifier utilities = [6.61747837 6.61747836]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 6.6174783566447335
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.4263 s
+NFG time = 0.0094 s
+plot time = 0.0000 s
+BR time = 0.2608 s
+Train time = 0.6056 s
+Matrix update time = 0.0018 s
+Points utilities = [[-1.05018869e-09 -1.59346995e-09]]
+new point utility = 3.057254951836808
+new point = [3.05725495]
+point added
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.1369431063316802e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.4263 s
+NFG time = 0.0111 s
+plot time = 0.0000 s
+BR time = 0.4456 s
+Train time = 0.6059 s
+Matrix update time = 0.0028 s
+Points utilities = [[2.60579043 2.75032478 3.05725495]]
+new point utility = 3.058153985411559
+new point = [3.05815399]
+classifier utilities = [3.05725497 3.05725496 3.05725495]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 3.0572549499236628
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.4263 s
+NFG time = 0.0129 s
+plot time = 0.0000 s
+BR time = 0.6189 s
+Train time = 0.9716 s
+Matrix update time = 0.0033 s
+Points utilities = [[-1.66003964e-09 -2.25315907e-09 -1.75316501e-09]]
+new point utility = 2.7525479454700514
+new point = [2.75254795]
+point added
+---------------------------- iteration: 6
+Size of game = (4, 4)
+Objective = -1.8083720721965743e-09
+Support of attacker = 3
+Support of classifier = 1
+init time = 0.4263 s
+NFG time = 0.0150 s
+plot time = 0.0000 s
+BR time = 0.8951 s
+Train time = 0.9720 s
+Matrix update time = 0.0043 s
+Points utilities = [[2.35188762 2.46409129 2.3316151  2.75254794]]
+new point utility = 2.752498045477739
+new point = [2.75249805]
+classifier utilities = [2.75254796 2.75254796 2.75254795 2.75254795]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 7
+Size of game = (4, 5)
+Objective = 2.752547944131004
+Support of attacker = 1
+Support of classifier = 4
+init time = 0.4263 s
+NFG time = 0.0168 s
+plot time = 0.0000 s
+BR time = 1.0973 s
+Train time = 1.4471 s
+Matrix update time = 0.0048 s
+Points utilities = [[-1.44735316e-09 -1.93502678e-09 -1.52580171e-09 -1.79316190e-09]]
+new point utility = 2.0666372437842857
+new point = [2.06663724]
+point added
+---------------------------- iteration: 8
+Size of game = (5, 5)
+Objective = -1.5450437514020643e-09
+Support of attacker = 4
+Support of classifier = 1
+init time = 0.4263 s
+NFG time = 0.0191 s
+plot time = 0.0000 s
+BR time = 1.3711 s
+Train time = 1.4475 s
+Matrix update time = 0.0058 s
+Points utilities = [[1.71376696 1.82238599 1.62829398 1.86634792 2.06663724]]
+new point utility = 2.066660775643494
+new point = [2.06666078]
+classifier utilities = [2.06663727 2.06663726 2.06663725 2.06663725 2.06663725]
+new classifier utility = [0.]
+classifier added
+---------------------------- iteration: 9
+Size of game = (5, 6)
+Objective = 2.066637241943281
+Support of attacker = 1
+Support of classifier = 5
+init time = 0.4263 s
+NFG time = 0.0210 s
+plot time = 0.0000 s
+BR time = 1.7776 s
+Train time = 2.2043 s
+Matrix update time = 0.0064 s
+Points utilities = [[-2.29919081e-09 -2.77620460e-09 -2.10775183e-09 -2.48064996e-09
+  -2.08173863e-09]]
+new point utility = 2.0627801857963894
+new point = [2.06278019]
+point added
+---------------------------- iteration: 10
+Size of game = (6, 6)
+Objective = -1.581684646571011e-09
+Support of attacker = 5
+Support of classifier = 1
+init time = 0.4263 s
+NFG time = 0.0227 s
+plot time = 0.0000 s
+BR time = 2.0906 s
+Train time = 2.2047 s
+Matrix update time = 0.0076 s
+Points utilities = [[1.73193528 1.83054321 1.62390775 1.82906472 1.75552314 2.06278018]]
+new point utility = 2.062670465799227
+new point = [2.06267047]
+classifier utilities = [2.06278021 2.0627802  2.06278019 2.06278019 2.06278019 2.06278019]
+new classifier utility = [2.06278021]
+Size of game = (6, 6)
+Objective = 2.06278018411828
+Number of iterations = 11
+Support of attacker = 1
+Support of classifier = 6
+init time = 0.4263 s
+NFG time = 0.0244 s
+plot time = 0.0000 s
+BR time = 2.4851 s
+Train time = 4.3858 s
+Matrix update time = 0.0082 s

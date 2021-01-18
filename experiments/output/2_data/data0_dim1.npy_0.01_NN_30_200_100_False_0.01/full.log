@@ -1,0 +1,293 @@
+NEW RUN________________________________________
+positive data: [[8.53553389]]
+positive utility: 10.0
+____iterstion: 0
+positive data: [[8.53553389]]
+positive support: [1.]
+classifires probs: [1.]
+BR point: [1.4644661]
+BR value: 9.999999998021366
+BR point: [1.4644661]
+BR value: 9.999999998021366
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [1.4644661]
+3
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+classifires probs: [1.]
+____iterstion: 1
+positive data: [[8.53553389]]
+positive support: [1.]
+classifires probs: [-2.63694171e-11  1.00000000e+00]
+BR point: [1.46446608]
+BR value: 10.000000000232056
+BR point: [1.46446608]
+BR value: 10.000000000232056
+Points utilities = [[-2.63694171e-10]]
+new point utility = 10.000000000232056
+new point = [1.46446608]
+point added
+3
+classifires probs: [-2.63694171e-11  1.00000000e+00]
+____iterstion: 2
+positive data: [[8.53553389 1.46446608]]
+positive support: [1.43684128e-10 1.00000000e+00]
+classifires probs: [0.88406383 0.11593617]
+BR point: [1.46446609]
+BR value: 9.99999999651659
+BR point: [1.46446609]
+BR value: 9.99999999651659
+Points utilities = [[ 8.84063832 10.        ]]
+new point utility = 9.99999999651659
+new point = [1.46446609]
+3
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [10.00000002 10.00000002]
+new classifier utility = [0.]
+classifier added
+classifires probs: [0.88406383 0.11593617]
+____iterstion: 3
+positive data: [[8.53553389 1.46446608]]
+positive support: [4.15483641e-10 1.00000000e+00]
+classifires probs: [0.63569852 0.31430148 0.05      ]
+BR point: [1.31524671]
+BR value: 9.9257084535855
+BR point: [1.31524671]
+BR value: 9.9257084535855
+Points utilities = [[6.35698524 9.5       ]]
+new point utility = 9.9257084535855
+new point = [1.31524671]
+point added
+3
+classifires probs: [0.63569852 0.31430148 0.05      ]
+____iterstion: 4
+positive data: [[8.53553389 1.46446608 1.31524671]]
+positive support: [9.05304779e-10 1.60341547e-08 9.99999998e-01]
+classifires probs: [0.88655967 0.07741207 0.03602827]
+BR point: [1.31524681]
+BR value: 9.925708545296114
+BR point: [1.31524681]
+BR value: 9.925708545296114
+Points utilities = [[8.86559667 9.63971733 9.92570844]]
+new point utility = 9.925708545296114
+new point = [1.31524681]
+3
+classifier utilities = 9.925708439479317
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.925708439479317
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [9.92570861 9.9257086  9.92570844]
+new classifier utility = [0.]
+classifier added
+classifires probs: [0.88655967 0.07741207 0.03602827]
+____iterstion: 5
+positive data: [[8.53553389 1.46446608 1.31524671]]
+positive support: [6.42132537e-11 4.98135786e-01 5.01864215e-01]
+classifires probs: [0.82429005 0.14707473 0.00727043 0.02136478]
+BR point: [1.46446608]
+BR value: 9.713647837791061
+BR point: [1.46446608]
+BR value: 9.713647837791061
+Points utilities = [[8.24290055 9.71364784 9.71364784]]
+new point utility = 9.713647837791061
+new point = [1.46446608]
+3
+classifires probs: [0.82429005 0.14707473 0.00727043 0.02136478]
+Objective = 9.713647838310125
+Number of iterations = 6
+Support of attacker = 2
+Support of classifier = 4
+Size of game = (3, 4)
+NEW RUN________________________________________
+positive data: [[8.53553389]]
+positive utility: 10.0
+____iterstion: 0
+positive data: [[8.53553389]]
+positive support: [1.]
+classifires probs: [1.]
+BR point: [1.4644661]
+BR value: 9.999999998021366
+BR point: [1.4644661]
+BR value: 9.999999998021366
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [1.4644661]
+3
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+classifires probs: [1.]
+____iterstion: 1
+positive data: [[8.53553389]]
+positive support: [1.]
+classifires probs: [-2.63694171e-11  1.00000000e+00]
+BR point: [1.46446608]
+BR value: 10.000000000232056
+BR point: [1.46446608]
+BR value: 10.000000000232056
+Points utilities = [[-2.63694171e-10]]
+new point utility = 10.000000000232056
+new point = [1.46446608]
+point added
+3
+classifires probs: [-2.63694171e-11  1.00000000e+00]
+____iterstion: 2
+positive data: [[8.53553389 1.46446608]]
+positive support: [1.43684128e-10 1.00000000e+00]
+classifires probs: [0.88406383 0.11593617]
+BR point: [1.46446609]
+BR value: 9.99999999651659
+BR point: [1.46446609]
+BR value: 9.99999999651659
+Points utilities = [[ 8.84063832 10.        ]]
+new point utility = 9.99999999651659
+new point = [1.46446609]
+3
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 10.000000022519682
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [10.00000002 10.00000002]
+new classifier utility = [0.]
+classifier added
+classifires probs: [0.88406383 0.11593617]
+____iterstion: 3
+positive data: [[8.53553389 1.46446608]]
+positive support: [1.21416844e-09 1.00000000e+00]
+classifires probs: [0.39436758 0.50563241 0.1       ]
+BR point: [1.31681773]
+BR value: 9.927296190069564
+BR point: [1.31681773]
+BR value: 9.927296190069564
+Points utilities = [[3.94367585 8.99999997]]
+new point utility = 9.927296190069564
+new point = [1.31681773]
+point added
+3
+classifires probs: [0.39436758 0.50563241 0.1       ]
+____iterstion: 4
+positive data: [[8.53553389 1.46446608 1.31681773]]
+positive support: [5.58460521e-10 7.29324532e-09 1.00000000e+00]
+classifires probs: [0.86508532 0.07992227 0.05499241]
+BR point: [1.31681777]
+BR value: 9.927296220142082
+BR point: [1.31681777]
+BR value: 9.927296220142082
+Points utilities = [[8.6508532  9.45007589 9.92729618]]
+new point utility = 9.927296220142082
+new point = [1.31681777]
+3
+classifier utilities = 9.92729624097466
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = 9.92729624097466
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [9.92729632 9.92729631 9.92729624]
+new classifier utility = [0.]
+classifier added
+classifires probs: [0.86508532 0.07992227 0.05499241]
+____iterstion: 5
+positive data: [[8.53553389 1.46446608 1.31681773]]
+positive support: [5.59194382e-11 1.98835045e-01 8.01164956e-01]
+classifires probs: [0.84615375 0.12813797 0.00713535 0.01857293]
+BR point: [1.46446609]
+BR value: 9.742917209633807
+BR point: [1.46446609]
+BR value: 9.742917209633807
+Points utilities = [[8.4615375  9.74291721 9.74291721]]
+new point utility = 9.742917209633807
+new point = [1.46446609]
+3
+classifires probs: [0.84615375 0.12813797 0.00713535 0.01857293]
+Objective = 9.74291721124246
+Number of iterations = 6
+Support of attacker = 2
+Support of classifier = 4
+Size of game = (3, 4)

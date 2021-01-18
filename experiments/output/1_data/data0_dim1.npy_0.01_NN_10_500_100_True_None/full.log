@@ -1,0 +1,227 @@
+NEW RUN________________________________________
+BH init time = 0.0014 s
+BH expand time = 0.0000 s
+BH points time = 0.0000 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0021 s
+positive data: [[4.99999998]]
+positive utility: 10.0
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.6049 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+Game matrix = [[10.]]
+positive data: [[4.99999998]]
+positive support: [1.]
+classifires probs: [1.]
+BH init time = 0.0014 s
+BH expand time = 0.0079 s
+BH points time = 0.0001 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0621 s
+BR point: [4.99999998]
+BR value: 9.999999998021366
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [4.99999998]
+training classifiers...
+classifier utilities = 10.000000006757414
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+classifires probs: [1.]
+Game matrix = [[10.  0.]]
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.6049 s
+NFG time = 0.0063 s
+plot time = 0.0000 s
+BR time = 0.0687 s
+Train time = 0.1191 s
+Matrix update time = 0.0007 s
+Game matrix = [[10.  0.]]
+positive data: [[4.99999998]]
+positive support: [1.]
+classifires probs: [-2.63694171e-11  1.00000000e+00]
+BH init time = 0.0014 s
+BH expand time = 0.0156 s
+BH points time = 0.0002 s
+BH n_points time = 0.0001 s
+BH threads time = 1.6719 s
+BR point: [2.57752963]
+BR value: 7.652654929406328
+Points utilities = [[-2.63694171e-10]]
+new point utility = 7.652654929406328
+new point = [2.57752963]
+added new point
+training classifiers...
+ending training classifiers
+classifires probs: [-2.63694171e-11  1.00000000e+00]
+Game matrix = [[10.          0.        ]
+ [ 7.65265493  7.65265493]]
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.6049 s
+NFG time = 0.0084 s
+plot time = 0.0000 s
+BR time = 1.6868 s
+Train time = 0.1221 s
+Matrix update time = 0.0016 s
+Game matrix = [[10.          0.        ]
+ [ 7.65265493  7.65265493]]
+positive data: [[4.99999998 2.57752963]]
+positive support: [5.35185962e-10 1.00000000e+00]
+classifires probs: [0.70229839 0.29770161]
+BH init time = 0.0014 s
+BH expand time = 0.0156 s
+BH points time = 0.0003 s
+BH n_points time = 0.0001 s
+BH threads time = 2.4097 s
+BR point: [2.57753002]
+BR value: 7.652655678600466
+Points utilities = [[7.02298391 7.65265493]]
+new point utility = 7.652655678600466
+new point = [2.57753002]
+training classifiers...
+classifier utilities = 7.652654933617685
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [7.65265494 7.65265493]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+classifires probs: [0.70229839 0.29770161]
+Game matrix = [[10.          0.          0.        ]
+ [ 7.65265493  7.65265493  0.        ]]
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 7.652654928021144
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.6049 s
+NFG time = 0.0102 s
+plot time = 0.0000 s
+BR time = 2.4253 s
+Train time = 0.2421 s
+Matrix update time = 0.0024 s
+Game matrix = [[10.          0.          0.        ]
+ [ 7.65265493  7.65265493  0.        ]]
+positive data: [[4.99999998 2.57752963]]
+positive support: [0.46789048 0.53210953]
+classifires probs: [-1.14164916e-10 -1.40415757e-10  1.00000000e+00]
+BH init time = 0.0014 s
+BH expand time = 0.0236 s
+BH points time = 0.0003 s
+BH n_points time = 0.0001 s
+BH threads time = 4.7145 s
+BR point: [1.83134284]
+BR value: 5.983844718501223
+Points utilities = [[-1.14164916e-09 -1.94821805e-09]]
+new point utility = 5.983844718501223
+new point = [1.83134284]
+added new point
+training classifiers...
+ending training classifiers
+classifires probs: [-1.14164916e-10 -1.40415757e-10  1.00000000e+00]
+Game matrix = [[10.          0.          0.        ]
+ [ 7.65265493  7.65265493  0.        ]
+ [ 5.98384472  5.98384472  5.98384472]]
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.173272234408313e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.6049 s
+NFG time = 0.0118 s
+plot time = 0.0000 s
+BR time = 4.7388 s
+Train time = 0.2492 s
+Matrix update time = 0.0043 s
+Game matrix = [[10.          0.          0.        ]
+ [ 7.65265493  7.65265493  0.        ]
+ [ 5.98384472  5.98384472  5.98384472]]
+positive data: [[4.99999998 2.57752963 1.83134284]]
+positive support: [5.99126319e-10 8.51085505e-10 1.00000000e+00]
+classifires probs: [0.54635938 0.18275254 0.27088808]
+BH init time = 0.0014 s
+BH expand time = 0.0236 s
+BH points time = 0.0004 s
+BH n_points time = 0.0001 s
+BH threads time = 5.3872 s
+BR point: [1.83118615]
+BR value: 5.983447513375511
+Points utilities = [[5.4635938  5.5796419  5.98384472]]
+new point utility = 5.983447513375511
+new point = [1.83118615]
+training classifiers...
+classifier utilities = 5.9838447222306534
+new classifier utility = [0.]
+new classifier is better = True
+classifier utilities = [5.98384473 5.98384473 5.98384472]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+classifires probs: [0.54635938 0.18275254 0.27088808]
+Game matrix = [[10.          0.          0.          0.        ]
+ [ 7.65265493  7.65265493  0.          0.        ]
+ [ 5.98384472  5.98384472  5.98384472  0.        ]]
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 5.983844716415452
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.6049 s
+NFG time = 0.0133 s
+plot time = 0.0000 s
+BR time = 5.4141 s
+Train time = 0.3636 s
+Matrix update time = 0.0051 s
+Game matrix = [[10.          0.          0.          0.        ]
+ [ 7.65265493  7.65265493  0.          0.        ]
+ [ 5.98384472  5.98384472  5.98384472  0.        ]]
+positive data: [[4.99999998 2.57752963 1.83134284]]
+positive support: [1.15783352e-09 2.09396189e-09 1.00000000e+00]
+classifires probs: [0.2068499  0.23501638 0.45813372 0.1       ]
+BH init time = 0.0014 s
+BH expand time = 0.0325 s
+BH points time = 0.0399 s
+BH n_points time = 0.0002 s
+BH threads time = 7.8201 s
+BR point: [1.83134278]
+BR value: 5.385460107823334
+Points utilities = [[2.06849898 3.38145015 5.38546023]]
+new point utility = 5.385460107823334
+new point = [1.83134278]
+training classifiers...
+ending training classifiers
+classifires probs: [0.2068499  0.23501638 0.45813372 0.1       ]
+Game matrix = [[10.          0.          0.          0.        ]
+ [ 7.65265493  7.65265493  0.          0.        ]
+ [ 5.98384472  5.98384472  5.98384472  0.        ]]
+Size of game = (3, 4)
+Objective = 5.385460234240036
+Number of iterations = 6
+Support of attacker = 1
+Support of classifier = 4
+init time = 0.6049 s
+NFG time = 0.0151 s
+plot time = 0.0000 s
+BR time = 7.8961 s
+Train time = 0.3673 s
+Matrix update time = 0.0056 s

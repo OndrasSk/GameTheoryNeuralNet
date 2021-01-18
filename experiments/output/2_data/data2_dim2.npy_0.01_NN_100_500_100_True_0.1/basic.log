@@ -1,0 +1,699 @@
+NEW RUN________________________________________
+____iterstion: 0
+init time = 2.0195 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021368
+new point = [1.46446611 1.46446611]
+3
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+____iterstion: 1
+init time = 2.0195 s
+NFG time = 0.2876 s
+plot time = 0.0000 s
+BR time = 0.8459 s
+Train time = 0.3033 s
+Matrix update time = 0.0006 s
+Points utilities = [[-2.63694171e-10]]
+new point utility = 10.000000000232049
+new point = [8.53553396 8.53553395]
+point added
+3
+____iterstion: 2
+init time = 2.0195 s
+NFG time = 0.2894 s
+plot time = 0.0000 s
+BR time = 1.6216 s
+Train time = 0.3039 s
+Matrix update time = 0.0015 s
+Points utilities = [[ 8.84063247 10.        ]]
+new point utility = 9.99999999651658
+new point = [8.53553398 8.53553398]
+3
+classifier utilities = [10.00000002 10.00000002]
+new classifier utility = [1.43641857e-09]
+classifier added
+____iterstion: 3
+init time = 2.0195 s
+NFG time = 0.2910 s
+plot time = 0.0000 s
+BR time = 1.6600 s
+Train time = 0.5792 s
+Matrix update time = 0.0021 s
+Points utilities = [[5. 5.]]
+new point utility = 9.443131641782337
+new point = [8.0952219  8.77585414]
+point added
+3
+classifier utilities = [10.00000001  5.00000002  4.99999999]
+new classifier utility = [0.]
+classifier added
+____iterstion: 4
+init time = 2.0195 s
+NFG time = 0.3264 s
+plot time = 0.0000 s
+BR time = 2.8373 s
+Train time = 0.8635 s
+Matrix update time = 0.0032 s
+Points utilities = [[8.50367554 8.59578198 9.4431316 ]]
+new point utility = 9.443624989622833
+new point = [8.14170074 8.82691716]
+3
+classifier utilities = [9.44313205 9.44313202 9.44313201 9.44313179]
+new classifier utility = [2.67132146e-08]
+classifier added
+____iterstion: 5
+init time = 2.0195 s
+NFG time = 0.3282 s
+plot time = 0.0000 s
+BR time = 4.1036 s
+Train time = 1.1391 s
+Matrix update time = 0.0038 s
+Points utilities = [[4.93035313 7.04235357 7.04235357]]
+new point utility = 9.810292370984323
+new point = [8.69927578 8.37105789]
+point added
+3
+____iterstion: 6
+init time = 2.0195 s
+NFG time = 0.3308 s
+plot time = 0.0000 s
+BR time = 5.7198 s
+Train time = 1.1396 s
+Matrix update time = 0.0049 s
+Points utilities = [[6.22022645 6.21368538 7.82487593 7.82487593]]
+new point utility = 9.33005827764063
+new point = [8.80922503 8.05928153]
+point added
+3
+classifier utilities = [9.58148079 9.58148078 6.38765385 9.58148062 3.19382693]
+new classifier utility = [1.41501305e-08]
+classifier added
+____iterstion: 7
+init time = 2.0195 s
+NFG time = 0.3332 s
+plot time = 0.0000 s
+BR time = 6.5540 s
+Train time = 1.4163 s
+Matrix update time = 0.0061 s
+Points utilities = [[6.68306536 7.8255374  7.82553739 7.82471638 7.82553739]]
+new point utility = 9.326581152681097
+new point = [8.81032026 8.05832976]
+point added
+3
+____iterstion: 8
+init time = 2.0195 s
+NFG time = 0.3359 s
+plot time = 0.0000 s
+BR time = 8.1515 s
+Train time = 1.4169 s
+Matrix update time = 0.0072 s
+Points utilities = [[8.5460063  8.21068104 8.67095496 8.83634958 8.92575861 9.32658114]]
+new point utility = 9.327176072998975
+new point = [8.81844799 8.06578778]
+3
+classifier utilities = [9.32658163 9.32658157 9.32658148 9.32658152 9.32658151 9.32658136]
+new classifier utility = [1.83077029e-07]
+classifier added
+____iterstion: 9
+init time = 2.0195 s
+NFG time = 0.3377 s
+plot time = 0.0000 s
+BR time = 9.1922 s
+Train time = 1.6914 s
+Matrix update time = 0.0079 s
+Points utilities = [[6.73872009 7.8255374  7.8255374  7.82444332 7.82553739 7.82443778]]
+new point utility = 9.530985481747445
+new point = [8.57011597 8.50022825]
+point added
+3
+____iterstion: 10
+init time = 2.0195 s
+NFG time = 0.3405 s
+plot time = 0.0000 s
+BR time = 11.1067 s
+Train time = 1.6920 s
+Matrix update time = 0.0091 s
+Points utilities = [[6.58242921 7.44022147 8.23245174 7.57452102 7.7829974  8.23245174
+  8.23245174]]
+new point utility = 8.232802670478423
+new point = [8.14337197 8.82864647]
+3
+classifier utilities = [9.54487172 9.5448717  7.15865379 7.15865374 4.77243582 2.38621785
+ 7.15865374]
+new classifier utility = [2.02437826e-08]
+classifier added
+____iterstion: 11
+init time = 2.0195 s
+NFG time = 0.3431 s
+plot time = 0.0000 s
+BR time = 12.0870 s
+Train time = 1.9673 s
+Matrix update time = 0.0098 s
+Points utilities = [[4.99497643 7.0423536  7.04235361 7.01222535 6.96020357 6.95760965
+  7.04055742]]
+new point utility = 8.71113649284005
+new point = [8.90802821 7.85744042]
+point added
+3
+____iterstion: 12
+init time = 2.0195 s
+NFG time = 0.3462 s
+plot time = 0.0000 s
+BR time = 14.2189 s
+Train time = 1.9679 s
+Matrix update time = 0.0111 s
+Points utilities = [[5.4684114  7.6397134  7.63971341 6.58381472 6.40396725 6.40158063
+  7.63874959 7.63971341]]
+new point utility = 8.321929217775823
+new point = [7.68550101 8.88034678]
+point added
+3
+classifier utilities = [9.3547512  9.35475119 6.2365009  6.23650084 3.11825252 3.11825039
+ 6.23650079 3.11825037]
+new classifier utility = [1.17489548e-08]
+classifier added
+____iterstion: 13
+init time = 2.0195 s
+NFG time = 0.3487 s
+plot time = 0.0000 s
+BR time = 15.5962 s
+Train time = 2.2536 s
+Matrix update time = 0.0126 s
+Points utilities = [[5.81282613 5.98823279 5.83029142 7.15573642 6.89450473 7.01913981
+  7.19946548 6.55595914 7.19946549]]
+new point utility = 8.080064739823499
+new point = [7.59353848 8.87230072]
+point added
+3
+____iterstion: 14
+init time = 2.0195 s
+NFG time = 0.3514 s
+plot time = 0.0000 s
+BR time = 18.0147 s
+Train time = 2.2542 s
+Matrix update time = 0.0139 s
+Points utilities = [[7.75633768 7.44416387 7.85067018 7.71483689 7.6656363  7.86675506
+  7.86696186 7.75717067 7.78697472 8.08006474]]
+new point utility = 8.08000035970066
+new point = [7.59322039 8.87191521]
+3
+classifier utilities = [8.08006475 8.08006474 8.08006474 8.08006474 8.08006474 8.08006474
+ 8.08006474 8.08006474 8.08006474]
+new classifier utility = [3.34832847e-09]
+classifier added
+____iterstion: 15
+init time = 2.0195 s
+NFG time = 0.3534 s
+plot time = 0.0000 s
+BR time = 19.4030 s
+Train time = 2.5337 s
+Matrix update time = 0.0145 s
+Points utilities = [[6.01635142 7.07242465 5.67470718 7.15351079 6.80641541 6.86547587
+  7.19946543 6.41243522 7.19946546 7.14719175]]
+new point utility = 7.908083210967254
+new point = [8.95556026 7.6047585 ]
+point added
+3
+____iterstion: 16
+init time = 2.0195 s
+NFG time = 0.3562 s
+plot time = 0.0000 s
+BR time = 21.8674 s
+Train time = 2.5343 s
+Matrix update time = 0.0159 s
+Points utilities = [[6.8294147  7.26959439 6.36988916 6.86658796 6.66228935 6.72768799
+  7.39144326 6.28373971 7.39144326 7.33486486 7.39144326]]
+new point utility = 7.778593602386166
+new point = [8.87142048 7.49322471]
+point added
+3
+classifier utilities = [8.56978934 8.56978933 6.42734201 6.42734203 4.28489469 2.1424474
+ 6.42734199 6.42734198 6.42734197 4.28489465]
+new classifier utility = [5.29510466e-09]
+classifier added
+____iterstion: 17
+init time = 2.0195 s
+NFG time = 0.3585 s
+plot time = 0.0000 s
+BR time = 23.3803 s
+Train time = 2.9590 s
+Matrix update time = 0.0176 s
+Points utilities = [[6.28154212 7.10114517 6.68304748 7.15319708 6.85790023 6.91105885
+  7.1994655  6.45501025 7.1994655  7.11888905 7.10230604 6.98601049]]
+new point utility = 7.561018534506925
+new point = [7.82230789 8.85203347]
+point added
+3
+____iterstion: 18
+init time = 2.0195 s
+NFG time = 0.3612 s
+plot time = 0.0000 s
+BR time = 25.8964 s
+Train time = 2.9595 s
+Matrix update time = 0.0191 s
+Points utilities = [[6.37712174 7.2209839  6.80226452 7.27965415 6.96741583 7.01870566
+  7.32307233 6.92197698 7.32307233 7.2403808  7.2111618  7.09308381
+  7.32307233]]
+new point utility = 7.535035737022248
+new point = [2.00638758 2.77653936]
+point added
+3
+____iterstion: 19
+init time = 2.0195 s
+NFG time = 0.3637 s
+plot time = 0.0000 s
+BR time = 27.6744 s
+Train time = 2.9601 s
+Matrix update time = 0.0206 s
+Points utilities = [[7.32926807 7.29713856 7.23473753 7.3688972  7.33491404 7.42555715
+  7.42495673 7.28768777 7.44445748 7.413247   7.30927118 7.39463095
+  7.46489882 7.53503574]]
+new point utility = 7.534569418055702
+new point = [2.00669884 2.77662465]
+3
+classifier utilities = [7.53503588 7.53503587 7.53503583 7.53503584 7.53503581 7.53503576
+ 7.53503582 7.53503577 7.53503579 7.53503581 7.5350357 ]
+new classifier utility = [1.80516534e-07]
+classifier added
+____iterstion: 20
+init time = 2.0195 s
+NFG time = 0.3658 s
+plot time = 0.0000 s
+BR time = 29.4463 s
+Train time = 3.3106 s
+Matrix update time = 0.0213 s
+Points utilities = [[6.20826055 7.21923037 6.83326767 7.28393675 6.97666099 7.02601498
+  7.32307233 6.92880397 7.32307233 7.24012354 7.19139606 7.07364172
+  7.32307233 6.20320116]]
+new point utility = 7.5006493896914295
+new point = [8.86370977 7.39999887]
+point added
+3
+____iterstion: 21
+init time = 2.0195 s
+NFG time = 0.3693 s
+plot time = 0.0000 s
+BR time = 32.6251 s
+Train time = 3.3112 s
+Matrix update time = 0.0230 s
+Points utilities = [[7.30175418 7.29783251 7.19307929 7.36059787 7.31823914 7.40243123
+  7.41286439 7.2601405  7.44619845 7.39900541 7.32620272 7.35601379
+  7.4726963  7.20003038 7.50064939]]
+new point utility = 7.500922743710593
+new point = [8.86370901 7.40008265]
+3
+classifier utilities = [7.50064972 7.5006497  7.5006496  7.50064961 7.50064953 7.50064941
+ 7.50064959 7.50064945 7.50064952 7.50064953 7.50064929 7.50064969]
+new classifier utility = [4.20200654e-07]
+classifier added
+____iterstion: 22
+init time = 2.0195 s
+NFG time = 0.3711 s
+plot time = 0.0000 s
+BR time = 34.4814 s
+Train time = 3.5877 s
+Matrix update time = 0.0237 s
+Points utilities = [[6.55238084 7.29877607 6.93529844 7.36932792 7.07960084 7.12749222
+  7.4197671  6.93448779 7.4197671  7.34664349 7.19857257 7.08070072
+  7.4197671  6.58024776 7.4197671 ]]
+new point utility = 7.419767407305181
+new point = [8.57019588 8.50031126]
+3
+classifier utilities = [8.16855104 8.16855103 6.80712584 6.80712599 5.44570068 4.08427551
+ 8.16855084 5.44570065 6.80712582 5.44570069 4.08427544 8.16855103
+ 4.08427557]
+new classifier utility = [3.78017006e-08]
+classifier added
+____iterstion: 23
+init time = 2.0195 s
+NFG time = 0.3736 s
+plot time = 0.0000 s
+BR time = 37.9143 s
+Train time = 3.8730 s
+Matrix update time = 0.0243 s
+Points utilities = [[5.57103237 7.2455285  6.62056603 7.19228669 6.91636402 6.91378643
+  7.24334586 6.51701796 6.95588506 7.24552854 6.9255575  6.8121561
+  7.24552852 5.79350387 7.04345523]]
+new point utility = 7.278100888444298
+new point = [7.48676082 8.68061864]
+3
+Objective = 7.245528553526831
+Number of iterations = 24
+Support of attacker = 3
+Support of classifier = 11
+Size of game = (15, 14)
+init time = 2.0195 s
+NFG time = 0.3768 s
+plot time = 0.0000 s
+BR time = 38.9432 s
+Train time = 3.8736 s
+Matrix update time = 0.0250 s
+NEW RUN________________________________________
+____iterstion: 0
+init time = 1.7436 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021368
+new point = [1.46446611 1.46446611]
+3
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+____iterstion: 1
+init time = 1.7436 s
+NFG time = 0.3312 s
+plot time = 0.0000 s
+BR time = 0.8570 s
+Train time = 0.3108 s
+Matrix update time = 0.0006 s
+Points utilities = [[-2.63694171e-10]]
+new point utility = 10.000000000232049
+new point = [8.53553396 8.53553395]
+point added
+3
+____iterstion: 2
+init time = 1.7436 s
+NFG time = 0.3331 s
+plot time = 0.0000 s
+BR time = 1.6694 s
+Train time = 0.3114 s
+Matrix update time = 0.0019 s
+Points utilities = [[ 8.84063247 10.        ]]
+new point utility = 9.99999999651658
+new point = [8.53553398 8.53553398]
+3
+classifier utilities = [10.00000002 10.00000002]
+new classifier utility = [1.43641857e-09]
+classifier added
+____iterstion: 3
+init time = 1.7436 s
+NFG time = 0.3346 s
+plot time = 0.0000 s
+BR time = 1.7173 s
+Train time = 0.6026 s
+Matrix update time = 0.0024 s
+Points utilities = [[5. 5.]]
+new point utility = 9.428373335509475
+new point = [8.13610383 8.83077256]
+point added
+3
+classifier utilities = [10.00000001  5.00000002  4.99999999]
+new classifier utility = [0.]
+classifier added
+____iterstion: 4
+init time = 1.7436 s
+NFG time = 0.3658 s
+plot time = 0.0000 s
+BR time = 3.0343 s
+Train time = 0.8699 s
+Matrix update time = 0.0036 s
+Points utilities = [[8.51462803 8.60354566 9.42837333]]
+new point utility = 9.428581060092451
+new point = [8.13620001 8.83074086]
+3
+classifier utilities = [9.42837346 9.42837345 9.42837344 9.42837343]
+new classifier utility = [9.65197016e-09]
+classifier added
+____iterstion: 5
+init time = 1.7436 s
+NFG time = 0.3675 s
+plot time = 0.0000 s
+BR time = 4.3255 s
+Train time = 1.1516 s
+Matrix update time = 0.0042 s
+Points utilities = [[5.03769013 7.03668851 7.03668849]]
+new point utility = 9.571563909306628
+new point = [8.55511061 8.51538047]
+point added
+3
+____iterstion: 6
+init time = 1.7436 s
+NFG time = 0.3696 s
+plot time = 0.0000 s
+BR time = 6.7297 s
+Train time = 1.1547 s
+Matrix update time = 0.0069 s
+Points utilities = [[5.84598094 6.17520492 7.84892526 7.8489253 ]]
+new point utility = 9.517909975947445
+new point = [8.68149574 8.37600207]
+point added
+3
+classifier utilities = [9.61093089 9.61093039 6.40728705 6.40728655 3.20364293]
+new classifier utility = [5.01928253e-07]
+classifier added
+____iterstion: 7
+init time = 1.7436 s
+NFG time = 0.3717 s
+plot time = 0.0000 s
+BR time = 8.0517 s
+Train time = 1.5089 s
+Matrix update time = 0.0095 s
+Points utilities = [[6.64272014 6.80455589 7.84892601 7.84892599 7.83947638]]
+new point utility = 9.351807088507325
+new point = [8.80452912 8.06720517]
+point added
+3
+____iterstion: 8
+init time = 1.7436 s
+NFG time = 0.3740 s
+plot time = 0.0000 s
+BR time = 10.1822 s
+Train time = 1.5095 s
+Matrix update time = 0.0106 s
+Points utilities = [[8.61853986 8.32723316 8.70931793 8.74469661 8.92903007 9.35180709]]
+new point utility = 9.35205823883705
+new point = [8.81168907 8.07358129]
+3
+classifier utilities = [9.35180709 9.35180709 9.35180709 9.35180709 9.35180709 9.35180709]
+new classifier utility = [9.38667414e-10]
+classifier added
+____iterstion: 9
+init time = 1.7436 s
+NFG time = 0.3769 s
+plot time = 0.0000 s
+BR time = 11.3826 s
+Train time = 1.7987 s
+Matrix update time = 0.0112 s
+Points utilities = [[6.34771954 7.21683951 8.23240054 8.23240054 7.33508722 8.23240054]]
+new point utility = 8.23237342344816
+new point = [8.13821223 8.83289584]
+3
+classifier utilities = [9.54481224 9.54481224 7.15860918 7.15860918 4.77240612 2.38620306
+ 7.15860918]
+new classifier utility = [6.29386733e-09]
+classifier added
+____iterstion: 10
+init time = 1.7436 s
+NFG time = 0.3798 s
+plot time = 0.0000 s
+BR time = 13.1336 s
+Train time = 2.0926 s
+Matrix update time = 0.0118 s
+Points utilities = [[4.93236491 7.03668861 7.03668861 7.03605671 6.9896232  6.98020048]]
+new point utility = 8.74330754304532
+new point = [8.90310468 7.86625785]
+point added
+3
+____iterstion: 11
+init time = 1.7436 s
+NFG time = 0.3837 s
+plot time = 0.0000 s
+BR time = 15.1503 s
+Train time = 2.0932 s
+Matrix update time = 0.0131 s
+Points utilities = [[7.52634988 7.64583189 7.64583189 7.6455826  6.5089864  6.41100721
+  7.64583189]]
+new point utility = 8.36095460172797
+new point = [7.73396153 8.92179025]
+point added
+3
+classifier utilities = [9.36224316 9.36224316 6.24149547 6.24149548 3.12075523 3.12074772
+ 6.24149544 3.12074771]
+new classifier utility = [3.77794101e-09]
+classifier added
+____iterstion: 12
+init time = 1.7436 s
+NFG time = 0.3873 s
+plot time = 0.0000 s
+BR time = 16.6621 s
+Train time = 2.4048 s
+Matrix update time = 0.0147 s
+Points utilities = [[7.06496448 6.01878911 5.83673273 7.22293283 7.17940506 7.0631906
+  6.60360581 7.22293284]]
+new point utility = 8.096761852576146
+new point = [7.63677295 8.91873364]
+point added
+3
+____iterstion: 13
+init time = 1.7436 s
+NFG time = 0.3906 s
+plot time = 0.0000 s
+BR time = 19.1706 s
+Train time = 2.4054 s
+Matrix update time = 0.0161 s
+Points utilities = [[7.77404135 7.50631787 7.8553239  7.88320583 7.6894725  7.85710148
+  7.76136777 7.81330185 8.09676184]]
+new point utility = 8.091079434246646
+new point = [7.59550344 8.86997328]
+3
+classifier utilities = [8.09676233 8.09676228 8.09676217 8.09676217 8.09676219 8.09676204
+ 8.09676218 8.09676204 8.09676201]
+new classifier utility = [3.13449408e-07]
+classifier added
+____iterstion: 14
+init time = 1.7436 s
+NFG time = 0.3925 s
+plot time = 0.0000 s
+BR time = 20.9945 s
+Train time = 2.6979 s
+Matrix update time = 0.0167 s
+Points utilities = [[5.45576304 7.19601673 5.83752797 7.22293283 7.21795361 7.06397939
+  6.60434328 7.22293283 7.03735215]]
+new point utility = 7.946421825973496
+new point = [8.94928135 7.61203796]
+point added
+3
+____iterstion: 15
+init time = 1.7436 s
+NFG time = 0.3955 s
+plot time = 0.0000 s
+BR time = 23.3995 s
+Train time = 2.6985 s
+Matrix update time = 0.0181 s
+Points utilities = [[6.67047819 7.2886859  6.46453439 7.41871348 6.84207094 6.84590015
+  6.40045393 7.41871348 7.35378661 7.41871348]]
+new point utility = 7.822288299054108
+new point = [8.97185031 7.59096289]
+point added
+3
+classifier utilities = [8.6014071  8.60140708 6.45105529 6.45105536 4.30070368 2.15035196
+ 6.45105531 6.45105517 6.45105524 4.30070352]
+new classifier utility = [1.91261953e-08]
+classifier added
+____iterstion: 16
+init time = 1.7436 s
+NFG time = 0.3993 s
+plot time = 0.0000 s
+BR time = 25.1120 s
+Train time = 3.1465 s
+Matrix update time = 0.0198 s
+Points utilities = [[6.37557374 7.10467763 6.92025463 7.22293283 7.18807377 7.06880897
+  6.60885861 7.22293283 7.12692974 7.03798193 6.92803943]]
+new point utility = 7.58960798051158
+new point = [8.95724637 7.50269731]
+point added
+3
+____iterstion: 17
+init time = 1.7436 s
+NFG time = 0.4026 s
+plot time = 0.0000 s
+BR time = 27.6931 s
+Train time = 3.1471 s
+Matrix update time = 0.0213 s
+Points utilities = [[7.36384021 7.30071837 7.30647296 7.44601286 7.37902695 7.47079993
+  7.26493569 7.46530094 7.44173189 7.28437332 7.46066684 7.58960798]]
+new point utility = 7.601836349772308
+new point = [8.38383838 8.68686869]
+3
+classifier utilities = [7.5896081  7.58960809 7.58960806 7.58960806 7.58960806 7.58960803
+ 7.58960806 7.58960804 7.58960804 7.58960806 7.58960798]
+new classifier utility = [1.13176658e-07]
+classifier added
+____iterstion: 18
+init time = 1.7436 s
+NFG time = 0.4050 s
+plot time = 0.0000 s
+BR time = 29.2486 s
+Train time = 3.4408 s
+Matrix update time = 0.0219 s
+Points utilities = [[6.84033266 7.2613449  6.81994695 7.38324983 7.3637947  7.14736521
+  6.44457667 7.38324985 7.29840367 7.12556463 7.01425398 7.38324985]]
+new point utility = 7.749590443831545
+new point = [7.83017357 8.8445338 ]
+point added
+3
+classifier utilities = [8.29578655 8.29578653 6.63662923 6.63662936 4.97747205 3.31831483
+ 8.29578625 6.6366291  6.63662916 4.97747202 3.31831453 4.97747197]
+new classifier utility = [2.43470118e-08]
+classifier added
+____iterstion: 19
+init time = 1.7436 s
+NFG time = 0.4078 s
+plot time = 0.0000 s
+BR time = 31.6026 s
+Train time = 3.7465 s
+Matrix update time = 0.0237 s
+Points utilities = [[6.16699112 7.21693353 6.85004883 7.34535457 7.30609064 7.12721286
+  7.02652939 7.34535457 7.26751087 7.26311793 7.1496585  7.06829674
+  7.34535457]]
+new point utility = 7.548444691506141
+new point = [7.49987029 8.86592518]
+point added
+3
+____iterstion: 20
+init time = 1.7436 s
+NFG time = 0.4120 s
+plot time = 0.0000 s
+BR time = 33.9258 s
+Train time = 3.7473 s
+Matrix update time = 0.0266 s
+Points utilities = [[6.31038615 7.25708847 6.86171484 7.34535423 7.30196288 7.05850042
+  6.96228781 7.3453542  7.21396497 7.19489881 7.08250505 7.27373922
+  7.3453542  7.28532148]]
+new point utility = 7.521655903663947
+new point = [2.81176894 1.81688194]
+point added
+3
+____iterstion: 21
+init time = 1.7436 s
+NFG time = 0.4146 s
+plot time = 0.0000 s
+BR time = 35.8236 s
+Train time = 3.7479 s
+Matrix update time = 0.0283 s
+Points utilities = [[7.34585258 7.34418816 7.17626064 7.45644829 7.41497594 7.44138213
+  7.27003716 7.48945801 7.42140438 7.36736866 7.35037601 7.35801747
+  7.51972787 7.37442495 7.52165588]]
+new point utility = 7.51969809480377
+new point = [2.81240812 1.81728594]
+3
+classifier utilities = [7.5216583  7.52165815 7.52165715 7.52165733 7.52165636 7.52165532
+ 7.5216574  7.521656   7.52165671 7.52165626 7.52165451 7.52165801
+ 7.52165453]
+new classifier utility = [3.83321432e-06]
+classifier added
+____iterstion: 22
+init time = 1.7436 s
+NFG time = 0.4166 s
+plot time = 0.0000 s
+BR time = 37.5824 s
+Train time = 4.0386 s
+Matrix update time = 0.0290 s
+Points utilities = [[6.22434463 7.27115796 6.9115891  7.34535423 7.30449093 7.07822664
+  6.98073053 7.34535425 7.20494657 7.16962562 7.05762666 7.27435454
+  7.34535424 7.27598699 4.95505827]]
+new point utility = 7.3453737492142155
+new point = [8.55511086 8.51565994]
+3
+Objective = 7.345354289828585
+Number of iterations = 23
+Support of attacker = 3
+Support of classifier = 12
+Size of game = (15, 14)
+init time = 1.7436 s
+NFG time = 0.4203 s
+plot time = 0.0000 s
+BR time = 40.9658 s
+Train time = 4.0396 s
+Matrix update time = 0.0304 s

@@ -1,0 +1,3950 @@
+NEW RUN________________________________________
+BH init time = 0.0012 s
+BH expand time = 0.0000 s
+BH points time = 0.0099 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0431 s
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 1.2895 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+BH init time = 0.0012 s
+BH expand time = 0.0166 s
+BH points time = 0.0109 s
+BH n_points time = 0.0001 s
+BH threads time = 0.0647 s
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+training classifiers...
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 1.2895 s
+NFG time = 0.2443 s
+plot time = 0.0000 s
+BR time = 0.0398 s
+Train time = 0.1828 s
+Matrix update time = 0.0008 s
+BH init time = 0.0012 s
+BH expand time = 0.0250 s
+BH points time = 0.0109 s
+BH n_points time = 0.0001 s
+BH threads time = 0.6765 s
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.4557161018196085
+new point = [4.4557161]
+added new point
+training classifiers...
+ending training classifiers
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 1.2895 s
+NFG time = 0.2460 s
+plot time = 0.0000 s
+BR time = 0.6608 s
+Train time = 0.1847 s
+Matrix update time = 0.0017 s
+BH init time = 0.0012 s
+BH expand time = 0.0250 s
+BH points time = 0.0110 s
+BH n_points time = 0.0001 s
+BH threads time = 0.9965 s
+Points utilities = [[3.98032305 4.4557161 ]]
+new point utility = 4.45496334662246
+new point = [4.45496335]
+training classifiers...
+classifier utilities = [4.45571611 4.4557161 ]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.455716100840056
+Support of attacker = 1
+Support of classifier = 2
+init time = 1.2895 s
+NFG time = 0.2476 s
+plot time = 0.0000 s
+BR time = 0.9814 s
+Train time = 0.4378 s
+Matrix update time = 0.0024 s
+NEW RUN________________________________________
+BH init time = 0.0012 s
+BH expand time = 0.0000 s
+BH points time = 0.0166 s
+BH n_points time = 0.0001 s
+BH threads time = 0.0766 s
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 1.5245 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+BH init time = 0.0012 s
+BH expand time = 0.0175 s
+BH points time = 0.0174 s
+BH n_points time = 0.0001 s
+BH threads time = 0.0985 s
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+training classifiers...
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 1.5245 s
+NFG time = 0.2840 s
+plot time = 0.0000 s
+BR time = 0.0409 s
+Train time = 0.1892 s
+Matrix update time = 0.0007 s
+BH init time = 0.0012 s
+BH expand time = 0.0259 s
+BH points time = 0.0175 s
+BH n_points time = 0.0001 s
+BH threads time = 0.6956 s
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.429763555466622
+new point = [4.42976356]
+added new point = [4.42976356]
+training classifiers...
+ending training classifiers
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 1.5245 s
+NFG time = 0.2858 s
+plot time = 0.0000 s
+BR time = 0.6471 s
+Train time = 0.1913 s
+Matrix update time = 0.0018 s
+BH init time = 0.0012 s
+BH expand time = 0.0259 s
+BH points time = 0.0175 s
+BH n_points time = 0.0002 s
+BH threads time = 1.0796 s
+Points utilities = [[3.95510253 4.42976355]]
+new point utility = 4.429748746215812
+new point = [4.42974875]
+training classifiers...
+classifier utilities = [4.42976356 4.42976356]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.429763554492257
+Support of attacker = 1
+Support of classifier = 2
+init time = 1.5245 s
+NFG time = 0.2876 s
+plot time = 0.0000 s
+BR time = 1.0337 s
+Train time = 0.4122 s
+Matrix update time = 0.0029 s
+BH init time = 0.0012 s
+BH expand time = 0.0362 s
+BH points time = 0.0176 s
+BH n_points time = 0.0002 s
+BH threads time = 1.8806 s
+Points utilities = [[-1.15573588e-09 -1.16871087e-09]]
+new point utility = 2.7079721795044636
+new point = [2.70797218]
+added new point = [2.70797218]
+training classifiers...
+ending training classifiers
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.2025541303869869e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 1.5245 s
+NFG time = 0.2893 s
+plot time = 0.0000 s
+BR time = 1.8458 s
+Train time = 0.4145 s
+Matrix update time = 0.0040 s
+BH init time = 0.0012 s
+BH expand time = 0.0362 s
+BH points time = 0.0177 s
+BH n_points time = 0.0002 s
+BH threads time = 2.5017 s
+Points utilities = [[2.32225905 2.36289888 2.70797218]]
+new point utility = 2.707960848187768
+new point = [2.70796085]
+training classifiers...
+NEW RUN________________________________________
+BH init time = 0.0011 s
+BH expand time = 0.0000 s
+BH points time = 0.0000 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0018 s
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.6455 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+finding BR for attacker....
+BH init time = 0.0011 s
+BH expand time = 0.0119 s
+BH points time = 0.0001 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0265 s
+attacker best response found
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+finding BR for defender....
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.6455 s
+NFG time = 0.0076 s
+plot time = 0.0000 s
+BR time = 0.0372 s
+Train time = 0.2218 s
+Matrix update time = 0.0007 s
+finding BR for attacker....
+BH init time = 0.0011 s
+BH expand time = 0.0199 s
+BH points time = 0.0002 s
+BH n_points time = 0.0001 s
+BH threads time = 0.6262 s
+attacker best response found
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.471898392539148
+new point = [4.47189839]
+added new point = [4.47189839]
+finding BR for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.6455 s
+NFG time = 0.0097 s
+plot time = 0.0000 s
+BR time = 0.6456 s
+Train time = 0.2236 s
+Matrix update time = 0.0016 s
+finding BR for attacker....
+BH init time = 0.0011 s
+BH expand time = 0.0199 s
+BH points time = 0.0003 s
+BH n_points time = 0.0001 s
+BH threads time = 0.9571 s
+attacker best response found
+Points utilities = [[3.99604542 4.47189839]]
+new point utility = 4.472060125972589
+new point = [4.47206013]
+finding BR for defender....
+classifier utilities = [4.4718984  4.47189839]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.471898391556267
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.6455 s
+NFG time = 0.0111 s
+plot time = 0.0000 s
+BR time = 0.9774 s
+Train time = 0.4857 s
+Matrix update time = 0.0024 s
+finding BR for attacker....
+BH init time = 0.0011 s
+BH expand time = 0.0281 s
+BH points time = 0.0003 s
+BH n_points time = 0.0001 s
+BH threads time = 1.7696 s
+attacker best response found
+Points utilities = [[-1.14610837e-09 -1.16637437e-09]]
+new point utility = 2.6849151170535284
+new point = [2.68491512]
+added new point = [2.68491512]
+finding BR for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.1969262679207283e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.6455 s
+NFG time = 0.0128 s
+plot time = 0.0000 s
+BR time = 1.7986 s
+Train time = 0.4876 s
+Matrix update time = 0.0035 s
+finding BR for attacker....
+BH init time = 0.0011 s
+BH expand time = 0.0281 s
+BH points time = 0.0004 s
+BH n_points time = 0.0001 s
+BH threads time = 2.2667 s
+attacker best response found
+Points utilities = [[2.29903895 2.34380165 2.68491512]]
+new point utility = 2.6848389569653177
+new point = [2.68483896]
+finding BR for defender....
+classifier utilities = [2.68491513 2.68491512 2.68491512]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 2.6849151156864393
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.6455 s
+NFG time = 0.0143 s
+plot time = 0.0000 s
+BR time = 2.2963 s
+Train time = 0.8289 s
+Matrix update time = 0.0043 s
+finding BR for attacker....
+BH init time = 0.0011 s
+BH expand time = 0.0357 s
+BH points time = 0.0004 s
+BH n_points time = 0.0001 s
+BH threads time = 3.2102 s
+attacker best response found
+Points utilities = [[-1.71367436e-09 -1.77665218e-09 -1.67790970e-09]]
+new point utility = 2.0548811362789587
+new point = [2.05488114]
+added new point = [2.05488114]
+finding BR for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 6
+Size of game = (4, 4)
+Objective = -1.740672281470117e-09
+Support of attacker = 3
+Support of classifier = 1
+init time = 0.6455 s
+NFG time = 0.0160 s
+plot time = 0.0000 s
+BR time = 3.2480 s
+Train time = 0.8310 s
+Matrix update time = 0.0054 s
+finding BR for attacker....
+BH init time = 0.0011 s
+BH expand time = 0.0357 s
+BH points time = 0.0005 s
+BH n_points time = 0.0001 s
+BH threads time = 3.9620 s
+attacker best response found
+Points utilities = [[1.72706751 1.74053679 1.76737921 2.05488114]]
+new point utility = 2.0547947190141653
+new point = [2.05479472]
+finding BR for defender....
+classifier utilities = [2.05488115 2.05488114 2.05488114 2.05488114]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 7
+Size of game = (4, 5)
+Objective = 2.054881134787231
+Support of attacker = 1
+Support of classifier = 4
+init time = 0.6455 s
+NFG time = 0.0184 s
+plot time = 0.0000 s
+BR time = 4.0004 s
+Train time = 1.4928 s
+Matrix update time = 0.0063 s
+finding BR for attacker....
+BH init time = 0.0011 s
+BH expand time = 0.0448 s
+BH points time = 0.0005 s
+BH n_points time = 0.0001 s
+BH threads time = 5.2992 s
+attacker best response found
+Points utilities = [[-1.92731080e-09 -1.97329526e-09 -1.90538430e-09 -1.87358100e-09]]
+new point utility = 1.856607017001469
+new point = [1.85660702]
+added new point = [1.85660702]
+finding BR for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 8
+Size of game = (5, 5)
+Objective = -1.77556145659184e-09
+Support of attacker = 4
+Support of classifier = 1
+init time = 0.6455 s
+NFG time = 0.0202 s
+plot time = 0.0000 s
+BR time = 5.3472 s
+Train time = 1.4950 s
+Matrix update time = 0.0076 s
+finding BR for attacker....
+BH init time = 0.0011 s
+BH expand time = 0.0448 s
+BH points time = 0.0006 s
+BH n_points time = 0.0002 s
+BH threads time = 6.2883 s
+attacker best response found
+Points utilities = [[1.56168859 1.56575225 1.5412854  1.59825779 1.85660702]]
+new point utility = 1.8564122988026288
+new point = [1.8564123]
+finding BR for defender....
+classifier utilities = [1.85660704 1.85660703 1.85660702 1.85660702 1.85660702]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+Size of game = (5, 6)
+Objective = 1.8566070155916936
+Number of iterations = 9
+Support of attacker = 1
+Support of classifier = 5
+init time = 0.6455 s
+NFG time = 0.0218 s
+plot time = 0.0000 s
+BR time = 6.3371 s
+Train time = 2.0275 s
+Matrix update time = 0.0086 s
+Max iteration reached!
+NEW RUN________________________________________
+BH init time = 0.0012 s
+BH expand time = 0.0000 s
+BH points time = 0.0000 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0017 s
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.6253 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0078 s
+BH points time = 0.0001 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0242 s
+attackers best response found
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+new point is not better than actual points, is not added = [10.]
+finding best response for defender....
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.6253 s
+NFG time = 0.0058 s
+plot time = 0.0000 s
+BR time = 0.0309 s
+Train time = 0.1861 s
+Matrix update time = 0.0010 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0167 s
+BH points time = 0.0002 s
+BH n_points time = 0.0001 s
+BH threads time = 0.6619 s
+attackers best response found
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.328989246165094
+new point = [4.32898925]
+added new point = [4.32898925]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.6253 s
+NFG time = 0.0076 s
+plot time = 0.0000 s
+BR time = 0.6781 s
+Train time = 0.1880 s
+Matrix update time = 0.0020 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0167 s
+BH points time = 0.0002 s
+BH n_points time = 0.0001 s
+BH threads time = 1.0435 s
+attackers best response found
+Points utilities = [[3.85713085 4.32898925]]
+new point utility = 4.328987937675468
+new point = [4.32898794]
+new point is not better than actual points, is not added = [4.32898794]
+finding best response for defender....
+classifier utilities = [4.32898925 4.32898925]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.328989245210471
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.6253 s
+NFG time = 0.0094 s
+plot time = 0.0000 s
+BR time = 1.0604 s
+Train time = 0.4753 s
+Matrix update time = 0.0031 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0257 s
+BH points time = 0.0003 s
+BH n_points time = 0.0001 s
+BH threads time = 1.8111 s
+attackers best response found
+Points utilities = [[-1.17839283e-09 -1.17336728e-09]]
+new point utility = 2.6456369561296222
+new point = [2.64563696]
+added new point = [2.64563696]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.2151203402275265e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.6253 s
+NFG time = 0.0113 s
+plot time = 0.0000 s
+BR time = 1.8375 s
+Train time = 0.4774 s
+Matrix update time = 0.0042 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0257 s
+BH points time = 0.0003 s
+BH n_points time = 0.0001 s
+BH threads time = 2.4279 s
+attackers best response found
+Points utilities = [[2.26267827 2.30120957 2.64563696]]
+new point utility = 2.6456087701964703
+new point = [2.64560877]
+new point is not better than actual points, is not added = [2.64560877]
+finding best response for defender....
+classifier utilities = [2.64563697 2.64563696 2.64563696]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 2.645636954790348
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.6253 s
+NFG time = 0.0128 s
+plot time = 0.0000 s
+BR time = 2.4548 s
+Train time = 0.8750 s
+Matrix update time = 0.0052 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0345 s
+BH points time = 0.0004 s
+BH n_points time = 0.0001 s
+BH threads time = 3.4981 s
+attackers best response found
+Points utilities = [[-1.79921128e-09 -1.83757206e-09 -1.75080546e-09]]
+new point utility = 2.031375082950824
+new point = [2.03137508]
+added new point = [2.03137508]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 6
+Size of game = (4, 4)
+Objective = -1.8050264679765077e-09
+Support of attacker = 3
+Support of classifier = 1
+init time = 0.6253 s
+NFG time = 0.0147 s
+plot time = 0.0000 s
+BR time = 3.5345 s
+Train time = 0.8794 s
+Matrix update time = 0.0070 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0345 s
+BH points time = 0.0005 s
+BH n_points time = 0.0001 s
+BH threads time = 4.2384 s
+attackers best response found
+Points utilities = [[1.70628049 1.71205375 1.74637395 2.03137508]]
+new point utility = 2.0312335198817473
+new point = [2.03123352]
+new point is not better than actual points, is not added = [2.03123352]
+finding best response for defender....
+classifier utilities = [2.0313751  2.03137509 2.03137509 2.03137508]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 7
+Size of game = (4, 5)
+Objective = 2.0313750814645246
+Support of attacker = 1
+Support of classifier = 4
+init time = 0.6253 s
+NFG time = 0.0164 s
+plot time = 0.0000 s
+BR time = 4.2754 s
+Train time = 1.3975 s
+Matrix update time = 0.0081 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0421 s
+BH points time = 0.0005 s
+BH n_points time = 0.0002 s
+BH threads time = 5.2788 s
+attackers best response found
+Points utilities = [[-1.86088070e-09 -1.88563450e-09 -1.85210219e-09 -1.81984433e-09]]
+new point utility = 1.8636718018080036
+new point = [1.8636718]
+added new point = [1.8636718]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 8
+Size of game = (5, 5)
+Objective = -1.712924422536284e-09
+Support of attacker = 4
+Support of classifier = 1
+init time = 0.6253 s
+NFG time = 0.0181 s
+plot time = 0.0000 s
+BR time = 5.3241 s
+Train time = 1.3998 s
+Matrix update time = 0.0093 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0421 s
+BH points time = 0.0006 s
+BH n_points time = 0.0002 s
+BH threads time = 6.0656 s
+attackers best response found
+Points utilities = [[1.56956573 1.56566663 1.54663147 1.5991485  1.8636718 ]]
+new point utility = 1.8649099176072048
+new point = [1.86490992]
+new point is not better than actual points, is not added = [1.86490992]
+finding best response for defender....
+classifier utilities = [1.86367182 1.86367181 1.86367181 1.86367181 1.8636718 ]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+Size of game = (5, 6)
+Objective = 1.8636718004443047
+Number of iterations = 9
+Support of attacker = 1
+Support of classifier = 5
+init time = 0.6253 s
+NFG time = 0.0196 s
+plot time = 0.0000 s
+BR time = 6.1115 s
+Train time = 1.8235 s
+Matrix update time = 0.0109 s
+Max iteration reached!
+NEW RUN________________________________________
+BH init time = 0.0012 s
+BH expand time = 0.0000 s
+BH points time = 0.0106 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0598 s
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 1.4595 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0167 s
+BH points time = 0.0114 s
+BH n_points time = 0.0001 s
+BH threads time = 0.0809 s
+attackers best response found
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+new point is not better than actual points, is not added = [10.]
+finding best response for defender....
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 1.4595 s
+NFG time = 0.2250 s
+plot time = 0.0000 s
+BR time = 0.0392 s
+Train time = 0.1542 s
+Matrix update time = 0.0009 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0241 s
+BH points time = 0.0114 s
+BH n_points time = 0.0001 s
+BH threads time = 0.6546 s
+attackers best response found
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.518141125336516
+new point = [4.51814113]
+added new point = [4.51814113]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 1.4595 s
+NFG time = 0.2267 s
+plot time = 0.0000 s
+BR time = 0.6209 s
+Train time = 0.1560 s
+Matrix update time = 0.0018 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0241 s
+BH points time = 0.0115 s
+BH n_points time = 0.0001 s
+BH threads time = 1.0076 s
+attackers best response found
+Points utilities = [[4.04096634 4.51814112]]
+new point utility = 4.518406158917945
+new point = [4.51840616]
+new point is not better than actual points, is not added = [4.51840616]
+finding best response for defender....
+classifier utilities = [4.51814113 4.51814113]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.518141124344122
+Support of attacker = 1
+Support of classifier = 2
+init time = 1.4595 s
+NFG time = 0.2283 s
+plot time = 0.0000 s
+BR time = 0.9755 s
+Train time = 0.4298 s
+Matrix update time = 0.0028 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0322 s
+BH points time = 0.0115 s
+BH n_points time = 0.0001 s
+BH threads time = 1.7536 s
+attackers best response found
+Points utilities = [[-1.13544710e-09 -1.16355348e-09]]
+new point utility = 2.7449819410502783
+new point = [2.74498194]
+added new point = [2.74498194]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.1905049777307584e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 1.4595 s
+NFG time = 0.2300 s
+plot time = 0.0000 s
+BR time = 1.7301 s
+Train time = 0.4316 s
+Matrix update time = 0.0038 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0322 s
+BH points time = 0.0116 s
+BH n_points time = 0.0001 s
+BH threads time = 2.2417 s
+attackers best response found
+Points utilities = [[2.35721659 2.40088888 2.74498194]]
+new point utility = 2.7449382430004223
+new point = [2.74493824]
+new point is not better than actual points, is not added = [2.74493824]
+finding best response for defender....
+classifier utilities = [2.74498195 2.74498195 2.74498194]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 2.744981939707991
+Support of attacker = 1
+Support of classifier = 3
+init time = 1.4595 s
+NFG time = 0.2315 s
+plot time = 0.0000 s
+BR time = 2.2189 s
+Train time = 0.7422 s
+Matrix update time = 0.0052 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0408 s
+BH points time = 0.0116 s
+BH n_points time = 0.0001 s
+BH threads time = 3.1183 s
+attackers best response found
+Points utilities = [[-1.66926458e-09 -1.72469343e-09 -1.64766892e-09]]
+new point utility = 2.06722005574906
+new point = [2.06722006]
+added new point = [2.06722006]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 6
+Size of game = (4, 4)
+Objective = -1.706347771994036e-09
+Support of attacker = 3
+Support of classifier = 1
+init time = 1.4595 s
+NFG time = 0.2345 s
+plot time = 0.0000 s
+BR time = 3.1047 s
+Train time = 0.7444 s
+Matrix update time = 0.0063 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0408 s
+BH points time = 0.0117 s
+BH n_points time = 0.0002 s
+BH threads time = 3.9641 s
+attackers best response found
+Points utilities = [[1.73893151 1.7520358  1.78475293 2.06722005]]
+new point utility = 2.0671912808907367
+new point = [2.06719128]
+new point is not better than actual points, is not added = [2.06719128]
+finding best response for defender....
+classifier utilities = [2.06722007 2.06722006 2.06722006 2.06722006]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 7
+Size of game = (4, 5)
+Objective = 2.0672200542356993
+Support of attacker = 1
+Support of classifier = 4
+init time = 1.4595 s
+NFG time = 0.2360 s
+plot time = 0.0000 s
+BR time = 3.9513 s
+Train time = 1.1501 s
+Matrix update time = 0.0075 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0495 s
+BH points time = 0.0118 s
+BH n_points time = 0.0002 s
+BH threads time = 5.2521 s
+attackers best response found
+Points utilities = [[-1.94682512e-09 -1.98171661e-09 -1.92969838e-09 -1.87731401e-09]]
+new point utility = 1.8339953376744034
+new point = [1.83399534]
+added new point = [1.83399534]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 8
+Size of game = (5, 5)
+Objective = -1.7969922523137308e-09
+Support of attacker = 4
+Support of classifier = 1
+init time = 1.4595 s
+NFG time = 0.2378 s
+plot time = 0.0000 s
+BR time = 5.2486 s
+Train time = 1.1524 s
+Matrix update time = 0.0087 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0495 s
+BH points time = 0.0119 s
+BH n_points time = 0.0002 s
+BH threads time = 6.2109 s
+attackers best response found
+Points utilities = [[1.54037713 1.54477473 1.53043982 1.58155135 1.83399534]]
+new point utility = 1.8339079148195152
+new point = [1.83390792]
+new point is not better than actual points, is not added = [1.83390792]
+finding best response for defender....
+classifier utilities = [1.83399536 1.83399535 1.83399534 1.83399534 1.83399534]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+Size of game = (5, 6)
+Objective = 1.8339953362501318
+Number of iterations = 9
+Support of attacker = 1
+Support of classifier = 5
+init time = 1.4595 s
+NFG time = 0.2400 s
+plot time = 0.0000 s
+BR time = 6.2080 s
+Train time = 1.6817 s
+Matrix update time = 0.0099 s
+Max iteration reached!
+NEW RUN________________________________________
+BH init time = 0.0012 s
+BH expand time = 0.0000 s
+BH points time = 0.0276 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0846 s
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 1.6764 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0395 s
+BH points time = 0.0282 s
+BH n_points time = 0.0001 s
+BH threads time = 0.1058 s
+attackers best response found
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+new point is not better than actual points, is not added = [10.]
+finding best response for defender....
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 1.6764 s
+NFG time = 0.3713 s
+plot time = 0.0000 s
+BR time = 0.0619 s
+Train time = 0.1804 s
+Matrix update time = 0.0009 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0485 s
+BH points time = 0.0283 s
+BH n_points time = 0.0001 s
+BH threads time = 0.6952 s
+attackers best response found
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.470853458021157
+new point = [4.47085346]
+added new point = [4.47085346]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 1.6764 s
+NFG time = 0.3731 s
+plot time = 0.0000 s
+BR time = 0.6609 s
+Train time = 0.1826 s
+Matrix update time = 0.0025 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0485 s
+BH points time = 0.0283 s
+BH n_points time = 0.0001 s
+BH threads time = 1.0467 s
+attackers best response found
+Points utilities = [[3.99503158 4.47085346]]
+new point utility = 4.4710916396795115
+new point = [4.47109164]
+new point is not better than actual points, is not added = [4.47109164]
+finding best response for defender....
+classifier utilities = [4.47085346 4.47085346]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.470853457038505
+Support of attacker = 1
+Support of classifier = 2
+init time = 1.6764 s
+NFG time = 0.3748 s
+plot time = 0.0000 s
+BR time = 1.0129 s
+Train time = 0.4292 s
+Matrix update time = 0.0035 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0568 s
+BH points time = 0.0284 s
+BH n_points time = 0.0001 s
+BH threads time = 1.9179 s
+attackers best response found
+Points utilities = [[-1.14634831e-09 -1.16643517e-09]]
+new point utility = 2.689027889619319
+new point = [2.68902789]
+added new point = [2.68902789]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.1970685979595787e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 1.6764 s
+NFG time = 0.3766 s
+plot time = 0.0000 s
+BR time = 1.8931 s
+Train time = 0.4311 s
+Matrix update time = 0.0045 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0569 s
+BH points time = 0.0285 s
+BH n_points time = 0.0001 s
+BH threads time = 2.3308 s
+attackers best response found
+Points utilities = [[2.30308591 2.34751381 2.68902789]]
+new point utility = 2.688806771029287
+new point = [2.68880677]
+new point is not better than actual points, is not added = [2.68880677]
+finding best response for defender....
+classifier utilities = [2.6890279  2.68902789 2.68902789]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 2.689027888255335
+Support of attacker = 1
+Support of classifier = 3
+init time = 1.6764 s
+NFG time = 0.3796 s
+plot time = 0.0000 s
+BR time = 2.3072 s
+Train time = 0.7299 s
+Matrix update time = 0.0056 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0644 s
+BH points time = 0.0285 s
+BH n_points time = 0.0002 s
+BH threads time = 3.5367 s
+attackers best response found
+Points utilities = [[-1.71188221e-09 -1.77313239e-09 -1.67701427e-09]]
+new point utility = 2.047925493122667
+new point = [2.04792549]
+added new point = [2.04792549]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 6
+Size of game = (4, 4)
+Objective = -1.7391734785280878e-09
+Support of attacker = 3
+Support of classifier = 1
+init time = 1.6764 s
+NFG time = 0.3813 s
+plot time = 0.0000 s
+BR time = 3.5213 s
+Train time = 0.7319 s
+Matrix update time = 0.0067 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0644 s
+BH points time = 0.0286 s
+BH n_points time = 0.0002 s
+BH threads time = 4.2783 s
+attackers best response found
+Points utilities = [[1.72044162 1.73372047 1.76222334 2.04792549]]
+new point utility = 2.0479120083341393
+new point = [2.04791201]
+new point is not better than actual points, is not added = [2.04791201]
+finding best response for defender....
+classifier utilities = [2.04792551 2.0479255  2.0479255  2.04792549]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 7
+Size of game = (4, 5)
+Objective = 2.047925491625483
+Support of attacker = 1
+Support of classifier = 4
+init time = 1.6764 s
+NFG time = 0.3828 s
+plot time = 0.0000 s
+BR time = 4.2635 s
+Train time = 1.1359 s
+Matrix update time = 0.0078 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0716 s
+BH points time = 0.0286 s
+BH n_points time = 0.0002 s
+BH threads time = 5.5162 s
+attackers best response found
+Points utilities = [[-1.93139383e-09 -1.97466995e-09 -1.90951103e-09 -1.87071652e-09]]
+new point utility = 1.8147952177934799
+new point = [1.81479522]
+added new point = [1.81479522]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 8
+Size of game = (5, 5)
+Objective = -1.7780359533301338e-09
+Support of attacker = 4
+Support of classifier = 1
+init time = 1.6764 s
+NFG time = 0.3851 s
+plot time = 0.0000 s
+BR time = 5.5092 s
+Train time = 1.1380 s
+Matrix update time = 0.0091 s
+finding best response for attacker....
+BH init time = 0.0012 s
+BH expand time = 0.0716 s
+BH points time = 0.0287 s
+BH n_points time = 0.0002 s
+BH threads time = 6.1988 s
+attackers best response found
+Points utilities = [[1.52213973 1.52634436 1.50626099 1.56566051 1.81479522]]
+new point utility = 1.8147460012114371
+new point = [1.814746]
+new point is not better than actual points, is not added = [1.814746]
+finding best response for defender....
+classifier utilities = [1.81479524 1.81479523 1.81479522 1.81479522 1.81479522]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+Size of game = (5, 6)
+Objective = 1.8147952163703946
+Number of iterations = 9
+Support of attacker = 1
+Support of classifier = 5
+init time = 1.6764 s
+NFG time = 0.3868 s
+plot time = 0.0000 s
+BR time = 6.1925 s
+Train time = 1.6859 s
+Matrix update time = 0.0103 s
+Max iteration reached!
+NEW RUN________________________________________
+BH init time = 0.0035 s
+BH expand time = 0.0000 s
+BH points time = 0.0009 s
+BH n_points time = 0.0001 s
+BH threads time = 0.0263 s
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.9428 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0071 s
+BH points time = 0.0009 s
+BH n_points time = 0.0001 s
+BH threads time = 0.0465 s
+attackers best response found
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+new point is not better than actual points, is not added = [10.]
+finding best response for defender....
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.1774 s
+plot time = 0.0000 s
+BR time = 0.0279 s
+Train time = 0.1853 s
+Matrix update time = 0.0008 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0147 s
+BH points time = 0.0010 s
+BH n_points time = 0.0001 s
+BH threads time = 0.7066 s
+attackers best response found
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.481141283041326
+new point = [4.48114128]
+added new point = [4.48114128]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.1790 s
+plot time = 0.0000 s
+BR time = 0.6962 s
+Train time = 0.1875 s
+Matrix update time = 0.0018 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0147 s
+BH points time = 0.0011 s
+BH n_points time = 0.0001 s
+BH threads time = 1.0400 s
+attackers best response found
+Points utilities = [[4.0050262  4.48114128]]
+new point utility = 4.4811227586451805
+new point = [4.48112276]
+new point is not better than actual points, is not added = [4.48112276]
+finding best response for defender....
+classifier utilities = [4.48114129 4.48114128]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.48114128205656
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.9428 s
+NFG time = 0.1824 s
+plot time = 0.0000 s
+BR time = 1.0306 s
+Train time = 0.4640 s
+Matrix update time = 0.0030 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0229 s
+BH points time = 0.0011 s
+BH n_points time = 0.0002 s
+BH threads time = 1.8387 s
+attackers best response found
+Points utilities = [[-1.14398542e-09 -1.16583197e-09]]
+new point utility = 2.714825180239475
+new point = [2.71482518]
+added new point = [2.71482518]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.1956633406253514e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.1841 s
+plot time = 0.0000 s
+BR time = 1.8380 s
+Train time = 0.4667 s
+Matrix update time = 0.0050 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0229 s
+BH points time = 0.0012 s
+BH n_points time = 0.0002 s
+BH threads time = 2.2852 s
+attackers best response found
+Points utilities = [[2.32821643 2.3715827  2.71482518]]
+new point utility = 2.7147701930197936
+new point = [2.71477019]
+new point is not better than actual points, is not added = [2.71477019]
+finding best response for defender....
+classifier utilities = [2.71482519 2.71482518 2.71482518]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 2.7148251788897624
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.9428 s
+NFG time = 0.1857 s
+plot time = 0.0000 s
+BR time = 2.2851 s
+Train time = 0.8392 s
+Matrix update time = 0.0060 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0305 s
+BH points time = 0.0012 s
+BH n_points time = 0.0002 s
+BH threads time = 3.2713 s
+attackers best response found
+Points utilities = [[-1.69191589e-09 -1.74646741e-09 -1.66286261e-09]]
+new point utility = 2.0728521988410162
+new point = [2.0728522]
+added new point = [2.0728522]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 6
+Size of game = (4, 4)
+Objective = -1.7229158398434074e-09
+Support of attacker = 3
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.1881 s
+plot time = 0.0000 s
+BR time = 3.2794 s
+Train time = 0.8421 s
+Matrix update time = 0.0081 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0305 s
+BH points time = 0.0013 s
+BH n_points time = 0.0002 s
+BH threads time = 4.0009 s
+attackers best response found
+Points utilities = [[1.74463054 1.75671508 1.78634928 2.0728522 ]]
+new point utility = 2.07269455873473
+new point = [2.07269456]
+new point is not better than actual points, is not added = [2.07269456]
+finding best response for defender....
+classifier utilities = [2.07285222 2.07285221 2.0728522  2.0728522 ]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 7
+Size of game = (4, 5)
+Objective = 2.0728521973453167
+Support of attacker = 1
+Support of classifier = 4
+init time = 0.9428 s
+NFG time = 0.1900 s
+plot time = 0.0000 s
+BR time = 4.0096 s
+Train time = 1.3988 s
+Matrix update time = 0.0095 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0379 s
+BH points time = 0.0013 s
+BH n_points time = 0.0002 s
+BH threads time = 5.8303 s
+attackers best response found
+Points utilities = [[-1.92820441e-09 -1.96619327e-09 -1.91138519e-09 -1.87676513e-09]]
+new point utility = 1.8485693026042123
+new point = [1.8485693]
+added new point = [1.8485693]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 8
+Size of game = (5, 5)
+Objective = -1.7799366713524953e-09
+Support of attacker = 4
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.1918 s
+plot time = 0.0000 s
+BR time = 5.8476 s
+Train time = 1.4024 s
+Matrix update time = 0.0122 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0379 s
+BH points time = 0.0014 s
+BH n_points time = 0.0002 s
+BH threads time = 6.9633 s
+attackers best response found
+Points utilities = [[1.55466079 1.55768954 1.53804168 1.59589492 1.8485693 ]]
+new point utility = 1.8485931608080817
+new point = [1.84859316]
+new point is not better than actual points, is not added = [1.84859316]
+finding best response for defender....
+classifier utilities = [1.84856932 1.84856931 1.84856931 1.84856931 1.8485693 ]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 9
+Size of game = (5, 6)
+Objective = 1.8485693011803197
+Support of attacker = 1
+Support of classifier = 5
+init time = 0.9428 s
+NFG time = 0.1937 s
+plot time = 0.0000 s
+BR time = 6.9812 s
+Train time = 1.8544 s
+Matrix update time = 0.0136 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0450 s
+BH points time = 0.0015 s
+BH n_points time = 0.0003 s
+BH threads time = 8.1750 s
+attackers best response found
+Points utilities = [[-1.83554326e-09 -1.74791449e-09 -1.70453355e-09 -1.72937021e-09
+  -1.71983285e-09]]
+new point utility = 1.8270354817710228
+new point = [1.82703548]
+added new point = [1.82703548]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 10
+Size of game = (6, 6)
+Objective = -1.3064851939276523e-09
+Support of attacker = 5
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.1954 s
+plot time = 0.0000 s
+BR time = 8.2006 s
+Train time = 1.8565 s
+Matrix update time = 0.0149 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0450 s
+BH points time = 0.0015 s
+BH n_points time = 0.0003 s
+BH threads time = 9.2157 s
+attackers best response found
+Points utilities = [[1.55041212 1.54912244 1.50331885 1.49477932 1.58958264 1.82703548]]
+new point utility = 1.8269541478519193
+new point = [1.82695415]
+new point is not better than actual points, is not added = [1.82695415]
+finding best response for defender....
+classifier utilities = [1.8270355  1.82703549 1.82703549 1.82703549 1.82703549 1.82703548]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 11
+Size of game = (6, 7)
+Objective = 1.8270354803903845
+Support of attacker = 1
+Support of classifier = 6
+init time = 0.9428 s
+NFG time = 0.1974 s
+plot time = 0.0000 s
+BR time = 9.2419 s
+Train time = 2.4236 s
+Matrix update time = 0.0162 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0521 s
+BH points time = 0.0016 s
+BH n_points time = 0.0003 s
+BH threads time = 10.6669 s
+attackers best response found
+Points utilities = [[-4.71875893e-09 -3.17895553e-09 -2.90026866e-09 -2.95268389e-09
+  -3.21100279e-09 -3.45070115e-09]]
+new point utility = 1.8187565906738035
+new point = [1.81875659]
+added new point = [1.81875659]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 12
+Size of game = (7, 7)
+Objective = -2.2493966461385107e-09
+Support of attacker = 6
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.1994 s
+plot time = 0.0000 s
+BR time = 10.7009 s
+Train time = 2.4257 s
+Matrix update time = 0.0175 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0521 s
+BH points time = 0.0016 s
+BH n_points time = 0.0003 s
+BH threads time = 11.4906 s
+attackers best response found
+Points utilities = [[1.55449076 1.55036446 1.48237699 1.43386079 1.48128321 1.63372564
+  1.81875659]]
+new point utility = 1.8185649313436145
+new point = [1.81856493]
+new point is not better than actual points, is not added = [1.81856493]
+finding best response for defender....
+classifier utilities = [1.81875661 1.8187566  1.8187566  1.8187566  1.8187566  1.8187566
+ 1.81875659]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 13
+Size of game = (7, 8)
+Objective = 1.8187565891601745
+Support of attacker = 1
+Support of classifier = 7
+init time = 0.9428 s
+NFG time = 0.2009 s
+plot time = 0.0000 s
+BR time = 11.5253 s
+Train time = 3.1364 s
+Matrix update time = 0.0189 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0593 s
+BH points time = 0.0017 s
+BH n_points time = 0.0003 s
+BH threads time = 13.5959 s
+attackers best response found
+Points utilities = [[-6.49529299e-09 -4.28692131e-09 -4.05510293e-09 -4.29888886e-09
+  -4.93051487e-09 -5.91448901e-09 -6.37640882e-09]]
+new point utility = 1.8027391556138304
+new point = [1.80273916]
+added new point = [1.80273916]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 14
+Size of game = (8, 8)
+Objective = -3.415689615225068e-09
+Support of attacker = 7
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.2032 s
+plot time = 0.0000 s
+BR time = 13.6383 s
+Train time = 3.1385 s
+Matrix update time = 0.0203 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0594 s
+BH points time = 0.0017 s
+BH n_points time = 0.0003 s
+BH threads time = 14.5279 s
+attackers best response found
+Points utilities = [[1.54890552 1.54250444 1.45406125 1.3827576  1.40753814 1.52991441
+  1.65251582 1.80273915]]
+new point utility = 1.802521924432796
+new point = [1.80252193]
+new point is not better than actual points, is not added = [1.80252193]
+finding best response for defender....
+classifier utilities = [1.80273918 1.80273917 1.80273917 1.80273917 1.80273916 1.80273916
+ 1.80273916 1.80273916]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 15
+Size of game = (8, 9)
+Objective = 1.8027391540516218
+Support of attacker = 1
+Support of classifier = 8
+init time = 0.9428 s
+NFG time = 0.2047 s
+plot time = 0.0000 s
+BR time = 14.5710 s
+Train time = 3.6394 s
+Matrix update time = 0.0223 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0667 s
+BH points time = 0.0018 s
+BH n_points time = 0.0004 s
+BH threads time = 16.7243 s
+attackers best response found
+Points utilities = [[-7.79355518e-09 -5.04821751e-09 -4.86898940e-09 -5.25645971e-09
+  -6.13389297e-09 -7.55277314e-09 -8.96856171e-09 -9.26503591e-09]]
+new point utility = 1.7992249160578628
+new point = [1.79922492]
+added new point = [1.79922492]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 16
+Size of game = (9, 9)
+Objective = -4.281767255659365e-09
+Support of attacker = 8
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.2064 s
+plot time = 0.0000 s
+BR time = 16.7761 s
+Train time = 3.6417 s
+Matrix update time = 0.0242 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0667 s
+BH points time = 0.0019 s
+BH n_points time = 0.0004 s
+BH threads time = 18.0184 s
+attackers best response found
+Points utilities = [[1.55273753 1.54436764 1.43474645 1.35004499 1.36210633 1.46873648
+  1.56941152 1.66248146 1.79922492]]
+new point utility = 1.798308150939428
+new point = [1.79830815]
+new point is not better than actual points, is not added = [1.79830815]
+finding best response for defender....
+classifier utilities = [1.79922494 1.79922493 1.79922493 1.79922493 1.79922493 1.79922493
+ 1.79922493 1.79922492 1.79922492]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 17
+Size of game = (9, 10)
+Objective = 1.7992249146473547
+Support of attacker = 1
+Support of classifier = 9
+init time = 0.9428 s
+NFG time = 0.2080 s
+plot time = 0.0000 s
+BR time = 18.0708 s
+Train time = 4.3383 s
+Matrix update time = 0.0258 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0754 s
+BH points time = 0.0019 s
+BH n_points time = 0.0004 s
+BH threads time = 20.4645 s
+attackers best response found
+Points utilities = [[-8.51400630e-11 -5.39265245e-11 -5.21621858e-11 -5.65427577e-11
+  -6.62449203e-11 -8.21422639e-11 -9.97355525e-11 -1.15381221e-10
+  -1.15256378e-10]]
+new point utility = 1.7980948223479125
+new point = [1.79809482]
+added new point = [1.79809482]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 18
+Size of game = (10, 10)
+Objective = -4.7315463332418985e-11
+Support of attacker = 9
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.2098 s
+plot time = 0.0000 s
+BR time = 20.5262 s
+Train time = 4.3406 s
+Matrix update time = 0.0273 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0755 s
+BH points time = 0.0020 s
+BH n_points time = 0.0004 s
+BH threads time = 21.6288 s
+attackers best response found
+Points utilities = [[1.55715794 1.54706241 1.4168899  1.32328283 1.32743741 1.42416123
+  1.51268953 1.58688414 1.67457279 1.79809482]]
+new point utility = 1.7979426130706375
+new point = [1.79794261]
+new point is not better than actual points, is not added = [1.79794261]
+finding best response for defender....
+classifier utilities = [1.79809485 1.79809484 1.79809484 1.79809484 1.79809484 1.79809484
+ 1.79809483 1.79809483 1.79809483 1.79809483]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 19
+Size of game = (10, 11)
+Objective = 1.7980948207419187
+Support of attacker = 1
+Support of classifier = 10
+init time = 0.9428 s
+NFG time = 0.2114 s
+plot time = 0.0000 s
+BR time = 21.6917 s
+Train time = 4.8853 s
+Matrix update time = 0.0293 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0826 s
+BH points time = 0.0020 s
+BH n_points time = 0.0004 s
+BH threads time = 24.3010 s
+attackers best response found
+Points utilities = [[-8.96129092e-11 -5.54205127e-11 -5.33774912e-11 -5.77227587e-11
+  -6.74879154e-11 -8.37453578e-11 -1.02510499e-10 -1.22002743e-10
+  -1.39108798e-10 -1.33964092e-10]]
+new point utility = 1.7907611119924907
+new point = [1.79076111]
+added new point = [1.79076111]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 20
+Size of game = (11, 11)
+Objective = -4.967166732043384e-11
+Support of attacker = 10
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.2133 s
+plot time = 0.0000 s
+BR time = 24.3718 s
+Train time = 4.8876 s
+Matrix update time = 0.0309 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0827 s
+BH points time = 0.0021 s
+BH n_points time = 0.0005 s
+BH threads time = 25.6945 s
+attackers best response found
+Points utilities = [[1.55534348 1.5440505  1.39861476 1.2970768  1.2957941  1.38534687
+  1.46572501 1.52948122 1.60054625 1.68000818 1.79076111]]
+new point utility = 1.7905617871216755
+new point = [1.79056179]
+new point is not better than actual points, is not added = [1.79056179]
+finding best response for defender....
+classifier utilities = [1.79076116 1.79076114 1.79076114 1.79076113 1.79076113 1.79076113
+ 1.79076113 1.79076113 1.79076113 1.79076113 1.79076112]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 21
+Size of game = (11, 12)
+Objective = 1.7907611097884992
+Support of attacker = 1
+Support of classifier = 11
+init time = 0.9428 s
+NFG time = 0.2150 s
+plot time = 0.0000 s
+BR time = 25.7669 s
+Train time = 5.6836 s
+Matrix update time = 0.0332 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0902 s
+BH points time = 0.0022 s
+BH n_points time = 0.0005 s
+BH threads time = 28.6621 s
+attackers best response found
+Points utilities = [[-9.70833198e-11 -5.91503566e-11 -5.64557891e-11 -6.05971534e-11
+  -7.02962676e-11 -8.67078974e-11 -1.06146561e-10 -1.27536291e-10
+  -1.50202634e-10 -1.67321504e-10 -1.54098834e-10]]
+new point utility = 1.7836241273344797
+new point = [1.78362413]
+added new point = [1.78362413]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 22
+Size of game = (12, 12)
+Objective = -5.242005144927791e-11
+Support of attacker = 11
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.2172 s
+plot time = 0.0000 s
+BR time = 28.7426 s
+Train time = 5.6862 s
+Matrix update time = 0.0349 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0902 s
+BH points time = 0.0022 s
+BH n_points time = 0.0005 s
+BH threads time = 31.6652 s
+attackers best response found
+Points utilities = [[1.28980912 1.48893267 1.38714746 1.29541866 1.29840285 1.39013743
+  1.47079944 1.5326324  1.61740666 1.65719604 1.70078224 1.78362413]]
+new point utility = 1.7834801418380217
+new point = [1.78348014]
+new point is not better than actual points, is not added = [1.78348014]
+finding best response for defender....
+classifier utilities = [1.78362422 1.78362422 1.78362421 1.7836242  1.7836242  1.7836242
+ 1.7836242  1.78362419 1.78362419 1.78362419 1.78362418 1.78362418]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 23
+Size of game = (12, 13)
+Objective = 1.7836241242023032
+Support of attacker = 1
+Support of classifier = 12
+init time = 0.9428 s
+NFG time = 0.2191 s
+plot time = 0.0000 s
+BR time = 31.7463 s
+Train time = 6.2303 s
+Matrix update time = 0.0370 s
+finding best response for attacker....
+BH init time = 0.0035 s
+BH expand time = 0.0985 s
+BH points time = 0.0023 s
+BH n_points time = 0.0005 s
+BH threads time = 34.5072 s
+attackers best response found
+Points utilities = [[-1.03263475e-10 -6.21776763e-11 -5.88104273e-11 -6.26138325e-11
+  -7.19651270e-11 -8.79995287e-11 -1.07351505e-10 -1.29562729e-10
+  -1.54914315e-10 -1.79684738e-10 -1.94648083e-10 -1.72591233e-10]]
+new point utility = 1.7798402079679854
+new point = [1.77984021]
+added new point = [1.77984021]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 24
+Size of game = (13, 13)
+Objective = -5.4444928214001405e-11
+Support of attacker = 12
+Support of classifier = 1
+init time = 0.9428 s
+NFG time = 0.2213 s
+plot time = 0.0000 s
+BR time = 34.5972 s
+Train time = 6.2332 s
+Matrix update time = 0.0394 s
+finding best response for attacker....
+NEW RUN________________________________________
+BH init time = 0.0018 s
+BH expand time = 0.0000 s
+BH points time = 0.0001 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0018 s
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.5647 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+finding best response for attacker....
+BH init time = 0.0018 s
+BH expand time = 0.0074 s
+BH points time = 0.0001 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0220 s
+attackers best response found
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+new point is not better than actual points, is not added = [10.]
+finding best response for defender....
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.5647 s
+NFG time = 0.0060 s
+plot time = 0.0000 s
+BR time = 0.0281 s
+Train time = 0.1831 s
+Matrix update time = 0.0010 s
+finding best response for attacker....
+BH init time = 0.0018 s
+BH expand time = 0.0146 s
+BH points time = 0.0002 s
+BH n_points time = 0.0001 s
+BH threads time = 0.6319 s
+attackers best response found
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.5055433882394516
+new point = [4.50554339]
+added new point = [4.50554339]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.5647 s
+NFG time = 0.0078 s
+plot time = 0.0000 s
+BR time = 0.6458 s
+Train time = 0.1850 s
+Matrix update time = 0.0019 s
+finding best response for attacker....
+BH init time = 0.0018 s
+BH expand time = 0.0146 s
+BH points time = 0.0003 s
+BH n_points time = 0.0001 s
+BH threads time = 0.9657 s
+attackers best response found
+Points utilities = [[4.02873099 4.50554339]]
+new point utility = 4.505535638943936
+new point = [4.50553564]
+new point is not better than actual points, is not added = [4.50553564]
+finding best response for defender....
+classifier utilities = [4.50554339 4.50554339]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.5055433872496335
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.5647 s
+NFG time = 0.0092 s
+plot time = 0.0000 s
+BR time = 0.9801 s
+Train time = 0.4355 s
+Matrix update time = 0.0031 s
+finding best response for attacker....
+BH init time = 0.0018 s
+BH expand time = 0.0217 s
+BH points time = 0.0003 s
+BH n_points time = 0.0001 s
+BH threads time = 1.6844 s
+attackers best response found
+Points utilities = [[-1.13836086e-09 -1.16434821e-09]]
+new point utility = 2.710344356958404
+new point = [2.71034436]
+added new point = [2.71034436]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.1922791816223727e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.5647 s
+NFG time = 0.0112 s
+plot time = 0.0000 s
+BR time = 1.7068 s
+Train time = 0.4376 s
+Matrix update time = 0.0041 s
+finding best response for attacker....
+BH init time = 0.0018 s
+BH expand time = 0.0217 s
+BH points time = 0.0004 s
+BH n_points time = 0.0001 s
+BH threads time = 2.1603 s
+attackers best response found
+Points utilities = [[2.32344664 2.3685988  2.71034436]]
+new point utility = 2.710937009343203
+new point = [2.71093701]
+new point is not better than actual points, is not added = [2.71093701]
+finding best response for defender....
+classifier utilities = [2.71034437 2.71034436 2.71034436]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 2.710344355596269
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.5647 s
+NFG time = 0.0127 s
+plot time = 0.0000 s
+BR time = 2.1834 s
+Train time = 0.7591 s
+Matrix update time = 0.0051 s
+finding best response for attacker....
+BH init time = 0.0018 s
+BH expand time = 0.0294 s
+BH points time = 0.0004 s
+BH n_points time = 0.0001 s
+BH threads time = 3.0138 s
+attackers best response found
+Points utilities = [[-1.68179941e-09 -1.74343732e-09 -1.65207339e-09]]
+new point utility = 2.070116677000721
+new point = [2.07011668]
+added new point = [2.07011668]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 6
+Size of game = (4, 4)
+Objective = -1.7150830217998288e-09
+Support of attacker = 3
+Support of classifier = 1
+init time = 0.5647 s
+NFG time = 0.0144 s
+plot time = 0.0000 s
+BR time = 3.0451 s
+Train time = 0.7610 s
+Matrix update time = 0.0062 s
+finding best response for attacker....
+NEW RUN________________________________________
+BH init time = 0.0010 s
+BH expand time = 0.0000 s
+BH points time = 0.0000 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0015 s
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.6150 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0072 s
+BH points time = 0.0001 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0216 s
+attackers best response found
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+new point is not better than actual points, is not added = [10.]
+finding best response for defender....
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.6150 s
+NFG time = 0.0066 s
+plot time = 0.0000 s
+BR time = 0.0279 s
+Train time = 0.2228 s
+Matrix update time = 0.0008 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0145 s
+BH points time = 0.0002 s
+BH n_points time = 0.0000 s
+BH threads time = 0.6124 s
+attackers best response found
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.390313962972291
+new point = [4.39031396]
+added new point = [4.39031396]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.6150 s
+NFG time = 0.0083 s
+plot time = 0.0000 s
+BR time = 0.6266 s
+Train time = 0.2247 s
+Matrix update time = 0.0019 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0145 s
+BH points time = 0.0002 s
+BH n_points time = 0.0001 s
+BH threads time = 0.9460 s
+attackers best response found
+Points utilities = [[3.91675809 4.39031396]]
+new point utility = 4.389432189632701
+new point = [4.38943219]
+new point is not better than actual points, is not added = [4.38943219]
+finding best response for defender....
+classifier utilities = [4.39031397 4.39031396]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.390313962005751
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.6150 s
+NFG time = 0.0111 s
+plot time = 0.0000 s
+BR time = 0.9608 s
+Train time = 0.4640 s
+Matrix update time = 0.0029 s
+finding best response for attacker....
+NEW RUN________________________________________
+BH init time = 0.0010 s
+BH expand time = 0.0000 s
+BH points time = 0.0000 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0015 s
+---------------------------- iteration: 0
+Size of game = (1, 1)
+Objective = 0
+Support of attacker = 0
+Support of classifier = 0
+init time = 0.5579 s
+NFG time = 0
+plot time = 0
+BR time = 0
+Train time = 0
+Matrix update time = 0
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0076 s
+BH points time = 0.0001 s
+BH n_points time = 0.0000 s
+BH threads time = 0.0076 s
+attackers best response found
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [10.]
+new point is not better than actual points, is not added = [10.]
+finding best response for defender....
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 1
+Size of game = (1, 2)
+Objective = 9.999999998229708
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0059 s
+plot time = 0.0000 s
+BR time = 0.0142 s
+Train time = 0.1676 s
+Matrix update time = 0.0009 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0171 s
+BH points time = 0.0002 s
+BH n_points time = 0.0001 s
+BH threads time = 0.1544 s
+attackers best response found
+Points utilities = [[-2.63694171e-10]]
+new point utility = 4.504237629276433
+new point = [4.50423763]
+added new point = [4.50423763]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 2
+Size of game = (2, 2)
+Objective = -2.338272939174942e-10
+Support of attacker = 1
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0090 s
+plot time = 0.0000 s
+BR time = 0.1715 s
+Train time = 0.1694 s
+Matrix update time = 0.0022 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0171 s
+BH points time = 0.0002 s
+BH n_points time = 0.0001 s
+BH threads time = 0.2469 s
+attackers best response found
+Points utilities = [[4.0274604  4.50423763]]
+new point utility = 4.50423036840538
+new point = [4.50423037]
+new point is not better than actual points, is not added = [4.50423037]
+finding best response for defender....
+classifier utilities = [4.50423764 4.50423763]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 3
+Size of game = (2, 3)
+Objective = 4.504237628286869
+Support of attacker = 1
+Support of classifier = 2
+init time = 0.5579 s
+NFG time = 0.0106 s
+plot time = 0.0000 s
+BR time = 0.2646 s
+Train time = 0.4911 s
+Matrix update time = 0.0034 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0247 s
+BH points time = 0.0003 s
+BH n_points time = 0.0001 s
+BH threads time = 0.4982 s
+attackers best response found
+Points utilities = [[-1.13866284e-09 -1.16442969e-09]]
+new point utility = 2.6993354397648357
+new point = [2.69933544]
+added new point = [2.69933544]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 4
+Size of game = (3, 3)
+Objective = -1.192462398692158e-09
+Support of attacker = 2
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0124 s
+plot time = 0.0000 s
+BR time = 0.5243 s
+Train time = 0.4938 s
+Matrix update time = 0.0057 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0247 s
+BH points time = 0.0003 s
+BH n_points time = 0.0001 s
+BH threads time = 0.6259 s
+attackers best response found
+Points utilities = [[2.31267046 2.35845196 2.69933544]]
+new point utility = 2.6992981252427604
+new point = [2.69929813]
+new point is not better than actual points, is not added = [2.69929813]
+finding best response for defender....
+classifier utilities = [2.69933545 2.69933544 2.69933544]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 5
+Size of game = (3, 4)
+Objective = 2.6993354383952957
+Support of attacker = 1
+Support of classifier = 3
+init time = 0.5579 s
+NFG time = 0.0140 s
+plot time = 0.0000 s
+BR time = 0.6527 s
+Train time = 0.8021 s
+Matrix update time = 0.0067 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0327 s
+BH points time = 0.0004 s
+BH n_points time = 0.0001 s
+BH threads time = 0.8837 s
+attackers best response found
+Points utilities = [[-1.68872976e-09 -1.75396736e-09 -1.65660431e-09]]
+new point utility = 2.054944440617299
+new point = [2.05494444]
+added new point = [2.05494444]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 6
+Size of game = (4, 4)
+Objective = -1.7208033455048517e-09
+Support of attacker = 3
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0158 s
+plot time = 0.0000 s
+BR time = 0.9197 s
+Train time = 0.8041 s
+Matrix update time = 0.0080 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0327 s
+BH points time = 0.0005 s
+BH n_points time = 0.0001 s
+BH threads time = 1.1284 s
+attackers best response found
+Points utilities = [[1.72676268 1.741703   1.76856519 2.05494444]]
+new point utility = 2.054966326412297
+new point = [2.05496633]
+new point is not better than actual points, is not added = [2.05496633]
+finding best response for defender....
+classifier utilities = [2.05494446 2.05494445 2.05494444 2.05494444]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 7
+Size of game = (4, 5)
+Objective = 2.054944439119453
+Support of attacker = 1
+Support of classifier = 4
+init time = 0.5579 s
+NFG time = 0.0176 s
+plot time = 0.0000 s
+BR time = 1.1651 s
+Train time = 1.4647 s
+Matrix update time = 0.0091 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0402 s
+BH points time = 0.0005 s
+BH n_points time = 0.0002 s
+BH threads time = 1.5103 s
+attackers best response found
+Points utilities = [[-1.93976019e-09 -1.98829197e-09 -1.91611190e-09 -1.87825085e-09]]
+new point utility = 1.8000130240830232
+new point = [1.80001302]
+added new point = [1.80001302]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 8
+Size of game = (5, 5)
+Objective = -1.7875514788058842e-09
+Support of attacker = 4
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0194 s
+plot time = 0.0000 s
+BR time = 1.5551 s
+Train time = 1.4669 s
+Matrix update time = 0.0104 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0402 s
+BH points time = 0.0006 s
+BH n_points time = 0.0002 s
+BH threads time = 1.7807 s
+attackers best response found
+Points utilities = [[1.50783085 1.5138427  1.49331026 1.55573223 1.80001302]]
+new point utility = 1.7999352632748031
+new point = [1.79993526]
+new point is not better than actual points, is not added = [1.79993526]
+finding best response for defender....
+classifier utilities = [1.80001304 1.80001303 1.80001303 1.80001303 1.80001303]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 9
+Size of game = (5, 6)
+Objective = 1.8000130226436872
+Support of attacker = 1
+Support of classifier = 5
+init time = 0.5579 s
+NFG time = 0.0211 s
+plot time = 0.0000 s
+BR time = 1.8261 s
+Train time = 1.9537 s
+Matrix update time = 0.0115 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0480 s
+BH points time = 0.0006 s
+BH n_points time = 0.0002 s
+BH threads time = 2.2429 s
+attackers best response found
+Points utilities = [[-2.33252126e-09 -1.96961873e-09 -1.85958800e-09 -1.85486114e-09
+  -1.79723409e-09]]
+new point utility = 1.7912551047885097
+new point = [1.7912551]
+added new point = [1.7912551]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 10
+Size of game = (6, 6)
+Objective = -1.3668679042303965e-09
+Support of attacker = 5
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0229 s
+plot time = 0.0000 s
+BR time = 2.2967 s
+Train time = 1.9558 s
+Matrix update time = 0.0128 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0480 s
+BH points time = 0.0007 s
+BH n_points time = 0.0002 s
+BH threads time = 2.5525 s
+attackers best response found
+Points utilities = [[1.51531649 1.51698952 1.47156215 1.46954346 1.5469746  1.7912551 ]]
+new point utility = 1.7911540289729682
+new point = [1.79115403]
+new point is not better than actual points, is not added = [1.79115403]
+finding best response for defender....
+classifier utilities = [1.79125512 1.79125512 1.79125511 1.79125511 1.79125511 1.79125511]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 11
+Size of game = (6, 7)
+Objective = 1.7912551034373634
+Support of attacker = 1
+Support of classifier = 6
+init time = 0.5579 s
+NFG time = 0.0245 s
+plot time = 0.0000 s
+BR time = 2.6070 s
+Train time = 2.5219 s
+Matrix update time = 0.0142 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0553 s
+BH points time = 0.0007 s
+BH n_points time = 0.0002 s
+BH threads time = 3.0751 s
+attackers best response found
+Points utilities = [[-6.09045793e-09 -4.13442854e-09 -3.86940350e-09 -4.06566275e-09
+  -4.51174562e-09 -5.04122617e-09]]
+new point utility = 1.7902636945333565
+new point = [1.79026369]
+added new point = [1.79026369]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 12
+Size of game = (7, 7)
+Objective = -3.2148366580149287e-09
+Support of attacker = 6
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0268 s
+plot time = 0.0000 s
+BR time = 3.1376 s
+Train time = 2.5240 s
+Matrix update time = 0.0155 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0554 s
+BH points time = 0.0008 s
+BH n_points time = 0.0002 s
+BH threads time = 3.3572 s
+attackers best response found
+Points utilities = [[1.52589043 1.52465916 1.45723158 1.41392011 1.44181397 1.60333165
+  1.79026369]]
+new point utility = 1.7902690896180549
+new point = [1.79026909]
+new point is not better than actual points, is not added = [1.79026909]
+finding best response for defender....
+classifier utilities = [1.79026372 1.79026371 1.7902637  1.7902637  1.7902637  1.7902637
+ 1.7902637 ]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 13
+Size of game = (7, 8)
+Objective = 1.7902636930740587
+Support of attacker = 1
+Support of classifier = 7
+init time = 0.5579 s
+NFG time = 0.0285 s
+plot time = 0.0000 s
+BR time = 3.4204 s
+Train time = 3.1048 s
+Matrix update time = 0.0171 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0626 s
+BH points time = 0.0009 s
+BH n_points time = 0.0003 s
+BH threads time = 3.9072 s
+attackers best response found
+Points utilities = [[-7.59011719e-09 -5.06427573e-09 -4.89163127e-09 -5.28744188e-09
+  -6.06251698e-09 -7.39843551e-09 -8.00731769e-09]]
+new point utility = 1.7795654321653205
+new point = [1.77956543]
+added new point = [1.77956543]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 14
+Size of game = (8, 8)
+Objective = -4.227139770773932e-09
+Support of attacker = 7
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0302 s
+plot time = 0.0000 s
+BR time = 3.9783 s
+Train time = 3.1070 s
+Matrix update time = 0.0185 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0626 s
+BH points time = 0.0009 s
+BH n_points time = 0.0003 s
+BH threads time = 4.1588 s
+attackers best response found
+Points utilities = [[1.52492021 1.52129701 1.43274213 1.36534394 1.37013549 1.50146902
+  1.62867667 1.77956543]]
+new point utility = 1.779460543616217
+new point = [1.77946054]
+new point is not better than actual points, is not added = [1.77946054]
+finding best response for defender....
+classifier utilities = [1.77956546 1.77956545 1.77956544 1.77956544 1.77956544 1.77956544
+ 1.77956544 1.77956544]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 15
+Size of game = (8, 9)
+Objective = 1.7795654306616704
+Support of attacker = 1
+Support of classifier = 8
+init time = 0.5579 s
+NFG time = 0.0318 s
+plot time = 0.0000 s
+BR time = 4.2305 s
+Train time = 3.7140 s
+Matrix update time = 0.0199 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0705 s
+BH points time = 0.0012 s
+BH n_points time = 0.0004 s
+BH threads time = 4.7761 s
+attackers best response found
+Points utilities = [[-8.66523735e-11 -5.67579053e-11 -5.55765610e-11 -6.08092766e-11
+  -7.04877194e-11 -8.77534969e-11 -1.04634136e-10 -1.07726941e-10]]
+new point utility = 1.774487261704953
+new point = [1.77448726]
+added new point = [1.77448726]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 16
+Size of game = (9, 9)
+Objective = -4.974704927863148e-11
+Support of attacker = 8
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0355 s
+plot time = 0.0000 s
+BR time = 4.8568 s
+Train time = 3.7163 s
+Matrix update time = 0.0215 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0705 s
+BH points time = 0.0013 s
+BH n_points time = 0.0004 s
+BH threads time = 5.0957 s
+attackers best response found
+Points utilities = [[1.52718348 1.52145755 1.41134387 1.33017392 1.32229477 1.43753975
+  1.54319807 1.63963872 1.77448726]]
+new point utility = 1.7743121911036066
+new point = [1.77431219]
+new point is not better than actual points, is not added = [1.77431219]
+finding best response for defender....
+classifier utilities = [1.77448729 1.77448728 1.77448727 1.77448727 1.77448727 1.77448727
+ 1.77448727 1.77448727 1.77448727]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 17
+Size of game = (9, 10)
+Objective = 1.7744872602529917
+Support of attacker = 1
+Support of classifier = 9
+init time = 0.5579 s
+NFG time = 0.0373 s
+plot time = 0.0000 s
+BR time = 5.1770 s
+Train time = 4.2613 s
+Matrix update time = 0.0232 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0779 s
+BH points time = 0.0013 s
+BH n_points time = 0.0004 s
+BH threads time = 5.7238 s
+attackers best response found
+Points utilities = [[-9.38303818e-11 -6.01133876e-11 -5.89085083e-11 -6.46300576e-11
+  -7.51480998e-11 -9.41033958e-11 -1.14669631e-10 -1.32623298e-10
+  -1.31282079e-10]]
+new point utility = 1.7626905329340066
+new point = [1.76269053]
+added new point = [1.76269053]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 18
+Size of game = (10, 10)
+Objective = -5.432957965283042e-11
+Support of attacker = 9
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0393 s
+plot time = 0.0000 s
+BR time = 5.8132 s
+Train time = 4.2641 s
+Matrix update time = 0.0247 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0779 s
+BH points time = 0.0014 s
+BH n_points time = 0.0004 s
+BH threads time = 6.1290 s
+attackers best response found
+Points utilities = [[1.52236494 1.51496328 1.38620822 1.29662995 1.28114327 1.38587794
+  1.47926406 1.55736226 1.64383436 1.76269053]]
+new point utility = 1.7626409867542463
+new point = [1.76264099]
+new point is not better than actual points, is not added = [1.76264099]
+finding best response for defender....
+classifier utilities = [1.76269056 1.76269055 1.76269055 1.76269055 1.76269055 1.76269054
+ 1.76269054 1.76269054 1.76269054 1.76269054]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 19
+Size of game = (10, 11)
+Objective = 1.7626905314065187
+Support of attacker = 1
+Support of classifier = 10
+init time = 0.5579 s
+NFG time = 0.0411 s
+plot time = 0.0000 s
+BR time = 6.2190 s
+Train time = 5.1894 s
+Matrix update time = 0.0286 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0881 s
+BH points time = 0.0016 s
+BH n_points time = 0.0005 s
+BH threads time = 6.8461 s
+attackers best response found
+Points utilities = [[-1.00962853e-10 -6.33749667e-11 -6.19542699e-11 -6.79388640e-11
+  -7.89672886e-11 -9.90363803e-11 -1.21694193e-10 -1.44849736e-10
+  -1.64088553e-10 -1.55294328e-10]]
+new point utility = 1.7573309014866434
+new point = [1.7573309]
+added new point = [1.7573309]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 20
+Size of game = (11, 11)
+Objective = -5.885660896465893e-11
+Support of attacker = 10
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0432 s
+plot time = 0.0000 s
+BR time = 6.9470 s
+Train time = 5.1919 s
+Matrix update time = 0.0304 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0881 s
+BH points time = 0.0016 s
+BH n_points time = 0.0005 s
+BH threads time = 7.1823 s
+attackers best response found
+Points utilities = [[1.52277724 1.5143729  1.37123123 1.27335104 1.25269063 1.35031276
+  1.43582589 1.50386174 1.57398343 1.64515339 1.7573309 ]]
+new point utility = 1.7571620042008096
+new point = [1.75716201]
+new point is not better than actual points, is not added = [1.75716201]
+finding best response for defender....
+classifier utilities = [1.75733095 1.75733093 1.75733093 1.75733092 1.75733092 1.75733092
+ 1.75733092 1.75733092 1.75733091 1.75733091 1.75733091]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 21
+Size of game = (11, 12)
+Objective = 1.7573308993834775
+Support of attacker = 1
+Support of classifier = 11
+init time = 0.5579 s
+NFG time = 0.0449 s
+plot time = 0.0000 s
+BR time = 7.2838 s
+Train time = 5.9497 s
+Matrix update time = 0.0323 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0965 s
+BH points time = 0.0017 s
+BH n_points time = 0.0005 s
+BH threads time = 7.9612 s
+attackers best response found
+Points utilities = [[-1.05304772e-10 -6.47954928e-11 -6.28660854e-11 -6.85776827e-11
+  -7.93081367e-11 -9.91270073e-11 -1.22179783e-10 -1.47326879e-10
+  -1.73152477e-10 -1.91006900e-10 -1.74858776e-10]]
+new point utility = 1.7511298637116752
+new point = [1.75112986]
+added new point = [1.75112986]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 22
+Size of game = (12, 12)
+Objective = -6.116546613149327e-11
+Support of attacker = 11
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0472 s
+plot time = 0.0001 s
+BR time = 8.0716 s
+Train time = 5.9521 s
+Matrix update time = 0.0340 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.0965 s
+BH points time = 0.0017 s
+BH n_points time = 0.0005 s
+BH threads time = 8.4346 s
+attackers best response found
+Points utilities = [[1.52175067 1.51255406 1.35761453 1.25304538 1.22872328 1.32107164
+  1.40082427 1.4620057  1.5227112  1.5783579  1.64759066 1.75112986]]
+new point utility = 1.7511300234045213
+new point = [1.75113003]
+new point is not better than actual points, is not added = [1.75113003]
+finding best response for defender....
+classifier utilities = [1.75112993 1.75112991 1.7511299  1.7511299  1.75112989 1.75112989
+ 1.75112989 1.75112989 1.75112988 1.75112988 1.75112988 1.75112988]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 23
+Size of game = (12, 13)
+Objective = 1.7511298609146473
+Support of attacker = 1
+Support of classifier = 12
+init time = 0.5579 s
+NFG time = 0.0488 s
+plot time = 0.0001 s
+BR time = 8.5456 s
+Train time = 6.4876 s
+Matrix update time = 0.0362 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1038 s
+BH points time = 0.0018 s
+BH n_points time = 0.0005 s
+BH threads time = 9.3602 s
+attackers best response found
+Points utilities = [[-1.08069715e-10 -6.54488787e-11 -6.29322764e-11 -6.81468438e-11
+  -7.81905344e-11 -9.70121531e-11 -1.19393819e-10 -1.45008369e-10
+  -1.73585871e-10 -2.00152946e-10 -2.16633184e-10 -1.91427188e-10]]
+new point utility = 1.74740004684777
+new point = [1.74740005]
+added new point = [1.74740005]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 24
+Size of game = (13, 13)
+Objective = -6.244547600064869e-11
+Support of attacker = 12
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0509 s
+plot time = 0.0001 s
+BR time = 9.4792 s
+Train time = 6.4902 s
+Matrix update time = 0.0380 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1038 s
+BH points time = 0.0018 s
+BH n_points time = 0.0005 s
+BH threads time = 9.7544 s
+attackers best response found
+Points utilities = [[1.52245799 1.51264235 1.34737874 1.23727341 1.21020633 1.29868749
+  1.37427006 1.43048609 1.48474595 1.53163651 1.58647342 1.64934477
+  1.74740004]]
+new point utility = 1.74740508916769
+new point = [1.74740509]
+new point is not better than actual points, is not added = [1.74740509]
+finding best response for defender....
+classifier utilities = [1.74740013 1.7474001  1.7474001  1.74740009 1.74740009 1.74740009
+ 1.74740008 1.74740008 1.74740008 1.74740007 1.74740007 1.74740007
+ 1.74740006]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 25
+Size of game = (13, 14)
+Objective = 1.7474000434779575
+Support of attacker = 1
+Support of classifier = 13
+init time = 0.5579 s
+NFG time = 0.0527 s
+plot time = 0.0001 s
+BR time = 9.8740 s
+Train time = 7.0878 s
+Matrix update time = 0.0404 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1113 s
+BH points time = 0.0019 s
+BH n_points time = 0.0006 s
+BH threads time = 10.8228 s
+attackers best response found
+Points utilities = [[-1.16623304e-10 -7.10999135e-11 -6.70519548e-11 -7.14047229e-11
+  -8.06192012e-11 -9.84081204e-11 -1.19588830e-10 -1.44452704e-10
+  -1.73630881e-10 -2.03509771e-10 -2.30245621e-10 -2.42189638e-10
+  -2.06550889e-10]]
+new point utility = 1.7408396508339912
+new point = [1.74083965]
+added new point = [1.74083965]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 26
+Size of game = (14, 14)
+Objective = -6.303560501835923e-11
+Support of attacker = 13
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0548 s
+plot time = 0.0001 s
+BR time = 10.9505 s
+Train time = 7.0905 s
+Matrix update time = 0.0422 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1113 s
+BH points time = 0.0019 s
+BH n_points time = 0.0006 s
+BH threads time = 11.2837 s
+attackers best response found
+Points utilities = [[1.52025465 1.5099979  1.33644158 1.22178682 1.1925948  1.27794815
+  1.35033217 1.40285337 1.45230663 1.49312282 1.53964885 1.58901298
+  1.64956712 1.74083965]]
+new point utility = 1.7305393995352254
+new point = [1.7305394]
+new point is not better than actual points, is not added = [1.7305394]
+finding best response for defender....
+classifier utilities = [1.74083976 1.74083973 1.74083972 1.74083971 1.74083971 1.7408397
+ 1.7408397  1.7408397  1.74083969 1.74083969 1.74083969 1.74083969
+ 1.74083968 1.74083967]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 27
+Size of game = (14, 15)
+Objective = 1.7408396466338747
+Support of attacker = 1
+Support of classifier = 14
+init time = 0.5579 s
+NFG time = 0.0566 s
+plot time = 0.0001 s
+BR time = 11.4120 s
+Train time = 7.7490 s
+Matrix update time = 0.0447 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1187 s
+BH points time = 0.0020 s
+BH n_points time = 0.0006 s
+BH threads time = 12.2423 s
+attackers best response found
+Points utilities = [[-1.23069643e-10 -7.56683357e-11 -7.04149495e-11 -7.40678897e-11
+  -8.25659636e-11 -9.93732764e-11 -1.19270457e-10 -1.43013151e-10
+  -1.71999381e-10 -2.03627371e-10 -2.35465272e-10 -2.60594462e-10
+  -2.67545953e-10 -2.20529916e-10]]
+new point utility = 1.73651814210486
+new point = [1.73651814]
+added new point = [1.73651814]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 28
+Size of game = (15, 15)
+Objective = -6.330662682063313e-11
+Support of attacker = 14
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.0598 s
+plot time = 0.0001 s
+BR time = 12.3786 s
+Train time = 7.7516 s
+Matrix update time = 0.0465 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1187 s
+BH points time = 0.0020 s
+BH n_points time = 0.0006 s
+BH threads time = 12.7670 s
+attackers best response found
+Points utilities = [[1.51989663 1.50940614 1.32874967 1.21003478 1.17903303 1.26193354
+  1.33193374 1.38178884 1.42773109 1.46406868 1.50483305 1.54646529
+  1.59436848 1.6488698  1.73651814]]
+new point utility = 1.7365338081033708
+new point = [1.73653381]
+new point is not better than actual points, is not added = [1.73653381]
+finding best response for defender....
+classifier utilities = [1.73651827 1.73651824 1.73651822 1.73651822 1.73651821 1.73651821
+ 1.73651821 1.7365182  1.73651819 1.73651819 1.73651819 1.73651819
+ 1.73651818 1.73651818 1.73651817]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 29
+Size of game = (15, 16)
+Objective = 1.7365181373499063
+Support of attacker = 1
+Support of classifier = 15
+init time = 0.5579 s
+NFG time = 0.0615 s
+plot time = 0.0001 s
+BR time = 12.9039 s
+Train time = 8.3179 s
+Matrix update time = 0.0500 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1268 s
+BH points time = 0.0021 s
+BH n_points time = 0.0006 s
+BH threads time = 14.3350 s
+attackers best response found
+Points utilities = [[-1.32273210e-10 -8.31288531e-11 -7.62797617e-11 -7.91755280e-11
+  -8.71122380e-11 -1.03334677e-10 -1.22148824e-10 -1.44516338e-10
+  -1.72420151e-10 -2.04148074e-10 -2.38296731e-10 -2.69526144e-10
+  -2.91639081e-10 -2.91318640e-10 -2.33571148e-10]]
+new point utility = 1.7290747000606785
+new point = [1.7290747]
+added new point = [1.7290747]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 30
+Size of game = (16, 16)
+Objective = -6.287230441050566e-11
+Support of attacker = 15
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.1107 s
+plot time = 0.0001 s
+BR time = 14.4808 s
+Train time = 8.3207 s
+Matrix update time = 0.0522 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1269 s
+BH points time = 0.0022 s
+BH n_points time = 0.0006 s
+BH threads time = 14.8920 s
+attackers best response found
+Points utilities = [[1.51659165 1.50604661 1.32019047 1.19796609 1.16538634 1.24605999
+  1.31402955 1.36181838 1.40515252 1.43817798 1.47460705 1.51078693
+  1.5513177  1.5937161  1.64702682 1.7290747 ]]
+new point utility = 1.729087938923051
+new point = [1.72908794]
+new point is not better than actual points, is not added = [1.72908794]
+finding best response for defender....
+classifier utilities = [1.72907485 1.72907482 1.7290748  1.72907479 1.72907479 1.72907478
+ 1.72907478 1.72907477 1.72907477 1.72907476 1.72907476 1.72907476
+ 1.72907475 1.72907475 1.72907475 1.72907473]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 31
+Size of game = (16, 17)
+Objective = 1.7290746945783328
+Support of attacker = 1
+Support of classifier = 16
+init time = 0.5579 s
+NFG time = 0.1127 s
+plot time = 0.0001 s
+BR time = 15.0383 s
+Train time = 9.0023 s
+Matrix update time = 0.0555 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1364 s
+BH points time = 0.0022 s
+BH n_points time = 0.0007 s
+BH threads time = 15.9697 s
+attackers best response found
+Points utilities = [[-1.39650614e-10 -8.95256849e-11 -8.15041867e-11 -8.38984596e-11
+  -9.14973599e-11 -1.07394053e-10 -1.25427541e-10 -1.46690178e-10
+  -1.73613855e-10 -2.05193174e-10 -2.40858265e-10 -2.76163089e-10
+  -3.06471625e-10 -3.24007869e-10 -3.16983210e-10 -2.47645351e-10]]
+new point utility = 1.7272370418323468
+new point = [1.72723704]
+added new point = [1.72723704]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 32
+Size of game = (17, 17)
+Objective = -6.239933708270282e-11
+Support of attacker = 16
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.1155 s
+plot time = 0.0001 s
+BR time = 16.1263 s
+Train time = 9.0050 s
+Matrix update time = 0.0576 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1364 s
+BH points time = 0.0023 s
+BH n_points time = 0.0007 s
+BH threads time = 16.6700 s
+attackers best response found
+Points utilities = [[1.51820645 1.50774098 1.31721505 1.19128207 1.15710193 1.23602578
+  1.30246305 1.34874524 1.39023193 1.42091912 1.4542277  1.48640784
+  1.52183275 1.55730468 1.59909536 1.64671672 1.72723704]]
+new point utility = 1.7271141531193033
+new point = [1.72711416]
+new point is not better than actual points, is not added = [1.72711416]
+finding best response for defender....
+classifier utilities = [1.72723722 1.72723718 1.72723716 1.72723715 1.72723715 1.72723714
+ 1.72723714 1.72723713 1.72723712 1.72723712 1.72723711 1.72723711
+ 1.72723711 1.72723711 1.7272371  1.72723709 1.72723707]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 33
+Size of game = (17, 18)
+Objective = 1.727237035742906
+Support of attacker = 1
+Support of classifier = 17
+init time = 0.5579 s
+NFG time = 0.1173 s
+plot time = 0.0001 s
+BR time = 16.8273 s
+Train time = 9.5266 s
+Matrix update time = 0.0609 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1444 s
+BH points time = 0.0024 s
+BH n_points time = 0.0007 s
+BH threads time = 17.6316 s
+attackers best response found
+Points utilities = [[-1.53088347e-10 -1.00204242e-10 -9.05735141e-11 -9.25448115e-11
+  -1.00192178e-10 -1.16602619e-10 -1.34722514e-10 -1.55632245e-10
+  -1.82116264e-10 -2.13673939e-10 -2.50489240e-10 -2.88831702e-10
+  -3.24868165e-10 -3.52343463e-10 -3.65364251e-10 -3.49762336e-10
+  -2.68572142e-10]]
+new point utility = 1.726502802351123
+new point = [1.7265028]
+added new point = [1.7265028]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 34
+Size of game = (18, 18)
+Objective = -6.183074325229172e-11
+Support of attacker = 17
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.1195 s
+plot time = 0.0001 s
+BR time = 17.7975 s
+Train time = 9.5293 s
+Matrix update time = 0.0630 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1444 s
+BH points time = 0.0024 s
+BH n_points time = 0.0008 s
+BH threads time = 18.1824 s
+attackers best response found
+Points utilities = [[1.52031604 1.5098319  1.31457019 1.18522406 1.1496181  1.22702036
+  1.29217983 1.33728071 1.37739313 1.40641418 1.43750451 1.46677754
+  1.49840534 1.52902849 1.56413307 1.60057602 1.64994313 1.7265028 ]]
+new point utility = 1.726519644961512
+new point = [1.72651965]
+new point is not better than actual points, is not added = [1.72651965]
+finding best response for defender....
+classifier utilities = [1.72650301 1.72650296 1.72650294 1.72650293 1.72650292 1.72650292
+ 1.72650292 1.72650291 1.7265029  1.72650289 1.72650289 1.72650289
+ 1.72650288 1.72650288 1.72650288 1.72650288 1.72650286 1.72650284]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 35
+Size of game = (18, 19)
+Objective = 1.7265027956362535
+Support of attacker = 1
+Support of classifier = 18
+init time = 0.5579 s
+NFG time = 0.1212 s
+plot time = 0.0001 s
+BR time = 18.3489 s
+Train time = 10.4154 s
+Matrix update time = 0.0665 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1518 s
+BH points time = 0.0025 s
+BH n_points time = 0.0008 s
+BH threads time = 19.3801 s
+attackers best response found
+Points utilities = [[-1.62025025e-10 -1.07680724e-10 -9.70071322e-11 -9.86966440e-11
+  -1.06349541e-10 -1.23021036e-10 -1.41011158e-10 -1.61386098e-10
+  -1.87190449e-10 -2.18346198e-10 -2.55642217e-10 -2.95964101e-10
+  -3.36106028e-10 -3.70487804e-10 -3.94986598e-10 -4.01825326e-10
+  -3.79743459e-10 -2.86807636e-10]]
+new point utility = 1.7227343536755528
+new point = [1.72273435]
+added new point = [1.72273435]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 36
+Size of game = (19, 19)
+Objective = -5.995695923085708e-11
+Support of attacker = 18
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.1234 s
+plot time = 0.0001 s
+BR time = 19.5545 s
+Train time = 10.4182 s
+Matrix update time = 0.0686 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1518 s
+BH points time = 0.0026 s
+BH n_points time = 0.0008 s
+BH threads time = 20.0447 s
+attackers best response found
+Points utilities = [[1.51952786 1.50906468 1.31010678 1.17780453 1.14090887 1.21677848
+  1.28067279 1.32468556 1.36363999 1.39138945 1.42085391 1.44803046
+  1.47686085 1.50386584 1.53429427 1.5643872  1.60336934 1.65104355
+  1.72273435]]
+new point utility = 1.7227450609397283
+new point = [1.72274507]
+new point is not better than actual points, is not added = [1.72274507]
+finding best response for defender....
+classifier utilities = [1.72273459 1.72273454 1.72273451 1.7227345  1.7227345  1.72273449
+ 1.72273449 1.72273448 1.72273447 1.72273446 1.72273446 1.72273445
+ 1.72273445 1.72273445 1.72273445 1.72273445 1.72273444 1.72273442
+ 1.72273439]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 37
+Size of game = (19, 20)
+Objective = 1.7227343462733042
+Support of attacker = 1
+Support of classifier = 19
+init time = 0.5579 s
+NFG time = 0.1252 s
+plot time = 0.0001 s
+BR time = 20.2197 s
+Train time = 11.2275 s
+Matrix update time = 0.0723 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1589 s
+BH points time = 0.0026 s
+BH n_points time = 0.0008 s
+BH threads time = 21.2084 s
+attackers best response found
+Points utilities = [[-1.76401696e-10 -1.19949048e-10 -1.07706197e-10 -1.09137168e-10
+  -1.17142138e-10 -1.34879770e-10 -1.53521201e-10 -1.74029911e-10
+  -1.99694840e-10 -2.30715303e-10 -2.68425615e-10 -3.10181093e-10
+  -3.53316649e-10 -3.92722815e-10 -4.25026579e-10 -4.44327635e-10
+  -4.46587179e-10 -4.16856078e-10 -3.10511970e-10]]
+new point utility = 1.7151469627167852
+new point = [1.71514696]
+added new point = [1.71514696]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 38
+Size of game = (20, 20)
+Objective = -5.819629983095109e-11
+Support of attacker = 19
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.1273 s
+plot time = 0.0001 s
+BR time = 21.3912 s
+Train time = 11.2303 s
+Matrix update time = 0.0745 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1589 s
+BH points time = 0.0027 s
+BH n_points time = 0.0008 s
+BH threads time = 21.9514 s
+attackers best response found
+Points utilities = [[1.51555742 1.50537518 1.30484254 1.16986132 1.13167468 1.20592442
+  1.26846932 1.3113562  1.34919281 1.37584011 1.40401227 1.42963494
+  1.45643564 1.48079153 1.5077444  1.53344448 1.56645133 1.60440689
+  1.64750813 1.71514696]]
+new point utility = 1.7151625490414877
+new point = [1.71516255]
+new point is not better than actual points, is not added = [1.71516255]
+finding best response for defender....
+classifier utilities = [1.71514722 1.71514717 1.71514714 1.71514713 1.71514713 1.71514712
+ 1.71514712 1.71514711 1.7151471  1.71514709 1.71514708 1.71514708
+ 1.71514708 1.71514708 1.71514707 1.71514707 1.71514707 1.71514706
+ 1.71514704 1.715147  ]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 39
+Size of game = (20, 21)
+Objective = 1.7151469548382805
+Support of attacker = 1
+Support of classifier = 20
+init time = 0.5579 s
+NFG time = 0.1291 s
+plot time = 0.0001 s
+BR time = 22.1348 s
+Train time = 12.4293 s
+Matrix update time = 0.0784 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1661 s
+BH points time = 0.0027 s
+BH n_points time = 0.0008 s
+BH threads time = 23.4422 s
+attackers best response found
+Points utilities = [[-1.89172651e-10 -1.31451628e-10 -1.17945040e-10 -1.19282523e-10
+  -1.27745947e-10 -1.46623727e-10 -1.65996565e-10 -1.86778048e-10
+  -2.12540658e-10 -2.43745496e-10 -2.82188011e-10 -3.25540290e-10
+  -3.71492200e-10 -4.15209011e-10 -4.53737844e-10 -4.81779598e-10
+  -4.97697502e-10 -4.94269167e-10 -4.55856076e-10 -3.35668832e-10]]
+new point utility = 1.711456076608784
+new point = [1.71145608]
+added new point = [1.71145608]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 40
+Size of game = (21, 21)
+Objective = -5.612312044740729e-11
+Support of attacker = 20
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.1313 s
+plot time = 0.0001 s
+BR time = 23.6334 s
+Train time = 12.4322 s
+Matrix update time = 0.0808 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1661 s
+BH points time = 0.0028 s
+BH n_points time = 0.0008 s
+BH threads time = 24.2425 s
+attackers best response found
+Points utilities = [[1.51533953 1.50565417 1.30468526 1.16657081 1.12686005 1.19968521
+  1.26104279 1.30291964 1.33978322 1.36550369 1.3926621  1.4171383
+  1.44250653 1.46500936 1.48947069 1.51195329 1.54081368 1.57312272
+  1.60673094 1.64465768 1.71145607]]
+new point utility = 1.7114576148921297
+new point = [1.71145762]
+new point is not better than actual points, is not added = [1.71145762]
+finding best response for defender....
+classifier utilities = [1.71145636 1.7114563  1.71145627 1.71145626 1.71145626 1.71145625
+ 1.71145625 1.71145624 1.71145623 1.71145622 1.71145621 1.71145621
+ 1.71145621 1.71145621 1.7114562  1.7114562  1.7114562  1.71145619
+ 1.71145618 1.71145616 1.71145612]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 41
+Size of game = (21, 22)
+Objective = 1.7114560683208397
+Support of attacker = 1
+Support of classifier = 21
+init time = 0.5579 s
+NFG time = 0.1330 s
+plot time = 0.0001 s
+BR time = 24.4344 s
+Train time = 13.1398 s
+Matrix update time = 0.0849 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1738 s
+BH points time = 0.0028 s
+BH n_points time = 0.0009 s
+BH threads time = 25.8163 s
+attackers best response found
+Points utilities = [[-2.00586899e-10 -1.42117962e-10 -1.27492002e-10 -1.28755589e-10
+  -1.37653396e-10 -1.57591140e-10 -1.77616042e-10 -1.98588186e-10
+  -2.24331083e-10 -2.55540233e-10 -2.94425794e-10 -3.38930421e-10
+  -3.87021619e-10 -4.34059397e-10 -4.77391435e-10 -5.12004397e-10
+  -5.37190477e-10 -5.48278833e-10 -5.38106470e-10 -4.91442302e-10
+  -3.60415057e-10]]
+new point utility = 1.704087188215454
+new point = [1.70408719]
+added new point = [1.70408719]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 42
+Size of game = (22, 22)
+Objective = -5.300285426825234e-11
+Support of attacker = 21
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.1353 s
+plot time = 0.0001 s
+BR time = 26.0165 s
+Train time = 13.1428 s
+Matrix update time = 0.0873 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1738 s
+BH points time = 0.0029 s
+BH n_points time = 0.0009 s
+BH threads time = 26.5023 s
+attackers best response found
+Points utilities = [[1.51178929 1.50267767 1.30263196 1.16178268 1.12062201 1.19192913
+  1.2520107  1.29282595 1.32870544 1.35355255 1.37980818 1.40333568
+  1.4275946  1.44874479 1.471406   1.4915265  1.51726103 1.54555678
+  1.57364127 1.60217907 1.64166344 1.70408718]]
+new point utility = 1.7035881043470353
+new point = [1.70358811]
+new point is not better than actual points, is not added = [1.70358811]
+finding best response for defender....
+classifier utilities = [1.70408749 1.70408743 1.7040874  1.70408739 1.70408739 1.70408738
+ 1.70408738 1.70408737 1.70408736 1.70408735 1.70408734 1.70408734
+ 1.70408733 1.70408733 1.70408733 1.70408733 1.70408733 1.70408732
+ 1.70408731 1.7040873  1.70408728 1.70408723]
+new classifier utility = [8.80710844e-08]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 43
+Size of game = (22, 23)
+Objective = 1.7040871795693566
+Support of attacker = 1
+Support of classifier = 22
+init time = 0.5579 s
+NFG time = 0.1372 s
+plot time = 0.0001 s
+BR time = 26.7030 s
+Train time = 14.5203 s
+Matrix update time = 0.0935 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1815 s
+BH points time = 0.0030 s
+BH n_points time = 0.0009 s
+BH threads time = 27.1864 s
+attackers best response found
+Points utilities = [[1.45597615 1.25569092 0.76525898 0.76438253 0.77814746 0.85469027
+  0.91981696 0.96872376 1.01159818 1.04385504 1.07529265 1.10342104
+  1.13152465 1.15701639 1.1838209  1.20887066 1.23874758 1.27100872
+  1.30347553 1.33720774 1.38251461 1.45597615]]
+new point utility = 1.70124678081379
+new point = [1.70124679]
+added new point = [1.70124679]
+finding best response for defender....
+classifier utilities = [2.91195257 1.45597636 1.45597634 1.45597633 1.45597633 1.45597632
+ 1.45597632 1.45597631 1.4559763  1.45597629 1.45597628 1.45597628
+ 1.45597627 1.45597627 1.45597627 1.45597627 1.45597627 1.45597627
+ 1.45597626 1.45597625 1.45597623 1.4559762  1.45597623]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 44
+Size of game = (23, 24)
+Objective = 1.4559761475607085
+Support of attacker = 2
+Support of classifier = 22
+init time = 0.5579 s
+NFG time = 0.1395 s
+plot time = 0.0001 s
+BR time = 27.3956 s
+Train time = 15.4200 s
+Matrix update time = 0.1422 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1889 s
+BH points time = 0.0030 s
+BH n_points time = 0.0009 s
+BH threads time = 28.8552 s
+attackers best response found
+Points utilities = [[-1.15943265e-10 -1.09777399e-10 -7.02051673e-11 -7.21321428e-11
+  -7.57322665e-11 -8.38024187e-11 -8.90377078e-11 -9.07282272e-11
+  -9.14933628e-11 -9.34007780e-11 -9.91374575e-11 -1.09580778e-10
+  -1.25308506e-10 -1.45553268e-10 -1.69561618e-10 -1.95198526e-10
+  -2.21440562e-10 -2.45620322e-10 -2.64517623e-10 -2.74674954e-10
+  -2.72131857e-10 -2.44894734e-10 -2.52647802e-10]]
+new point utility = 1.6997071568942501
+new point = [1.69970716]
+added new point = [1.69970716]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 45
+Size of game = (24, 24)
+Objective = -2.746331249926229e-12
+Support of attacker = 23
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.1418 s
+plot time = 0.0001 s
+BR time = 29.0723 s
+Train time = 15.4231 s
+Matrix update time = 0.1447 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1889 s
+BH points time = 0.0031 s
+BH n_points time = 0.0009 s
+BH threads time = 29.8569 s
+attackers best response found
+Points utilities = [[1.51533031 1.50926698 1.27781631 1.14352973 1.10439244 1.17526296
+  1.23473228 1.2749202  1.31005734 1.33422429 1.35970052 1.38238798
+  1.40564319 1.42558632 1.44660303 1.46448444 1.48700196 1.51088945
+  1.53307074 1.55330653 1.57912363 1.60468173 1.63928075 1.69970715]]
+new point utility = 1.6997133258266346
+new point = [1.69971333]
+new point is not better than actual points, is not added = [1.69971333]
+finding best response for defender....
+classifier utilities = [1.69970753 1.69970746 1.69970743 1.69970742 1.69970741 1.69970741
+ 1.6997074  1.69970739 1.69970738 1.69970737 1.69970736 1.69970736
+ 1.69970735 1.69970735 1.69970735 1.69970735 1.69970734 1.69970734
+ 1.69970733 1.69970732 1.69970731 1.69970729 1.69970737 1.69970722]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 46
+Size of game = (24, 25)
+Objective = 1.6997071467695695
+Support of attacker = 1
+Support of classifier = 24
+init time = 0.5579 s
+NFG time = 0.1437 s
+plot time = 0.0001 s
+BR time = 30.0747 s
+Train time = 16.4715 s
+Matrix update time = 0.1498 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1963 s
+BH points time = 0.0031 s
+BH n_points time = 0.0010 s
+BH threads time = 31.5737 s
+attackers best response found
+Points utilities = [[-8.30557453e-11 -8.33794984e-11 -7.27421861e-11 -7.05305995e-11
+  -7.24771664e-11 -8.01990391e-11 -8.58394594e-11 -8.74082740e-11
+  -8.68514200e-11 -8.62589609e-11 -8.85182003e-11 -9.48086775e-11
+  -1.06078489e-10 -1.22164639e-10 -1.42848979e-10 -1.66626053e-10
+  -1.92817755e-10 -2.19311596e-10 -2.43466409e-10 -2.62641834e-10
+  -2.75159121e-10 -2.75674011e-10 -2.75156462e-10 -1.96053024e-10]]
+new point utility = 1.6987503910548805
+new point = [1.69875039]
+added new point = [1.69875039]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 47
+Size of game = (25, 25)
+Objective = 2.84735604565424e-12
+Support of attacker = 24
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.1458 s
+plot time = 0.0001 s
+BR time = 31.7995 s
+Train time = 16.4747 s
+Matrix update time = 0.1523 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.1963 s
+BH points time = 0.0032 s
+BH n_points time = 0.0010 s
+BH threads time = 32.5510 s
+attackers best response found
+Points utilities = [[1.51510547 1.50904971 1.28342361 1.14509918 1.1039686  1.17349017
+  1.23183763 1.27107467 1.30538226 1.32884232 1.35365334 1.37570223
+  1.39830568 1.41757345 1.43782002 1.45478675 1.47609557 1.49837021
+  1.51842461 1.53592222 1.5581722  1.57884755 1.60521977 1.64104712
+  1.69875038]]
+new point utility = 1.6987623242691152
+new point = [1.69876233]
+new point is not better than actual points, is not added = [1.69876233]
+finding best response for defender....
+classifier utilities = [1.69875078 1.69875071 1.69875068 1.69875067 1.69875066 1.69875066
+ 1.69875065 1.69875064 1.69875063 1.69875062 1.69875061 1.6987506
+ 1.6987506  1.6987506  1.6987506  1.6987506  1.69875059 1.69875059
+ 1.69875058 1.69875057 1.69875056 1.69875055 1.69875064 1.69875051
+ 1.69875046]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 48
+Size of game = (25, 26)
+Objective = 1.6987503808321536
+Support of attacker = 1
+Support of classifier = 25
+init time = 0.5579 s
+NFG time = 0.1478 s
+plot time = 0.0001 s
+BR time = 32.7773 s
+Train time = 17.1425 s
+Matrix update time = 0.1598 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.2053 s
+BH points time = 0.0033 s
+BH n_points time = 0.0010 s
+BH threads time = 34.4472 s
+attackers best response found
+Points utilities = [[-1.24980918e-10 -1.00685903e-10 -8.98417049e-11 -8.40237774e-11
+  -8.52799777e-11 -9.43758284e-11 -1.02086859e-10 -1.06286138e-10
+  -1.08872570e-10 -1.11530325e-10 -1.17125004e-10 -1.26757107e-10
+  -1.41587940e-10 -1.61486775e-10 -1.86360577e-10 -2.14522476e-10
+  -2.45484735e-10 -2.77071742e-10 -3.06655110e-10 -3.31821745e-10
+  -3.51786237e-10 -3.62481086e-10 -3.58727976e-10 -3.28605525e-10
+  -2.30132041e-10]]
+new point utility = 1.6962210633912624
+new point = [1.69622106]
+added new point = [1.69622106]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 49
+Size of game = (26, 26)
+Objective = -2.2652893824157117e-12
+Support of attacker = 25
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.1501 s
+plot time = 0.0001 s
+BR time = 34.6832 s
+Train time = 17.1457 s
+Matrix update time = 0.1625 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.2053 s
+BH points time = 0.0033 s
+BH n_points time = 0.0010 s
+BH threads time = 35.3987 s
+attackers best response found
+Points utilities = [[1.51458102 1.50851342 1.28763524 1.14574633 1.10280235 1.17102541
+  1.22830237 1.26664795 1.30018271 1.32298821 1.34717512 1.36862247
+  1.39061653 1.40927406 1.42886018 1.44509912 1.46549637 1.48659754
+  1.50511498 1.5205966  1.54019683 1.55747531 1.57921552 1.60708428
+  1.64185205 1.69622106]]
+new point utility = 1.6958232268842013
+new point = [1.69582323]
+new point is not better than actual points, is not added = [1.69582323]
+finding best response for defender....
+classifier utilities = [1.69622148 1.69622141 1.69622137 1.69622136 1.69622136 1.69622135
+ 1.69622135 1.69622133 1.69622132 1.69622131 1.6962213  1.69622129
+ 1.69622129 1.69622129 1.69622129 1.69622129 1.69622128 1.69622128
+ 1.69622127 1.69622126 1.69622125 1.69622124 1.69622134 1.69622121
+ 1.69622119 1.69622114]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 50
+Size of game = (26, 27)
+Objective = 1.696221052874973
+Support of attacker = 1
+Support of classifier = 26
+init time = 0.5579 s
+NFG time = 0.2423 s
+plot time = 0.0001 s
+BR time = 35.6354 s
+Train time = 17.9801 s
+Matrix update time = 0.1687 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.2206 s
+BH points time = 0.0034 s
+BH n_points time = 0.0010 s
+BH threads time = 37.4009 s
+attackers best response found
+Points utilities = [[-1.84963114e-10 -1.36166105e-10 -1.10623069e-10 -1.05178770e-10
+  -1.08436622e-10 -1.21706119e-10 -1.33973323e-10 -1.43384138e-10
+  -1.51979127e-10 -1.60851094e-10 -1.73147909e-10 -1.90045610e-10
+  -2.12953899e-10 -2.41331818e-10 -2.74843160e-10 -3.11051711e-10
+  -3.49568938e-10 -3.87811319e-10 -4.22899569e-10 -4.52565959e-10
+  -4.77003143e-10 -4.92405218e-10 -4.92502225e-10 -4.79829975e-10
+  -4.32853243e-10 -3.03437932e-10]]
+new point utility = 1.6943734581764347
+new point = [1.69437346]
+added new point = [1.69437346]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 51
+Size of game = (27, 27)
+Objective = -9.299752607012456e-12
+Support of attacker = 26
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.2450 s
+plot time = 0.0001 s
+BR time = 37.6535 s
+Train time = 17.9833 s
+Matrix update time = 0.1715 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.2206 s
+BH points time = 0.0034 s
+BH n_points time = 0.0010 s
+BH threads time = 38.5594 s
+attackers best response found
+Points utilities = [[1.51519515 1.50920491 1.29365406 1.14787304 1.10298007 1.16993326
+  1.22617694 1.26366524 1.29646578 1.31864579 1.34223848 1.36311169
+  1.38452875 1.40261663 1.42160864 1.43722687 1.45689558 1.47711196
+  1.49451354 1.50853811 1.52617737 1.54092926 1.55958647 1.58287186
+  1.61005347 1.64183642 1.69437345]]
+new point utility = 1.6943742913958164
+new point = [1.6943743]
+new point is not better than actual points, is not added = [1.6943743]
+finding best response for defender....
+classifier utilities = [1.69437393 1.69437385 1.69437381 1.6943738  1.69437379 1.69437379
+ 1.69437378 1.69437377 1.69437375 1.69437374 1.69437373 1.69437373
+ 1.69437372 1.69437372 1.69437372 1.69437371 1.69437371 1.6943737
+ 1.6943737  1.69437369 1.69437368 1.69437367 1.69437378 1.69437364
+ 1.69437363 1.6943736  1.69437354]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 52
+Size of game = (27, 28)
+Objective = 1.6943734466445155
+Support of attacker = 1
+Support of classifier = 27
+init time = 0.5579 s
+NFG time = 0.2470 s
+plot time = 0.0001 s
+BR time = 38.8127 s
+Train time = 18.8285 s
+Matrix update time = 0.1777 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.2362 s
+BH points time = 0.0035 s
+BH n_points time = 0.0011 s
+BH threads time = 40.5991 s
+attackers best response found
+Points utilities = [[-2.23769751e-10 -1.62481659e-10 -1.27425914e-10 -1.22519940e-10
+  -1.27488745e-10 -1.44120151e-10 -1.59588795e-10 -1.71953620e-10
+  -1.83432373e-10 -1.94952769e-10 -2.10091762e-10 -2.30154628e-10
+  -2.56738388e-10 -2.89111090e-10 -3.26873647e-10 -3.67228077e-10
+  -4.09906383e-10 -4.52160734e-10 -4.91052273e-10 -5.24485754e-10
+  -5.53309880e-10 -5.73902312e-10 -5.76535616e-10 -5.76919227e-10
+  -5.57484215e-10 -5.00716864e-10 -3.52498765e-10]]
+new point utility = 1.692083808607804
+new point = [1.69208381]
+added new point = [1.69208381]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 53
+Size of game = (28, 28)
+Objective = -9.393591369854724e-12
+Support of attacker = 27
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.2500 s
+plot time = 0.0001 s
+BR time = 40.8686 s
+Train time = 18.8321 s
+Matrix update time = 0.1809 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.2362 s
+BH points time = 0.0036 s
+BH n_points time = 0.0011 s
+BH threads time = 41.7096 s
+attackers best response found
+Points utilities = [[1.51553681 1.50972085 1.29936177 1.14987719 1.10310934 1.16883449
+  1.22408036 1.26074642 1.29284699 1.31443335 1.33746253 1.35779207
+  1.37866427 1.39621915 1.4146655  1.42973415 1.44878733 1.46829943
+  1.4848654  1.49784077 1.51406308 1.52695227 1.54343742 1.56352564
+  1.58633353 1.61081519 1.64176225 1.6920838 ]]
+new point utility = 1.6918939663084178
+new point = [1.69189397]
+new point is not better than actual points, is not added = [1.69189397]
+finding best response for defender....
+classifier utilities = [1.69208434 1.69208425 1.69208421 1.6920842  1.69208419 1.69208419
+ 1.69208418 1.69208417 1.69208415 1.69208414 1.69208413 1.69208412
+ 1.69208411 1.69208411 1.69208411 1.69208411 1.6920841  1.69208409
+ 1.69208409 1.69208408 1.69208407 1.69208406 1.69208417 1.69208403
+ 1.69208402 1.692084   1.69208397 1.6920839 ]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 54
+Size of game = (28, 29)
+Objective = 1.6920837958796842
+Support of attacker = 1
+Support of classifier = 28
+init time = 0.5579 s
+NFG time = 0.2539 s
+plot time = 0.0001 s
+BR time = 41.9797 s
+Train time = 19.7621 s
+Matrix update time = 0.1874 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.2523 s
+BH points time = 0.0037 s
+BH n_points time = 0.0011 s
+BH threads time = 43.8787 s
+attackers best response found
+Points utilities = [[-2.50448110e-10 -1.81648309e-10 -1.39844302e-10 -1.35265678e-10
+  -1.41435113e-10 -1.60487215e-10 -1.78132019e-10 -1.92245848e-10
+  -2.05163886e-10 -2.17721957e-10 -2.33815177e-10 -2.54895076e-10
+  -2.82800246e-10 -3.16829078e-10 -3.56652835e-10 -3.99321766e-10
+  -4.44645049e-10 -4.89778555e-10 -5.31741403e-10 -5.68526685e-10
+  -6.01363255e-10 -6.26687166e-10 -6.31124503e-10 -6.40725853e-10
+  -6.37118397e-10 -6.12914054e-10 -5.50309916e-10 -3.87793035e-10]]
+new point utility = 1.6872562469567893
+new point = [1.68725625]
+added new point = [1.68725625]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 55
+Size of game = (29, 29)
+Objective = -6.899463348866013e-12
+Support of attacker = 28
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.2569 s
+plot time = 0.0001 s
+BR time = 44.1656 s
+Train time = 19.7656 s
+Matrix update time = 0.1905 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.2524 s
+BH points time = 0.0037 s
+BH n_points time = 0.0011 s
+BH threads time = 45.6097 s
+attackers best response found
+Points utilities = [[1.49605253 1.51330139 1.56366459 1.19194781 1.13669912 1.20002534
+  1.2474945  1.27789052 1.30563203 1.32378984 1.34291275 1.36049238
+  1.37918513 1.39475164 1.41121022 1.42450404 1.44371334 1.46319996
+  1.47884984 1.49095549 1.50606634 1.51757797 1.53324851 1.55034542
+  1.56947006 1.58699674 1.61041225 1.6397714  1.68725625]]
+new point utility = 1.6872521627493844
+new point = [1.68725216]
+new point is not better than actual points, is not added = [1.68725216]
+finding best response for defender....
+classifier utilities = [1.68725625 1.68725625 1.68725625 1.68725625 1.68725625 1.68725625
+ 1.68725625 1.68725625 1.68725625 1.68725625 1.68725625 1.68725625
+ 1.68725625 1.68725625 1.68725625 1.68725625 1.68725625 1.68725625
+ 1.68725625 1.68725625 1.68725625 1.68725625 1.68725625 1.68725625
+ 1.68725625 1.68725625 1.68725625 1.68725625 1.68725625]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 56
+Size of game = (29, 30)
+Objective = 1.6872562468213934
+Support of attacker = 1
+Support of classifier = 29
+init time = 0.5579 s
+NFG time = 0.2615 s
+plot time = 0.0001 s
+BR time = 45.8973 s
+Train time = 20.4366 s
+Matrix update time = 0.1999 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.2681 s
+BH points time = 0.0038 s
+BH n_points time = 0.0012 s
+BH threads time = 47.7688 s
+attackers best response found
+Points utilities = [[-2.72430425e-10 -1.97859601e-10 -1.50256102e-10 -1.45812667e-10
+  -1.52936057e-10 -1.74042980e-10 -1.93518383e-10 -2.08987613e-10
+  -2.22855208e-10 -2.35854653e-10 -2.52123886e-10 -2.73263199e-10
+  -3.01397725e-10 -3.35977536e-10 -3.76823835e-10 -4.20934376e-10
+  -4.68172321e-10 -5.15609264e-10 -5.60203053e-10 -5.99965187e-10
+  -6.36349357e-10 -6.65777583e-10 -6.71758804e-10 -6.88253375e-10
+  -6.94760879e-10 -6.87752583e-10 -6.60842142e-10 -5.93028977e-10
+  -4.16748570e-10]]
+new point utility = 1.685982378983686
+new point = [1.68598238]
+added new point = [1.68598238]
+finding best response for defender....
+ending training classifiers
+defender best response found
+---------------------------- iteration: 57
+Size of game = (30, 30)
+Objective = -3.175764893819468e-12
+Support of attacker = 29
+Support of classifier = 1
+init time = 0.5579 s
+NFG time = 0.2663 s
+plot time = 0.0001 s
+BR time = 48.0728 s
+Train time = 20.4403 s
+Matrix update time = 0.2032 s
+finding best response for attacker....
+BH init time = 0.0010 s
+BH expand time = 0.2681 s
+BH points time = 0.0039 s
+BH n_points time = 0.0012 s
+BH threads time = 48.8656 s
+attackers best response found
+Points utilities = [[1.50761351 1.49793678 1.12851373 1.15270192 1.10060076 1.16306636
+  1.21620321 1.25222038 1.28282755 1.30242545 1.32381001 1.3431459
+  1.36369691 1.38187463 1.3990708  1.41318416 1.43103077 1.44945472
+  1.46501258 1.47697198 1.49161905 1.50242842 1.51735679 1.53378976
+  1.55120666 1.56868494 1.58884754 1.61102669 1.63761541 1.68598237]]
+new point utility = 1.6859829398236785
+new point = [1.68598295]
+new point is not better than actual points, is not added = [1.68598295]
+finding best response for defender....
+classifier utilities = [1.68598304 1.68598293 1.68598288 1.68598288 1.68598287 1.68598286
+ 1.68598286 1.68598284 1.68598282 1.6859828  1.68598279 1.68598278
+ 1.68598277 1.68598277 1.68598276 1.68598276 1.68598275 1.68598274
+ 1.68598273 1.68598272 1.68598271 1.6859827  1.68598284 1.68598267
+ 1.68598266 1.68598264 1.68598263 1.6859826  1.68598257 1.68598248]
+new classifier utility = [0.]
+classifier added
+ending training classifiers
+defender best response found
+---------------------------- iteration: 58
+Size of game = (30, 31)
+Objective = 1.6859823634816193
+Support of attacker = 1
+Support of classifier = 30
+init time = 0.5579 s
+NFG time = 0.2691 s
+plot time = 0.0001 s
+BR time = 49.1702 s
+Train time = 21.3151 s
+Matrix update time = 0.2119 s
+finding best response for attacker....

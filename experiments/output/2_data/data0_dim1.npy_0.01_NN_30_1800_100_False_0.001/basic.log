@@ -1,0 +1,133 @@
+NEW RUN________________________________________
+____iterstion: 0
+Points utilities = [[10.]]
+new point utility = 9.999999998021366
+new point = [1.4644661]
+3
+classifier utilities = [10.00000001]
+new classifier utility = [0.]
+classifier added
+____iterstion: 1
+Points utilities = [[-2.63694171e-10]]
+new point utility = 10.000000000232056
+new point = [1.46446608]
+point added
+3
+____iterstion: 2
+Points utilities = [[ 8.84063832 10.        ]]
+new point utility = 9.99999999651659
+new point = [1.46446609]
+3
+classifier utilities = [10.00000002 10.00000002]
+new classifier utility = [1.43684128e-09]
+classifier added
+____iterstion: 3
+Points utilities = [[5. 5.]]
+new point utility = 9.987409683402705
+new point = [1.52775799]
+point added
+3
+classifier utilities = [10.00000001  5.00000001  5.00000001]
+new classifier utility = [0.]
+classifier added
+____iterstion: 4
+Points utilities = [[5.93118319 5.93118538 8.98866871]]
+new point utility = 9.981909732235017
+new point = [1.39006119]
+point added
+3
+____iterstion: 5
+Points utilities = [[8.73610214 8.73610321 9.55044839 9.98190972]]
+new point utility = 9.981909653573176
+new point = [1.39006105]
+3
+classifier utilities = [9.98190987 9.98190987 9.98190987 9.9819098 ]
+new classifier utility = [7.03234958e-08]
+classifier added
+____iterstion: 6
+Points utilities = [[6.68356884 3.08414878 8.98866872 7.18532313]]
+new point utility = 9.954787380130302
+new point = [1.34753451]
+point added
+3
+____iterstion: 7
+Points utilities = [[8.74040341 8.24058988 9.55075695 9.31266596 9.95478737]]
+new point utility = 9.954787519705217
+new point = [1.34753471]
+3
+classifier utilities = [9.95478764 9.95478761 9.95478763 9.95478751 9.95478758]
+new classifier utility = [1.29896775e-07]
+classifier added
+____iterstion: 8
+Points utilities = [[7.11233956 5.87150531 8.98866849 5.83862103 7.63876835]]
+new point utility = 9.937493340264627
+new point = [1.3273628]
+point added
+3
+____iterstion: 9
+Points utilities = [[8.77209217 8.46527191 9.5493139  8.85211595 9.22672251 9.93749337]]
+new point utility = 9.93749440255178
+new point = [1.3273639]
+3
+classifier utilities = [9.93749377 9.93749373 9.93749374 9.93749359 9.93749372 9.93749368]
+new classifier utility = [1.74255802e-07]
+classifier added
+____iterstion: 10
+Points utilities = [[7.83680918 7.25167274 9.46426949 7.2073616  8.12043576 9.46426949]]
+new point utility = 9.924999505988486
+new point = [1.31455088]
+point added
+3
+classifier utilities = [9.96238934 9.9623893  9.96238932 4.98119464 9.9623893  9.96238925
+ 4.9811947 ]
+new classifier utility = [0.]
+classifier added
+____iterstion: 11
+Points utilities = [[8.08826147 7.50049219 9.61823141 7.60050782 8.37537967 9.61823141
+  9.61823141]]
+new point utility = 9.90112397712341
+new point = [1.29285079]
+point added
+3
+____iterstion: 12
+Points utilities = [[8.93310353 8.69466057 9.58593582 8.86255124 9.14381564 9.53272444
+  9.75289963 9.90112398]]
+new point utility = 9.901123757745081
+new point = [1.2928506]
+3
+classifier utilities = [9.90112401 9.90112401 9.90112401 9.901124   9.90112401 9.90112401
+ 9.901124   9.90112399]
+new classifier utility = [1.68086951e-08]
+classifier added
+____iterstion: 13
+Points utilities = [[8.46269706 8.08494417 9.6892155  8.04450974 8.74626153 9.6892155
+  9.68921549 9.6892155 ]]
+new point utility = 9.836938382902208
+new point = [1.24551006]
+point added
+3
+classifier utilities = [9.93765721 9.93765719 9.93765719 7.45324331 9.93765718 9.93765716
+ 7.45324358 2.48441419 7.45324302]
+new classifier utility = [0.]
+classifier added
+____iterstion: 14
+Points utilities = [[9.19661774 9.04346188 9.69271884 9.1646152  9.35378476 9.65286538
+  9.76807949 9.65674216 9.83693838]]
+new point utility = 9.83719252196464
+new point = [1.24567578]
+3
+classifier utilities = [9.83693873 9.83693871 9.83693871 9.83693861 9.8369387  9.83693869
+ 9.83693864 9.83693833 9.83693868 9.83693875]
+new classifier utility = [4.40327765e-07]
+classifier added
+____iterstion: 15
+Points utilities = [[8.6918949  8.39007767 9.68921551 8.38331547 8.93380506 9.6892155
+  9.6892155  9.68921551 8.84082479]]
+new point utility = 9.689216146163005
+new point = [1.31455152]
+3
+Objective = 9.689215511154584
+Number of iterations = 16
+Support of attacker = 4
+Support of classifier = 11
+Size of game = (9, 11)
