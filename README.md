@@ -64,3 +64,7 @@ weights:        0 -> benign points has weight 1
                             misclassification change,
                     None  - unlimited
                     First - the addition of the first better
+                   
+# Authors:
+
+Ondřej Skoumal, Prokop Šilhavý
