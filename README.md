@@ -4,40 +4,40 @@ Classifiers are used in security to classify the actions of an adversary as mali
 
 # Simple usage:
     
-python main.py function points fp_threshold algorithm *params
-        [optimizer] [step] [weights]
+    python main.py function points fp_threshold algorithm *params
+            [optimizer] [step] [weights]
 
-function:       0 -> Linear utility
-                1 -> Utility with one maximum
-                2 -> Utility with two maxima
-            
-points:         a path to the *.npy file with the benign points
+    function:       0 -> Linear utility
+                    1 -> Utility with one maximum
+                    2 -> Utility with two maxima
 
-fp_threshold:   float - a number between 0 and 1 to limit
-                        a false-positive rate
-                None  - algorithm expects classifier
-                        with hard false-positive constraint
-                
-algorithm:      discretization -> discretization algorithm
-                SVM            -> Double Oracle with SVM classifier
-                NN             -> Double Oracle with neural network
-                DT             -> Double Oracle with decision tree
+    points:         a path to the *.npy file with the benign points
 
-optimizer:      0 -> discretization optimizer
-                1 -> Basin-Hopping optimizer with discretization
-                2 -> Basin-Hopping optimizer
-                
-step:           0 -> simultaneous computation of the attacker's BR
-                1 -> alternating computation of the attacker's BR
-                2 -> simultaneous computation of the attacker's BR
-                        on weighted a few strategies in history
-                
-weights:        0 -> benign points has weight 1
-                1 -> benign points has weight 1/n
-                
-                
-                
-*params:        depends on the algorithm settings
+    fp_threshold:   float - a number between 0 and 1 to limit
+                            a false-positive rate
+                    None  - algorithm expects classifier
+                            with hard false-positive constraint
+
+    algorithm:      discretization -> discretization algorithm
+                    SVM            -> Double Oracle with SVM classifier
+                    NN             -> Double Oracle with neural network
+                    DT             -> Double Oracle with decision tree
+
+    optimizer:      0 -> discretization optimizer
+                    1 -> Basin-Hopping optimizer with discretization
+                    2 -> Basin-Hopping optimizer
+
+    step:           0 -> simultaneous computation of the attacker's BR
+                    1 -> alternating computation of the attacker's BR
+                    2 -> simultaneous computation of the attacker's BR
+                            on weighted a few strategies in history
+
+    weights:        0 -> benign points has weight 1
+                    1 -> benign points has weight 1/n
+
+
+
+    *params:        depends on the algorithm settings
 
     discretization:
         density: int  - density of sampling
